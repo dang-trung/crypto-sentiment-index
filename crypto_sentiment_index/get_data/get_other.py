@@ -5,13 +5,12 @@ This module defines the functions that download the dataseries of: crypto
 daily (global, market-aggregated) trading volume, Google Trends, Financial
 Times headlines related to cryptocurrencies.
 """
+# Get trading volume
 import pandas as pd
 import requests
 
 import crypto_sentiment_index.get_data.convert_ts as convert
 
-
-# Get trading volume
 
 def get_trade_vol(start_unix, end_unix, filename):
     """
@@ -58,12 +57,63 @@ def get_trade_vol(start_unix, end_unix, filename):
 
 
 # Get Google Trends data
+import os
 from pytrends import dailydata
 
-search_volume = dailydata.get_daily_data('bitcoin', 2014, 11, 2020, 7, geo='')
-search_volume = search_volume.drop(['bitcoin_unscaled', 'bitcoin_monthly',
-                                    'scale', 'isPartial'], axis=1)
-search_volume.to_csv('data/indirect/google_volume.csv')
+
+def get_daily_trend(kw, start_unix, end_unix, filename):
+    """
+    Get Google Trends Data
+
+    Parameters
+    ----------
+    kw : str
+        DESCRIPTION.
+    start_unix : int
+        Epoch (Unix) Time in Seconds.
+    end_unix : int
+        Epoch (Unix) Time in Seconds.
+    filename : str
+        File Path.
+
+    Returns
+    -------
+    NoneType
+        None.
+
+    """
+    
+    if os.stat(filename).st_size == 0:  # If the file is blank
+        last_start_unix = None
+    else:  # Otherwise set the last start_unix date
+        last_start_unix = pd.read_csv(filename, index_col='Date').index[-1]
+        last_start_unix = convert.ts_to_unix(last_start_unix)
+
+    # Set the start_unix date of our function as the last_start_unix
+    if last_start_unix is not None and start_unix < last_start_unix:
+        start_unix = last_start_unix  
+
+    start = convert.unix_to_ts(start_unix)
+    end = convert.unix_to_ts(end_unix)
+
+    year_start = start.year
+    month_start = start.month
+
+    year_end = end.year
+    month_end = end.month
+
+    search_volume = dailydata.get_daily_data(kw, year_start, month_start,
+                                             year_end, month_end, geo='')
+    search_volume.drop(search_volume.columns[0:4], axis=1, inplace=True)
+    search_volume['Date'] = search_volume.index
+    search_volume['Date'] = search_volume['Date'].apply(convert.date_to_str)
+    search_volume.set_index('Date', inplace=True)
+    search_volume.rename({kw: 'Search Volume'}, axis=1, inplace=True)
+
+    with open(filename, 'a') as f:
+        search_volume.to_csv(f, header=(f.tell() == 0))
+    print(f'Finished! Updated from {start} to {end}')
+
 
 # Get FT headlines
 from bs4 import BeautifulSoup

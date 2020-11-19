@@ -107,7 +107,7 @@ def get_reddit_subs(subreddit, start_unix, end_unix, filename):
             csvfile.writerow(obj)
             file.flush()
     file.close()
-    print(f"DONE {subreddit}")
+    print(f"Done {subreddit}!")
     print("-----------------")
 
 
@@ -199,7 +199,7 @@ def get_reddit_cmts(subreddit, start_unix, end_unix, filename):
                 csvfile.writerow(obj)
                 file.flush()
     file.close()
-    print(f"DONE {subreddit}")
+    print(f"Done {subreddit}!")
     print("-----------------")
 
 
@@ -265,7 +265,7 @@ def get_reddit_vol(subreddits, start_unix, end_unix, freq, filename=None,
     reddit_vol = pd.DataFrame(columns=['count', 'date'])
     reddit_vol['count'] = dfs_reddit_vol[0]['doc_count'] + dfs_reddit_vol[1][
         'doc_count']
-    reddit_vol['date'] = df_reddit_vol['key']
+    reddit_vol['date'] = dfs_reddit_vol['key']
     reddit_vol['date'] = pd.to_datetime(reddit_vol['date'], unit='s')
     reddit_vol = reddit_vol.set_index('date')
 
@@ -275,7 +275,7 @@ def get_reddit_vol(subreddits, start_unix, end_unix, freq, filename=None,
         return reddit_vol
 
 
-# Total submissions & comments volume (# Temporarily Disabled by Pushshift)
+# Total submissions & comments volume (Temporarily Disabled by Pushshift)
 def get_reddit_total_vol(subreddits, start_unix, end_unix, freq,
                          filename=None):
     """

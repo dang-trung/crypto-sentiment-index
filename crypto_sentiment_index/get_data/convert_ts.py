@@ -65,3 +65,17 @@ def remove_tz(ts):
 
     """
     return ts.replace('T', ' ').replace('Z', '')
+
+
+def date_to_str(ts):
+    """
+
+    Parameters
+    ----------
+    ts :
+
+    Returns
+    -------
+
+    """
+    return ts.strftime('%Y-%m-%d %H:%M:%S')
