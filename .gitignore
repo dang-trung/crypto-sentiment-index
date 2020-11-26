@@ -1,29 +1,41 @@
-# text data (too big to be uploaded to Github)
-data/reddit_comments.csv
-data/reddit_submissions.csv
-data/stocktwits.csv
-data/stocktwits/
-data/reddit/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# virtualenv
+# Environments
 .venv/
 venv/
 ENV/
+.env
+.python-version
 
 # Spyder project settings
 /.spyproject/
 
-# pyenv
-.python-version
+# PyCharm project settings
+/.idea/
 
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
 
-# dotenv
-.env
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+/*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
