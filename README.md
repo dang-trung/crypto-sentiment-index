@@ -9,7 +9,7 @@
     <img src="https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">A Composite Cryptocurrency Sentiment Index</h3>
+  <h3 align="center">A Composite Sentiment Index for the Cryptocurrency Market</h3>
 </p>
   <p align="center">
     Generation & Return Predictability.
@@ -18,7 +18,7 @@
 ## Project Description
 ### Introduction
 
-* **Objective**: Project for my Master's Graduation Thesis.
+* **Objective**: Master's Degree Graduation Thesis.
 
 * **Abstract**:
 
