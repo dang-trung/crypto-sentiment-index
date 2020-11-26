@@ -18,7 +18,7 @@
 ## Project Description
 ### Introduction
 
-* **Objective**:
+* **Objective**: Project for my Master's Graduation Thesis.
 
 * **Abstract**:
 
