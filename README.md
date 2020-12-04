@@ -68,7 +68,7 @@ https://luciopaiva.com/markdown-toc/
 ### Project Structure
 ```
 ├─ data                      
-│  ├─ 00_external            <- Rules in .csv file for sentiment analysis/text processing
+│  ├─ 00_external            <- Contain rules for sentiment analysis & text processing
 │  ├─ 01_raw                 <- Immutable text messages retrieved from stockTwits/reddit
 │  └─ 02_processed           <- Data used to developed models
 │     ├─ direct              <- Direct sentiment indicators
