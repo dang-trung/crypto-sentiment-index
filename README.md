@@ -12,7 +12,7 @@
   <h3 align="center">A Composite Sentiment Index for the Cryptocurrency Market</h3>
 </p>
   <p align="center">
-    Generation & Return Predictability.
+    Sentiment Measurement & Return Predictability.
   </p>
 
 ## Project Description
@@ -20,14 +20,14 @@
 
 * **Objective**: Master's Degree Graduation Thesis.
 
-* **Abstract**:
+* **Abstract**: Constructed a comprehensive list of 9 sentiment indicators in crypto market and combined these indicators into one single sentiment index. Proved the index to be an excellent predictor of crypto market returns using VAR models and Granger-Causality tests.
 
-* **Status**: [Active, On-Hold, Completed]
+* **Status**: Completed
 
 ### Methods Used
-* Method 1
-* Method 2
-* Method 3
+* Sentiment Analysis (Utilizing a crypto-specific lexicon created by [Chen et al, 2019](dx.doi.org/10.2139/ssrn.3398423))
+* Principal Component Analysis
+* Vector Autoregression Models
 
 ### Dependencies
 * Python 3
@@ -40,13 +40,26 @@
 * nltk==3.5
 * beautifulsoup4==4.9.3
 
-
-
-### Cool Results
+### Interesting Results to Keep You Reading
+* It is the **first time** (to my knowledge) that one follows a composite approach to create a sentiment index for the cryptocurrency market (i.e. combining multiple sentiment indicators into one index, the idea is to create an index that could remains stable and useful for a long period of time, according to [Brown & Cliff, 2004](https://doi.org/10.1016/j.jempfin.2002.12.001))
+* The VAR model shows that the lagged values of my sentiment index are **significantly correlated** with the daily returns of the crypto market (at lag 1, 3, 4, 5).
+* Granger-Causality tests show that the sentiment index is an **excellent predictor** of cryptocurrency returns.
+* Over a period of 5+ years (12/2014 - 07/2020), a sentiment-based trading strategy was backtested and generated a portfolio equalling **320x** the original portfolio (compared to around 40x if we just simply hold the market index. Note that during this time, the crypto market exploded exponentially in size, hence resulting in this *seemingly crazy* returns).
+[!alttext](https://github.com/dang-trung/crypto-sentiment-index/blob/master/output/01_figures/strat.svg
 
 ## Table of Contents
-https://luciopaiva.com/markdown-toc/
-
+- [Project Description](#project-description)
+  - [Introduction](#introduction)
+  - [Methods Used](#methods-used)
+  - [Dependencies](#dependencies)
+  - [Interesting Results to Keep You Reading](#interesting-results-to-keep-you-reading)
+- [Table of Contents](#table-of-contents)
+- [Getting Started](#getting-started)
+  - [How to Run](#how-to-run)
+  - [Project Structure](#project-structure)
+  - [Dependent Variable](#dependent-variable)
+  - [Sentiment Indicators](#sentiment-indicators)
+- [Read More](#read-more)
 ## Getting Started
 
 ### How to Run
@@ -107,15 +120,29 @@ https://luciopaiva.com/markdown-toc/
 
 ```
 
-### Data Storage
-1.  
-2.  
-3.
+### Dependent Variable
+Cryptocurrency market returns (computed using the market index CRIX,
+retrieved [here](http://data.thecrix.de/data/crix.json),
+see more on how the index is created at [Trimborn & Härdle (2018)](https://doi.org/10.1016/j.jempfin.2018.08.004)
+or [those authors' website](https://thecrix.de/).)
 
-## Results
+### Sentiment Indicators
+* Sentiment score of Messages on StockTwits, Reddit Submissions, Reddit Comments
+  * Computed using dictionary-based sentiment analysis, lexicon used: crypto-specific lexicon by [Chen et al (2019)](http://dx.doi.org/10.2139/ssrn.3398423),
+  retrieved at the main author's [personal page](https://sites.google.com/site/professorcathychen/resume).
+  * StockTwits messages are retrieved through [StockTwits Public API](https://api.stocktwits.com/developers),
+    Reddit data are retrieved using [PushShift.io Reddit API](https://github.com/pushshift/api).
+* Messages volume on StockTwits, Reddit Submissions, Reddit Comments.
+* Market volatility index VCRIX (see how the index is created: [Kolesnikova (2018)](https://edoc.hu-berlin.de/bitstream/handle/18452/20056/master_kolesnikova_alisa.pdf?sequence=3&isAllowed=y), retrieved [here](http://data.thecrix.de/data/crix11.json).)
+* Market trading volume (retrieved using [Nomics Public API](https://docs.nomics.com/))
+
+The sentiment index is simply the **first principal component** of these 9 indicators.
+
 
 ## Read More
-For better understanding of the project, kindly read the [report]([link-to-report]).
+For better understanding of the project, kindly read:
+* the analysis chapters [here](https://github.com/dang-trung/crypto-sentiment-index/blob/master/output/02_reports/report_chapters.pdf).
+* Or the full thesis [here](https://github.com/dang-trung/crypto-sentiment-index/blob/master/output/02_reports/full_thesis.pdf) 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=social&logo=github&colorB=555
