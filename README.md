@@ -44,8 +44,9 @@
 * It is the **first time** (to my knowledge) that one follows a composite approach to create a sentiment index for the cryptocurrency market (i.e. combining multiple sentiment indicators into one index, the idea is to create an index that could remains stable and useful for a long period of time, according to [Brown & Cliff, 2004](https://doi.org/10.1016/j.jempfin.2002.12.001))
 * The VAR model shows that the lagged values of my sentiment index are **significantly correlated** with the daily returns of the crypto market (at lag 1, 3, 4, 5).
 * Granger-Causality tests show that the sentiment index is an **excellent predictor** of cryptocurrency returns.
-* Over a period of 5+ years (12/2014 - 07/2020), a sentiment-based trading strategy was backtested and generated a portfolio equalling **320x** the original portfolio (compared to around 40x if we just simply hold the market index. Note that during this time, the crypto market exploded exponentially in size, hence resulting in this *seemingly crazy* returns).
-[!alttext](https://github.com/dang-trung/crypto-sentiment-index/blob/master/output/01_figures/strat.svg
+* Over a period of 5+ years (12/2014 - 07/2020), a sentiment-based trading strategy was backtested and generated a portfolio equalling **320x** the original portfolio (compared to around 40x if we just simply hold the market index. Note that during this time, the crypto market exploded exponentially in size, hence resulting in this *seemingly crazy* returns).  
+
+![alttext](https://github.com/dang-trung/crypto-sentiment-index/blob/master/output/01_figures/strat.svg)
 
 ## Table of Contents
 - [Project Description](#project-description)
