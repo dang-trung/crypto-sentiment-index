@@ -142,8 +142,8 @@ The sentiment index is simply the **first principal component** of these 9 indic
 
 ## Read More
 For better understanding of the project, kindly read:
-* the analysis chapters [here](https://github.com/dang-trung/crypto-sentiment-index/blob/master/output/02_reports/report_chapters.pdf).
-* Or the full thesis [here](https://github.com/dang-trung/crypto-sentiment-index/blob/master/output/02_reports/full_thesis.pdf) 
+* the [analysis chapters](https://github.com/dang-trung/crypto-sentiment-index/blob/master/output/02_reports/report_chapters.pdf).
+* Or the [full thesis](https://github.com/dang-trung/crypto-sentiment-index/blob/master/output/02_reports/full_thesis.pdf). 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [github-shield]: https://img.shields.io/badge/-GitHub-black.svg?style=social&logo=github&colorB=555
