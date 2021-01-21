@@ -66,18 +66,18 @@
 ### How to Run
 (`$` indicates these are terminal commands)
 1. Clone this repo:
-`$ git clone [repo-link]`
+`$ git clone https://github.com/dang-trung/crypto-sentiment-index/`
 2. Create your environment (virtualenv):  
 `$ virtualenv -p python3 venv`  
 `$ source venv/bin/activate` (bash) or `venv\Scripts\activate` (windows)   
-`$ (venv) cd [repo-name]`  
+`$ (venv) cd crypto-sentiment-index`  
 `$ (venv) pip install -e`  
 
     Or (conda):  
 `$ conda env create -f environment.yml`  
-`$ conda activate [repo-name]`  
+`$ conda activate crypto-sentiment-index`  
 3. In terminal:  
-`$ python -m [repo-name]`  
+`$ python -m crypto-sentiment-index`  
 
 ### Project Structure
 ```
