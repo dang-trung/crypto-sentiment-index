@@ -68,9 +68,9 @@
 1. Clone this repo:
 `$ git clone https://github.com/dang-trung/crypto-sentiment-index/`
 2. Create your environment (virtualenv):  
+`$ cd crypto-sentiment-index`  
 `$ virtualenv -p python3 venv`  
 `$ source venv/bin/activate` (bash) or `venv\Scripts\activate` (windows)   
-`$ (venv) cd crypto-sentiment-index`  
 `$ (venv) pip install -e`  
 
     Or (conda):  
