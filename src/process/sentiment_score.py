@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Score sentiment of text messages.
 
 This module defines the function score sentiment based on the

@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Setuptools based setup module.
 
 See:

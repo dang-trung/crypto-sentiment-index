@@ -1,4 +1,5 @@
-"""Visualization.
+#!/usr/bin/env python3
+"""Visualization
 
 This module defines the function to plot the data-series versus each other in
 pre-defined layouts.

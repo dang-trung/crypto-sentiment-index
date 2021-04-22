@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Run package src.process in cmd line.
 
 The package src.process performs text process and sentiment analysis

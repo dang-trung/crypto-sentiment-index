@@ -1,6 +1,7 @@
-"""Docstrings.
+#!/usr/bin/env python3
+"""Getting Messages From StockTwits and Reddit
 
-This module runs.
+Run in the terminal: `python -m src.data`.
 """
 import pandas as pd
 
@@ -10,14 +11,14 @@ from .convert_ts import ts_to_unix
 if __name__ == '__main__':
     # Get StockTwits messages
     start = '2014-11-28 00:00:00'
-    end = '2020-07-25 00:00:00'
+    end = '2021-03-10 00:00:00'
     st_cashtag = pd.read_csv('data/00_external/symbols.csv', header=None)[1]
-    symbols = st_cashtag.to_list()
+    symbols = st_cashtag[st_cashtag.str.endswith('.X')].to_list()
 
     for symbol in symbols:
         try:
             stocktwits.get_tweets(symbol, start, end,
-                                  file_name=f"data/stocktwits/"
+                                  file_name=f"data/01_raw/stocktwits/"
                                             f"{symbol[:-2]}.csv")
         except IndexError:
             print(f"No tweet with {symbol} exists on StockTwits.")

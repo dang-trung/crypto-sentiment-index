@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Time Format Conversion.
+"""Time Format Conversion
 
 This module defines functions that convert time from Unix format to
 Timestamp and vice versa.

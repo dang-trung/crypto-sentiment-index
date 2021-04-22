@@ -109,7 +109,7 @@
 140,DXR,Daxor Corp.,Healthcare,Medical Instruments & Supplies
 141,EAD,Wells Fargo Advantage Income Opportunities Fund,Financial,Closed-End Fund - Debt
 142,EAG,"American Defense Systems, Inc.",Industrial Goods,Aerospace/Defense Products & Services
-143,EAR,HearUSA Inc.,Healthcare,Specialized Health Services
+143,EAR,Eargo Inc.,Healthcare,Specialized Health Services
 144,ECF,Ellsworth Fund Ltd.,Financial,Closed-End Fund - Debt
 146,EGI,Entree Gold Inc.,Basic Materials,Gold
 147,EGO,Eldorado Gold Corp.,Basic Materials,Gold
@@ -132,7 +132,7 @@
 164,EPM,Evolution Petroleum Corp.,Basic Materials,Independent Oil & Gas
 165,ERC,Wells Fargo Advantage Multi-Sector Income Fund,Financial,Closed-End Fund - Debt
 166,ERH,Wells Fargo Advantage Utilities and High Income Fund,Financial,Closed-End Fund - Equity
-167,ESA,Energy Services of America Corporation,Basic Materials,Oil & Gas Equipment & Services
+167,ESOA,Energy Services of America Corporation,Basic Materials,Oil & Gas Equipment & Services
 168,ESP,Espey Manufacturing & Electronics Corp.,Technology,Diversified Electronics
 170,ETCC,Environmental Tectonics Corp.,,
 171,ETF,"Aberdeen Emerging Markets Telecommunications Fund, Inc.",Financial,Closed-End Fund - Equity
@@ -202,7 +202,7 @@
 258,HMG,HMG/Courtland Properties Inc.,Financial,REIT - Retail
 260,HNB,Herald National Bank,Financial,Regional - Northeast Banks
 261,HNW,Pioneer Diversified High Income Trust,,
-262,HOL,China Holdings Acquisition Corp.,,
+262,HOL,Holicity Inc,,
 263,HPJ,"Highpower International, Inc.",Industrial Goods,Industrial Electrical Equipment
 264,HQSM,"HQ Sustainable Maritime Industries, Inc.",Consumer Goods,Farm Products
 265,HRT,Arrhythmia Research Technology Inc.,Healthcare,Medical Appliances & Equipment
@@ -271,7 +271,7 @@
 349,MFN,Minefinders Corp. Ltd.,Basic Materials,Industrial Metals & Minerals
 350,MGH,Minco Gold Corporation,Basic Materials,Gold
 351,MGN,Mines Management Inc.,Basic Materials,Silver
-352,MGT,MGT Capital Investments,Conglomerates,Conglomerates
+352,MGTI,MGT Capital Investments Inc.,Conglomerates,Conglomerates
 353,MHE,BlackRock Massachusetts Health and Education Tax-Exempt Trust,Financial,Closed-End Fund - Debt
 354,MHH,"Mastech Holdings, Inc.",Services,Management Services
 355,MSGNF,"Man Sang International (B.V.I.) Ltd., Prior to Reverse Merger with China Metro-Rural Limited",Services,"Wholesale, Other"
@@ -389,7 +389,7 @@
 498,RVHLQ,Riviera Holdings Corp.,,
 499,RKH,Regional Bank HOLDRs,Financial,Exchange Traded Fund
 502,RNJ,BlackRock New Jersey Investment Quality Municipal Trust,Financial,Closed-End Fund - Debt
-503,REXN,"Rexahn Pharmaceuticals, Inc.",Healthcare,Biotechnology
+503,OCUP,"Ocuphire Pharma, Inc.",Healthcare,Biotechnology
 504,RNY,BlackRock New York Investment Quality Municipal Trust,Financial,Closed-End Fund - Debt
 505,ROX,Castle Brands Inc.,Consumer Goods,Beverages - Wineries & Distillers
 507,RPI,Roberts Realty Investors Inc.,Financial,REIT - Retail
@@ -464,7 +464,7 @@
 602,VFL,Delaware Investments National Municipal Income Fund,Financial,Closed-End Fund - Debt
 603,VGZ,Vista Gold Corp.,Basic Materials,Gold
 604,VHC,VirnetX Holding Corp,Technology,Internet Software & Services
-605,VII,Vicon Industries Inc.,Technology,Diversified Electronics
+605,VCON,Vicon Industries Inc.,Technology,Diversified Electronics
 606,VKI,Invesco Van Kampen Advantage Municipal Income Trust II,Financial,Closed-End Fund - Debt
 607,VKL,Invesco Van Kampen Select Sector Municipal Trust,Financial,Closed-End Fund - Debt
 608,VMM,Delaware Investments Minnesota Municipal Income Fund II,Financial,Closed-End Fund - Debt
@@ -488,7 +488,7 @@
 630,XRA,Exeter Resource Corporation,Basic Materials,Gold
 631,YMI,YM BioSciences Inc.,Healthcare,Biotechnology
 632,ESNC,EnSync Inc.,Industrial Goods,Industrial Electrical Equipment
-633,ZN,"Zion Oil & Gas, Inc.",Basic Materials,Oil & Gas Equipment & Services
+633,ZNOG,"Zion Oil & Gas, Inc.",Basic Materials,Oil & Gas Equipment & Services
 634,6A_F,AUD/USD Futures,,
 635,6B_F,GBP/USD Futures,,
 636,6C_F,CAD/USD Futures,,
@@ -563,7 +563,7 @@
 709,ACAT,Arctic Cat Inc.,Consumer Goods,Recreational Vehicles
 711,ACCL,Accelrys Inc.,Technology,Application Software
 712,ACEL,"Tamir Biotechnology, Inc.",Healthcare,Biotechnology
-713,ACET,Aceto Corp.,Basic Materials,Chemicals - Major Diversified
+713,ACET,Adicet,Basic Materials,Chemicals - Major Diversified
 714,ACFC,Atlantic Coast Federal Corporation,Financial,Regional - Southeast Banks
 715,ACFN,"Acorn Energy, Inc.",Services,Technical Services
 716,ACGL,Arch Capital Group Ltd.,Financial,Property & Casualty Insurance
@@ -712,7 +712,7 @@
 892,APPA,AP Pharma Inc.,Healthcare,Drug Manufacturers - Major
 893,APPY,"Venaxis, Inc.",Healthcare,Diagnostic Substances
 894,APSA,Alto Palermo S.A.,Financial,Property Management
-895,APSG,"Applied Signal Technology, Inc.",Technology,Communication Equipment
+895,APSG,Apollo Strategic growth Capital,Technology,Communication Equipment
 896,APWR,"A-Power Energy Generation Systems, Ltd.",Utilities,Electric Utilities
 899,ARAY,Accuray Incorporated,Healthcare,Medical Appliances & Equipment
 900,ARBA,Ariba Inc.,Technology,Internet Software & Services
@@ -732,7 +732,7 @@
 916,AROW,Arrow Financial Corporation,Financial,Regional - Northeast Banks
 917,ARQL,ArQule Inc.,Healthcare,Biotechnology
 918,ARRS,Arris Group Inc.,Technology,Communication Equipment
-919,ARRY,"Array BioPharma, Inc.",Healthcare,Biotechnology
+919,ARRY,Array Technologies,Healthcare,Biotechnology
 920,ARSD,Arabian American Development Company,Basic Materials,Oil & Gas Refining & Marketing
 921,ARST,"ArcSight, Inc.",Technology,Business Software & Services
 922,ARTC,ArthroCare Corporation,Healthcare,Medical Appliances & Equipment
@@ -742,7 +742,7 @@
 928,ARTW,Art's-Way Manufacturing Co. Inc.,Industrial Goods,Farm & Construction Machinery
 929,ARTX,Arotech Corp.,Industrial Goods,Industrial Electrical Equipment
 930,ARUN,"Aruba Networks, Inc.",Technology,Networking & Communication Devices
-931,ARWR,Arrowhead Research Corp.,Healthcare,Biotechnology
+931,ARWR,"Arrowhead Pharmaceuticals, Inc",Healthcare,Biotechnology
 932,ARYX,"ARYx Therapeutics, Inc.",Healthcare,Drug Manufacturers - Other
 933,ASB,Associated Banc-Corp,Financial,Regional - Midwest Banks
 934,ASBI,Ameriana Bancorp,Financial,Savings & Loans
@@ -851,7 +851,7 @@
 1058,BEXP,Brigham Exploration Co.,Basic Materials,Independent Oil & Gas
 1060,BFED,"Beacon Federal Bancorp, Inc.",Financial,Savings & Loans
 1061,BFIN,BankFinancial Corp.,Financial,Savings & Loans
-1062,BFLY,Bluefly Inc.,Services,"Specialty Retail, Other"
+1062,BFLY,Butterfly Network Ord Shs Class A,Services,"Specialty Retail, Other"
 1066,BFSB,Brooklyn Federal Bancorp Inc.,Financial,Savings & Loans
 1067,BGCP,"BGC Partners, Inc.",Financial,Investment Brokerage - National
 1068,BGFV,Big 5 Sporting Goods Corp.,Services,Sporting Goods Stores
@@ -1104,7 +1104,7 @@
 1383,COGO,"Cogo Group, Inc.",Technology,Diversified Electronics
 1385,COHR,Coherent Inc.,Technology,Scientific & Technical Instruments
 1387,COHU,"Cohu, Inc.",Technology,Semiconductor Equipment & Materials
-1388,COIN,Converted Organics Inc.,Basic Materials,Agricultural Chemicals
+1388,COIN,Coinbase,Basic Materials,Agricultural Chemicals
 1389,COINW,Converted Organics Inc.,,
 1390,COINZ,Converted Organics Inc.,,
 1391,COKE,Coca-Cola Bottling Co. Consolidated,Consumer Goods,Beverages - Soft Drinks
@@ -1136,7 +1136,7 @@
 1428,CPST,Capstone Turbine Corp.,Industrial Goods,Industrial Electrical Equipment
 1429,CPTS,"Conceptus, Inc.",Healthcare,Medical Instruments & Supplies
 1430,CPWM,Cost Plus Inc.,Services,Department Stores
-1431,CPWR,Compuware Corporation,Technology,Application Software
+1431,CPWR,Ocean Thermal Energy Corp,Technology,Application Software
 1432,CRA,Celera Corporation,Services,Research Services
 1433,CRAI,CRA International Inc.,Services,Management Services
 1434,CRAY,Cray Inc.,Technology,Diversified Computer Systems
@@ -1292,7 +1292,7 @@
 1624,DORM,"Dorman Products, Inc.",Consumer Goods,Auto Parts
 1626,DOVR,"Dover Saddlery, Inc.",Services,Sporting Goods Stores
 1628,DPTR,Delta Petroleum Corp.,Basic Materials,Independent Oil & Gas
-1629,DRAD,Digirad Corporation,Healthcare,Medical Appliances & Equipment
+1629,STRR,Digirad Corporation,Healthcare,Medical Appliances & Equipment
 1630,USAU,U.S. Gold Corp.,Technology,Data Storage Devices
 1631,DRCO,Dynamics Research Corp.,Technology,Information Technology Services
 1632,DRIV,GLOBAL X AUTONOM ELECTRIC VEHICL ETF,Technology,Internet Software & Services
@@ -1300,7 +1300,7 @@
 1634,DRRX,Durect Corp.,Healthcare,Drug Manufacturers - Other
 1635,DRYS,"DryShips, Inc.",Services,Shipping
 1636,DSCM,Drugstore.com Inc.,Services,Catalog & Mail Order Houses
-1637,WINTD,"Wintree Therapeutics, Inc. ",Healthcare,Biotechnology
+1637,WINT,"Wintree Therapeutics, Inc. ",Healthcare,Biotechnology
 1638,DSGX,Descartes Systems Group Inc.,Technology,Business Software & Services
 1639,DSPG,DSP Group Inc.,Technology,Semiconductor - Integrated Circuits
 1640,DSTI,DayStar Technologies Inc.,Technology,Semiconductor - Specialized
@@ -1387,7 +1387,7 @@
 1754,EPHC,"Epoch Investment Partners, Inc.",Financial,Asset Management
 1757,EPIQ,"EPIQ Systems, Inc.",Technology,Information Technology Services
 1759,EQIX,"Equinix, Inc.",Technology,Internet Software & Services
-1760,ERT,eResearch Technology Inc.,Healthcare,Medical Laboratories & Research
+1760,ERES,East Resources Acquisition Company,Healthcare,Medical Laboratories & Research
 1761,ERIC,LM Ericsson Telephone Co.,Technology,Communication Equipment
 1762,ERIE,Erie Indemnity Co.,Financial,Insurance Brokers
 1763,ERII,"Energy Recovery, Inc.",Industrial Goods,Pollution & Treatment Controls
@@ -1543,7 +1543,7 @@
 1948,FSIN,"Fushi Copperweld, Inc.",Industrial Goods,Industrial Electrical Equipment
 1949,FSLR,"First Solar, Inc.",Technology,Semiconductor - Specialized
 1950,FSNM,First State Bancorp.,Financial,Regional - Southwest  Banks
-1951,FSRV,FirstService Corp.,Financial,Property Management
+1951,FSRV,FinServ Acquisition Corp,Financial,Property Management
 1953,FSTR,LB Foster Co.,Services,Basic Materials Wholesale
 1954,FSYS,"Fuel Systems Solutions, Inc.",Consumer Goods,Auto Parts
 1955,FTBK,Frontier Financial Corporation,Financial,Regional - Pacific Banks
@@ -1619,7 +1619,7 @@
 2044,GOOG,Alphabet Inc. Class C,Technology,Internet Information Providers
 2045,GORXQ,GeoPharma Inc.,Healthcare,Drug Manufacturers - Major
 2047,GPIC,Gaming Partners International Corporation,Consumer Goods,Toys & Games
-2048,GPOR,Gulfport Energy Corp.,Basic Materials,Independent Oil & Gas
+2048,GPORQ,Gulfport Energy Corp.,Basic Materials,Independent Oil & Gas
 2049,GPRE,"Green Plains Renewable Energy, Inc.",Basic Materials,Specialty Chemicals
 2051,GPRO,GoPro,Services,Research Services
 2052,GRAN,Bank of Granite Corporation,Financial,Regional - Mid-Atlantic Banks
@@ -1831,7 +1831,7 @@
 2305,INPH,Interphase Corp.,Technology,Computer Peripherals
 2306,INSM,Insmed Incorporated,Healthcare,Biotechnology
 2307,INSP,"Inspire Medical Systems, Inc ",Technology,Internet Information Providers
-2308,INSU,Insituform Technologies Inc.,Industrial Goods,Heavy Construction
+2308,SFT,"SHIFT TECHNOLOGIES, INC.",Industrial Goods,Heavy Construction
 2309,INSW,International Seaways Inc.,Services,Business Services
 2310,INTC,Intel Corporation,Technology,Semiconductor - Broad Line
 2311,INTG,InterGroup Corp.,Financial,Property Management
@@ -1944,7 +1944,7 @@
 2438,KNXA,Kenexa Corp.,Technology,Business Software & Services
 2439,KONA,Kona Grill Inc.,Services,Restaurants
 2440,KZ,KongZhong Corp.,Technology,Multimedia & Graphics Software
-2441,THMO,Cesca Therapeutics,Healthcare,Medical Appliances & Equipment
+2441,THMO,Thermogenesis Holdings Inc,Healthcare,Medical Appliances & Equipment
 2442,KOPN,Kopin Corp.,Technology,Semiconductor - Broad Line
 2444,KOSS,Koss Corp.,Consumer Goods,Electronic Equipment
 2447,KRNY,Kearny Financial Corp.,Financial,Savings & Loans
@@ -1978,14 +1978,14 @@
 2479,LCUT,"Lifetime Brands, Inc.",Consumer Goods,Housewares & Accessories
 2480,LDIS,Leadis Technology Inc.,,
 2481,LDSH,Ladish Co. Inc.,Industrial Goods,Metal Fabrication
-2482,LEAP,Leap Wireless International Inc.,Technology,Wireless Communications
+2482,LEAP,Ribbit LEAP,Technology,Wireless Communications
 2483,LECO,Lincoln Electric Holdings Inc.,Industrial Goods,Small Tools & Accessories
 2484,LEDR,"Market Leader, Inc.",Technology,Application Software
 2485,LEGC,Legacy Bancorp Inc.,Financial,Regional - Northeast Banks
 2488,LFUS,Littelfuse Inc.,Industrial Goods,Industrial Electrical Equipment
 2490,LGCY,Legacy Reserves Lp,Basic Materials,Oil & Gas Drilling & Exploration
 2491,LGND,Ligand Pharmaceuticals Inc.,Healthcare,Drugs - Generic
-2493,LGVN,LogicVision Inc.,,
+2493,LGVN,Longeveron Inc,,
 2495,LHCG,"LHC Group, Inc.",Healthcare,Home Health Care
 2496,LIFE,aTyr Pharma,Healthcare,Medical Laboratories & Research
 2498,LIMC,Limco-Piedmont Inc.,,
@@ -2126,7 +2126,7 @@
 2670,MIND,Mitcham Industries Inc.,Technology,Scientific & Technical Instruments
 2671,MINI,"Mobile Mini, Inc.",Consumer Goods,Packaging & Containers
 2673,MIPS,MIPS Technologies Inc.,Technology,Semiconductor- Memory Chips
-2674,MITI,"Micromet, Inc.",Healthcare,Biotechnology
+2674,MITI,Mitesco Inc,Healthcare,Biotechnology
 2675,MITSY,Mitsui & Co. Ltd.,Conglomerates,Conglomerates
 2677,MKSI,MKS Instruments Inc.,Industrial Goods,Diversified Machinery
 2678,MKTAY,Makita Corp.,Industrial Goods,Small Tools & Accessories
@@ -2163,7 +2163,7 @@
 2717,TELL,Tellurian Inc,Basic Materials,Independent Oil & Gas
 2718,MPWR,Monolithic Power Systems Inc.,Technology,Semiconductor - Specialized
 2720,MRCY,"Mercury Computer Systems, Inc.",Technology,Computer Peripherals
-2721,MRGE,Merge Healthcare Incorporated.,Technology,Healthcare Information Services
+2721,MRGE,Mirage Energy,Technology,Healthcare Information Services
 2722,MRLN,Marlin Business Services Corp.,Financial,Mortgage Investment
 2723,MRNA,"Moderna, Inc.",Healthcare,Biotechnology
 2724,MROE,Monroe Bancorp,Financial,Regional - Mid-Atlantic Banks
@@ -2254,7 +2254,7 @@
 2854,NICK,Nicholas Financial Inc.,Financial,Credit Services
 2855,NIHD,NII Holdings Inc.,Technology,Wireless Communications
 2856,NILE,Blue Nile Inc.,Services,Jewelry Stores
-2857,NINE,Ninetowns Internet Technology Group Company Limited,Technology,Business Software & Services
+2857,NINE,Nine Energy Service Inc,Technology,Business Software & Services
 2859,NKSH,National Bankshares Inc.,Financial,Regional - Mid-Atlantic Banks
 2860,NKTR,Nektar Therapeutics,Healthcare,Biotechnology
 2862,NLST,Netlist Inc.,Technology,Semiconductor- Memory Chips
@@ -2358,7 +2358,7 @@
 2988,ONTY,Oncothyreon Inc,Healthcare,Biotechnology
 2989,ONVI,Onvia Inc.,Services,Business Services
 2990,ONXX,Onyx Pharmaceuticals Inc.,Healthcare,Biotechnology
-2991,OPEN,"OpenTable, Inc.",Technology,Internet Information Providers
+2991,OPEN,Opendoor Technologies,Technology,Internet Information Providers
 2992,OPHC,OptimumBank Holdings Inc.,Financial,Regional - Mid-Atlantic Banks
 2993,OPLK,Oplink Communications Inc.,Technology,Semiconductor - Integrated Circuits
 2995,OPNT,Opiant Pharmaceuticals Inc,Technology,Application Software
@@ -2447,7 +2447,7 @@
 3101,PEDH,"Peoples Educational Holdings, Inc.",Services,Publishing - Books
 3102,PEET,Peet's Coffee & Tea Inc.,Consumer Goods,Processed & Packaged Goods
 3103,PEGA,Pegasystems Inc.,Technology,Business Software & Services
-3104,PEIX,"Pacific Ethanol, Inc.",Basic Materials,Specialty Chemicals
+3104,ALTO,Alto Ingredients Inc,Basic Materials,Specialty Chemicals
 3105,PENN,Penn National Gaming Inc.,Services,Resorts & Casinos
 3106,PENX,Penford Corporation,Basic Materials,Specialty Chemicals
 3107,PERF,"Perfumania Holdings, Inc.",Services,"Specialty Retail, Other"
@@ -2539,7 +2539,7 @@
 3230,PRSC,Providence Service Corp.,Healthcare,Specialized Health Services
 3231,PB,Prosperity Bancshares Inc.,Financial,Regional - Southwest  Banks
 3232,PRST,Presstek Inc.,Industrial Goods,Diversified Machinery
-3233,PRTS,"U.S. Auto Parts Network, Inc.",Services,Auto Parts Stores
+3233,PRTS,"CarParts.com, Inc",Services,Auto Parts Stores
 3234,PRVT,Private Media Group Inc.,Services,Publishing - Periodicals
 3235,PRWT,Premierwest Bancorp,Financial,Regional - Pacific Banks
 3236,PRXI,Premier Exhibitions Inc.,Services,General Entertainment
@@ -2645,7 +2645,7 @@
 3370,RGDX,"Response Genetics, Inc",Healthcare,Medical Laboratories & Research
 3371,RGEN,Repligen Corporation,Healthcare,Biotechnology
 3372,RGLD,"Royal Gold, Inc.",Basic Materials,Gold
-3373,RGP,Regency Energy Partners LP,Basic Materials,Oil & Gas Pipelines
+3373,RGP,"Resources Connection, Inc.",Basic Materials,Oil & Gas Pipelines
 3376,RICK,"RCI Hospitality Holdings, Inc.",Services,Restaurants
 3377,RIGL,"Rigel Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Major
 3378,RIMG,Rimage Corp.,Technology,Computer Peripherals
@@ -2686,7 +2686,7 @@
 3421,RSTI,Rofin-Sinar Technologies Inc.,Technology,Scientific & Technical Instruments
 3423,RSYS,RadiSys Corporation,Technology,Computer Based Systems
 3424,RTEC,Rudolph Technologies Inc.,Technology,Scientific & Technical Instruments
-3425,RTIX,"RTI Biologics, Inc.",Healthcare,Medical Appliances & Equipment
+3425,SRGA,Surgalign Holdings Inc.,Healthcare,Medical Appliances & Equipment
 3426,RTLX,Retalix Ltd.,Technology,Application Software
 3429,RUSHA,"Rush Enterprises, Inc.",,
 3430,RUSHB,"Rush Enterprises, Inc.",Services,Auto Dealerships
@@ -2767,7 +2767,7 @@
 3516,SHFL,Shuffle Master Inc.,Consumer Goods,"Recreational Goods, Other"
 3517,SHIP,Seanergy Maritime Holdings Corp.,Services,Shipping
 3518,SHIPW,Seanergy Maritime Holdings Corp,,
-3519,SHLD,Sears Holdings Corporation,Services,Department Stores
+3519,SHLDQ,Sears Holdings Corporation,Services,Department Stores
 3520,SHLM,"A. Schulman, Inc.",Basic Materials,Chemicals - Major Diversified
 3521,SHLO,Shiloh Industries Inc.,Consumer Goods,Auto Parts
 3524,SHOO,"Steven Madden, Ltd.",Consumer Goods,Textile - Apparel Footwear & Accessories
@@ -2828,7 +2828,7 @@
 3589,SNIC,Sonic Solutions,Technology,Business Software & Services
 3590,SNMX,Senomyx Inc.,Basic Materials,Specialty Chemicals
 3591,SNPS,Synopsys Inc.,Technology,Semiconductor Equipment & Materials
-3592,SNSS,Sunesis Pharmaceuticals Inc.,Healthcare,Biotechnology
+3592,VIRX,Viracta Therapeutics,Healthcare,Biotechnology
 3593,SNSTA,Sonesta International Hotels Corp.,Services,Lodging
 3594,SNTA,Synta Pharmaceuticals Corp.,Healthcare,Diagnostic Substances
 3595,SNTS,"Santarus, Inc.",Healthcare,Biotechnology
@@ -2951,7 +2951,7 @@
 3742,TACT,TransAct Technologies Incorporated,Technology,Computer Peripherals
 3744,TAIT,Taitron Components Inc.,Services,Electronics Wholesale
 3745,TAMB,Tamalpais Bancorp,Financial,Regional - Pacific Banks
-3746,AAXN,Axon ,Industrial Goods,Aerospace/Defense Products & Services
+3746,AXON,Axon ,Industrial Goods,Aerospace/Defense Products & Services
 3747,TAST,"Carrols Restaurant Group, Inc.",Services,Restaurants
 3749,MFIN,Medallion Financial Corp.,Financial,Credit Services
 3750,TAYC,Taylor Capital Group Inc.,Financial,Regional - Midwest Banks
@@ -3069,7 +3069,7 @@
 3896,TTHI,Transition Therapeutics Inc.,Healthcare,Biotechnology
 3898,TTMI,TTM Technologies Inc.,Technology,Printed Circuit Boards
 3900,TTWO,Take-Two Interactive Software Inc.,Technology,Multimedia & Graphics Software
-3901,TUES,Tuesday Morning Corp.,Services,"Discount, Variety Stores"
+3901,TUEM,Tuesday Morning,Services,"Discount, Variety Stores"
 3903,TUNE,Microtune Inc.,Technology,Semiconductor - Integrated Circuits
 3906,TWER,TowerStream Corporation,Technology,Diversified Communication Services
 3907,TWGP,Tower Group Inc.,Financial,Property & Casualty Insurance
@@ -3241,7 +3241,7 @@
 4116,WMGI,Wright Medical Group Inc.,Healthcare,Medical Appliances & Equipment
 4117,WOLF,"Great Wolf Resorts, Inc.",Services,Resorts & Casinos
 4118,WOOD,iShares S&P Global Timber & Forestry Idx,Financial,Exchange Traded Fund
-4119,WOOF,VCA Antech Inc.,Services,Personal Services
+4119,WOOF,Petco,Services,Personal Services
 4120,DCAR,DropCar,Technology,Diversified Communication Services
 4121,WPPGY,WPP plc,Services,Advertising Agencies
 4122,WPRT,Westport Innovations Inc.,Consumer Goods,Auto Parts
@@ -3290,7 +3290,7 @@
 4176,YDNT,Young Innovations Inc.,Healthcare,Medical Instruments & Supplies
 4177,YHOO,Yahoo! Inc.,Technology,Internet Information Providers
 4178,YORW,York Water Co.,Utilities,Water Utilities
-4179,YRCW,YRC Worldwide Inc.,Services,Trucking
+4179,YELL,Yellow Corp.,Services,Trucking
 4180,YTEC,Yucheng Technologies Limited,Technology,Business Software & Services
 4181,ZANE,Zanett Inc.,Services,Business Services
 4182,ZBRA,Zebra Technologies Corp.,Industrial Goods,Diversified Machinery
@@ -3495,7 +3495,7 @@
 4411,AVY,Avery Dennison Corporation,Consumer Goods,Business Equipment
 4412,AWC,Alumina Ltd.,Basic Materials,Aluminum
 4413,AWF,"AllianceBernstein Global High Income Fund, Inc.",Financial,Closed-End Fund - Debt
-4414,AWH,Allied World Assurance Company Holdings Ltd.,Financial,Property & Casualty Insurance
+4414,AWH,Aspira Women's Health Inc,Financial,Property & Casualty Insurance
 4415,AWI,"Armstrong World Industries, Inc.",Industrial Goods,General Building Materials
 4416,AWK,"American Water Works Company, Inc.",Utilities,Water Utilities
 4417,AWP,Alpine Global Premier Propertie,Financial,Closed-End Fund - Foreign
@@ -3727,9 +3727,9 @@
 4672,CBY,Cadbury plc,Consumer Goods,Confectioners
 4673,CBZ,"CBIZ, Inc.",Services,Business Services
 4674,CCTYQ,Circuit City Stores Inc.,,
-4675,CCC,Calgon Carbon Corporation,Industrial Goods,Pollution & Treatment Controls
+4675,CCC,Clarivate Analytics,Industrial Goods,Pollution & Treatment Controls
 4676,CCE,Coca-Cola Enterprises Inc.,Consumer Goods,Beverages - Soft Drinks
-4677,CCH,Collier Creek Holdings,Consumer Goods,Beverages - Soft Drinks
+4677,UTZ,"Utz Quality Foods, LLC",Consumer Goods,Beverages - Soft Drinks
 4678,CCI,Crown Castle International Corp.,Technology,Diversified Communication Services
 4679,CCJ,Cameco Corp.,Basic Materials,Industrial Metals & Minerals
 4680,CCK,Crown Holdings Inc.,Consumer Goods,Packaging & Containers
@@ -3770,7 +3770,7 @@
 4720,CHG,CH Energy Group Inc.,Utilities,Diversified Utilities
 4721,CHH,Choice Hotels International Inc.,Services,Lodging
 4722,CHI,Calamos Convertible Opportunities & Income Fund,Financial,Closed-End Fund - Debt
-4723,CHK,Chesapeake Energy Corporation,Basic Materials,Independent Oil & Gas
+4723,CHKAQ,Chesapeake Energy Corporation,Basic Materials,Independent Oil & Gas
 4724,CHL,China Mobile Limited,Technology,Wireless Communications
 4725,CHN,"The China Fund, Inc.",Financial,Closed-End Fund - Foreign
 4726,CHHP,"C&D Technologies, Inc.",Technology,Diversified Electronics
@@ -3796,8 +3796,8 @@
 4751,CL,Colgate-Palmolive Co.,Consumer Goods,Personal Products
 4752,CLB,Core Laboratories NV,Basic Materials,Oil & Gas Equipment & Services
 4753,CLC,CLARCOR Inc.,Industrial Goods,Pollution & Treatment Controls
-4754,CLD,Cloud Peak Energy Inc.,Basic Materials,Industrial Metals & Minerals
-4755,CLF,Cliffs Natural Resources Inc.,Basic Materials,Industrial Metals & Minerals
+4754,CLDPQ,Cloud Peak Energy Inc.,Basic Materials,Industrial Metals & Minerals
+4755,CLF,Cleveland-Cliffs Inc.,Basic Materials,Industrial Metals & Minerals
 4756,CLH,"Clean Harbors, Inc.",Industrial Goods,Waste Management
 4757,CLI,Mack-Cali Realty Corp.,Financial,REIT - Office
 4758,CLP,Colonial Properties Trust,Financial,REIT - Residential
@@ -3831,7 +3831,7 @@
 4788,CNQ,Canadian Natural Resources Limited,Basic Materials,Independent Oil & Gas
 4789,CNS,Cohen & Steers Inc.,Financial,Asset Management
 4790,CNW,Con-way Inc.,Services,Trucking
-4791,CNX,CONSOL Energy Inc.,Basic Materials,Industrial Metals & Minerals
+4791,CNX,CNX Resource,Basic Materials,Industrial Metals & Minerals
 4792,CNY,Market Vectors Chinese Renminbi/USD ETN,Financial,Exchange Traded Fund
 4794,COF,Capital One Financial Corp.,Financial,Credit Services
 4795,COG,Cabot Oil & Gas Corporation,Basic Materials,Independent Oil & Gas
@@ -3890,7 +3890,7 @@
 4851,CSX,CSX Corp.,Services,Railroads
 4852,CT,"Capital Trust, Inc.",Financial,Mortgage Investment
 4853,CTB,Cooper Tire & Rubber Co.,Consumer Goods,Rubber & Plastics
-4854,CTL,"CenturyLink, Inc.",Technology,Telecom Services - Domestic
+4854,LUMN,"CenturyLink, Inc.",Technology,Telecom Services - Domestic
 4856,CTS,CTS Corporation,Technology,Diversified Electronics
 4858,CTX,Centex Corporation,,
 4859,CUB,Cubic Corporation,Technology,Scientific & Technical Instruments
@@ -3953,7 +3953,7 @@
 4923,DCI,"Donaldson Company, Inc.",Industrial Goods,Pollution & Treatment Controls
 4924,DCM,"NTT DOCOMO, Inc.",Technology,Telecom Services - Foreign
 4925,DCO,Ducommun Inc.,Industrial Goods,Aerospace/Defense Products & Services
-4928,DCT,DCT Industrial Trust Inc.,Financial,REIT - Industrial
+4928,DCT,"Duck Creek Technologies, Inc",Financial,REIT - Industrial
 4930,DD,EI DuPont de Nemours & Co.,Basic Materials,Chemicals - Major Diversified
 4931,DDE,Dover Downs Gaming & Entertainment Inc.,Services,Gaming Activities
 4932,DDF,"Delaware Investments Dividend & Income Fund, Inc.",Financial,Closed-End Fund - Equity
@@ -4015,11 +4015,11 @@
 5005,DLR,Digital Realty Trust Inc.,Financial,REIT - Office
 5006,DLS,WisdomTree International SmallCap Div,Financial,Exchange Traded Fund
 5007,DLX,Deluxe Corp.,Services,Business Services
-5008,DM,Dominion Midstream Partners LP,Services,Publishing - Periodicals
+5008,DM.DL,Dominion Midstream Partners LP,Services,Publishing - Periodicals
 5011,DNB,Dun & Bradstreet Corp.,Technology,Information & Delivery Services
 5014,DNL,WisdomTree World ex-US Growth,Financial,Exchange Traded Fund
 5015,DNP,DNP Select Income Fund Inc.,Financial,Closed-End Fund - Equity
-5016,DNR,Denbury Resources Inc.,Basic Materials,Independent Oil & Gas
+5016,DEN,Denbury Resources Inc.,Basic Materials,Independent Oil & Gas
 5017,DNY,The Denali Fund Inc.,Financial,Closed-End Fund - Equity
 5018,DO,Diamond Offshore Drilling Inc.,Basic Materials,Oil & Gas Drilling & Exploration
 5019,DOD,ELEMENTS DJ High Yield Select 10 ETN,Financial,Exchange Traded Fund
@@ -4086,7 +4086,7 @@
 5088,DXD,ProShares UltraShort Dow30,Financial,Exchange Traded Fund
 5089,DXJ,WisdomTree Japan Hedged Equity,Financial,Exchange Traded Fund
 5091,DY,Dycom Industries Inc.,Industrial Goods,Heavy Construction
-5092,DYN,Dynegy Inc.,Utilities,Electric Utilities
+5092,DYN,"Dyne Therapeutics, Inc.",Utilities,Electric Utilities
 5093,DYY,PowerShares DB Commodity Dble Long ETN,Financial,Exchange Traded Fund
 5094,DZK,Direxion Daily Dev Mkts Bull 3X Shrs,Financial,Exchange Traded Fund
 5095,DZZ,PowerShares DB Gold Double Short ETN,Financial,Exchange Traded Fund
@@ -4195,7 +4195,7 @@
 5214,ESC,Emeritus Corp.,Healthcare,Long-Term Care Facilities
 5215,ESD,Legg Mason Partners Income Trust - Western Asset Emerging Markets Debt Portfolio,Financial,Closed-End Fund - Debt
 5216,ESE,ESCO Technologies Inc.,Technology,Scientific & Technical Instruments
-5217,ESI,ITT Educational Services Inc.,Services,Education & Training Services
+5217,ESI,Element Solutions Inc,Services,Education & Training Services
 5218,ESL,Esterline Technologies Corp.,Industrial Goods,Aerospace/Defense Products & Services
 5219,ESS,Essex Property Trust Inc.,Financial,REIT - Residential
 5220,ESV,Valaris PLC,Basic Materials,Oil & Gas Drilling & Exploration
@@ -4314,10 +4314,10 @@
 5337,FGC,FPL Group Inc. Capital Inc.,,
 5338,FGD,First Trust DJ Global Select Dividend,Financial,Exchange Traded Fund
 5339,FGE,FPL Group Capital Inc.,,
-5340,FGF,SunAmerica Focused Alpha Growth Fund Inc.,Financial,Closed-End Fund - Equity
+5340,FGF,FG Financial Group Inc,Financial,Closed-End Fund - Equity
 5341,FGI,"Sunamerica Focused Alpha Large-Cap Fund, Inc.",Financial,Closed-End Fund - Equity
 5342,FGP,Ferrellgas Partners LP,Basic Materials,Oil & Gas Refining & Marketing
-5343,FHI,First Trust Strategic High Income Fund,Financial,Closed-End Fund - Debt
+5343,FHI,"Federated Hermes, Inc.",Financial,Closed-End Fund - Debt
 5344,FHN,First Horizon National Corp.,Financial,Regional - Southeast Banks
 5345,FHO,First Trust First Trust  Strate,Financial,Closed-End Fund - Debt
 5346,FHY,First Trust Strategic High Inco,Financial,Closed-End Fund - Debt
@@ -4367,13 +4367,13 @@
 5394,FRO,Frontline Ltd.,Services,Shipping
 5395,FRP,"Fairpoint Communications, Inc.",Technology,Telecom Services - Domestic
 5396,FRT,Federal Realty Investment Trust,Financial,REIT - Retail
-5397,FRX,Forest Laboratories Inc.,Healthcare,Drug Manufacturers - Other
+5397,FRX,Forest Road Acquisition Corp.,Healthcare,Drug Manufacturers - Other
 5398,FRZ,"Reddy Ice Holdings, Inc.",Consumer Goods,Processed & Packaged Goods
 5401,FSC,Fifth Street Finance Corp.,Financial,Credit Services
 5402,FSE,FactorShares 2X: S&P500 Bull/TBond Bear,Financial,Exchange Traded Fund
-5404,FSR,Flagstone Reinsurance Holdings SA,Financial,Property & Casualty Insurance
+5404,FSRN,Flagstone Reinsurance Holdings SA,Financial,Property & Casualty Insurance
 5405,FSS,Federal Signal Corp.,Consumer Goods,Recreational Vehicles
-5406,FST,Forest Oil Corp.,Basic Materials,Independent Oil & Gas
+5406,FST,FAST Acquisition Corp.,Basic Materials,Independent Oil & Gas
 5407,FT,Franklin Universal Trust,Financial,Closed-End Fund - Debt
 5408,FTA,First Trust Large Cap Value Opp AlphaDEX,Financial,Exchange Traded Fund
 5409,FTC,First Trust Large Cap Gr Opp AlphaDEX,Financial,Exchange Traded Fund
@@ -4381,7 +4381,7 @@
 5411,FTI,"FMC Technologies, Inc.",Basic Materials,Oil & Gas Equipment & Services
 5412,FTK,Flotek Industries Inc.,Basic Materials,Specialty Chemicals
 5413,FTO,Frontier Oil Corp.,Basic Materials,Oil & Gas Refining & Marketing
-5414,FTR,Frontier Communications Corporation,Technology,Telecom Services - Domestic
+5414,FTRCQ,Frontier Communications Corporation,Technology,Telecom Services - Domestic
 5415,FTY,iShares FTSE NAREIT Real Estate 50,Financial,Exchange Traded Fund
 5416,FUD,UBS E-TRACS CMCI Food TR ETN,Financial,Exchange Traded Fund
 5417,FUE,ELEMENTS MLCX Biofuels Index TR ETN,Financial,Exchange Traded Fund
@@ -4422,7 +4422,7 @@
 5454,GAS,AGL Resources Inc.,Utilities,Gas Utilities
 5455,GAT,Georgia Power Company,,
 5456,GAZ,iPath DJ-UBS Natural Gas TR Sub-Idx ETN,Financial,Exchange Traded Fund
-5457,GB,"Greatbatch, Inc.",Healthcare,Medical Appliances & Equipment
+5457,GB,Global Blue Group Holding AG,Healthcare,Medical Appliances & Equipment
 5458,GBB,iPath GBP/USD Exchange Rate ETN,Financial,Exchange Traded Fund
 5459,GBE,Grubb & Ellis Company,Financial,Property Management
 5460,GBF,iShares Barclays Government/Credit Bond,Financial,Exchange Traded Fund
@@ -4666,7 +4666,7 @@
 5742,HTR,"Helios Total Return Fund, Inc.",Financial,Closed-End Fund - Debt
 5743,HTS,Hatteras Financial Corp,Financial,REIT - Residential
 5746,HTY,John Hancock Tax-Advantaged Glo,Financial,Closed-End Fund - Equity
-5747,HTZ,"Hertz Global Holdings, Inc.",Services,Rental & Leasing Services
+5747,HTZGQ,"Hertz Global Holdings, Inc.",Services,Rental & Leasing Services
 5748,HUB.B,Hubbell Inc.,Industrial Goods,Diversified Machinery
 5749,HUB.A,Hubbell Inc.,,
 5751,HUM,Humana Inc.,Healthcare,Health Care Plans
@@ -4876,7 +4876,7 @@
 5971,JCI,Johnson Controls Inc.,Consumer Goods,Auto Parts
 5972,JCP,"J. C. Penney Company, Inc.",Services,Department Stores
 5973,JDD,Nuveen Diversified Dividend & Income Fund,Financial,Closed-End Fund - Equity
-5974,JEC,Jacobs Engineering Group Inc.,Services,Technical Services
+5974,J,Jacobs Engineering Group Inc.,Services,Technical Services
 5975,JEF,Jefferies Group Inc.,Financial,Investment Brokerage - Regional
 5976,JEM,Barclays GEMS Index ETN,Financial,Exchange Traded Fund
 5977,JEQ,Japan Equity Fund Inc.,Financial,Closed-End Fund - Foreign
@@ -5079,7 +5079,7 @@
 6197,LPS,"Lender Processing Services, Inc.",Services,Business Services
 6198,LPX,Louisiana-Pacific Corp.,Services,Building Materials Wholesale
 6199,LQD,iShares iBoxx $ Invest Grade Corp Bond,Financial,Exchange Traded Fund
-6200,LRN,"K12, Inc.",Services,Education & Training Services
+6200,LRN,"Stride, Inc. ",Services,Education & Training Services
 6201,LRTR,LL&E Royalty Trust,,
 6202,LRY,Liberty Property Trust,Financial,REIT - Office
 6203,LSC,ELEMENTS S&P CTI ETN,Financial,Exchange Traded Fund
@@ -5088,7 +5088,7 @@
 6208,LTC,LTC Properties Inc.,Financial,REIT - Healthcare Facilities
 6209,LB,"L Brands, Inc. ",Services,Apparel Stores
 6210,LTL,ProShares Ultra Telecommunications,Financial,Exchange Traded Fund
-6211,LTM,LATAM Airlines Group SA,Services,Sporting Activities
+6211,LTMAQ,LATAM Airlines Group SA,Services,Sporting Activities
 6212,LUB,Luby's Inc.,Services,Restaurants
 6213,LUK,Leucadia National Corp.,Consumer Goods,Meat Products
 6214,LUV,Southwest Airlines Co.,Services,Regional Airlines
@@ -5139,7 +5139,7 @@
 6264,ME,"Mariner Energy, Inc.",Basic Materials,Oil & Gas Drilling & Exploration
 6265,MED,Medifast Inc.,Services,"Specialty Retail, Other"
 6266,MEE,Massey Energy Co.,Basic Materials,Industrial Metals & Minerals
-6267,MEG,"Media General, Inc.",Services,Publishing - Newspapers
+6267,MEG,Montrose Environmental Group,Services,Publishing - Newspapers
 6268,MEI,Methode Electronics Inc.,Technology,Diversified Electronics
 6269,MEN,"BlackRock MuniEnhanced Fund, Inc.",Financial,Closed-End Fund - Debt
 6270,MER,"Merrill Lynch & Co., Inc.",,
@@ -5150,7 +5150,7 @@
 6275,MFB,"Maidenform Brands, Inc.",Consumer Goods,Textile - Apparel Clothing
 6276,MFC,Manulife Financial Corporation,Financial,Life Insurance
 6277,MFD,Macquarie/First Trust Global Infrastructure/Utilities Dividend & Income Fund,Financial,Closed-End Fund - Equity
-6278,MFE,"McAfee, Inc.",Technology,Security Software & Services
+6278,MCFE,"McAfee, Inc.",Technology,Security Software & Services
 6279,MFG,"Mizuho Financial Group, Inc.",Financial,Foreign Regional Banks
 6280,MFL,BlackRock MuniHoldings Insured Investment Fund,Financial,Closed-End Fund - Debt
 6281,MFM,MFS Municipal Income Trust,Financial,Closed-End Fund - Debt
@@ -5244,7 +5244,7 @@
 6379,MSK,Morgan Stanley Capital Trust VIII,,
 6380,MSM,MSC Industrial Direct Co. Inc.,Services,Industrial Equipment Wholesale
 6381,MSO,Martha Stewart Living Omnimedia Inc.,Services,Publishing - Periodicals
-6382,MSP,Madison Strategic Sector Premium Fund,Financial,Closed-End Fund - Equity
+6382,MSP,Datto Holding Corp.,Financial,Closed-End Fund - Equity
 6383,MSY,"Invesco High Yield Investments Fund, Inc.",Financial,Closed-End Fund - Debt
 6384,MSZ,Morgan Stanley Capital Trust VII,,
 6385,MT,Arcelor Mittal,Basic Materials,Steel & Iron
@@ -5413,7 +5413,7 @@
 6562,NRU,National Rural Utilities Cooperative Finance Corporation,,
 6563,NS,NuStar Energy L.P.,Basic Materials,Oil & Gas Pipelines
 6564,NSC,Norfolk Southern Corp.,Services,Railroads
-6565,NSH,"NuStar GP Holdings, LLC",Basic Materials,Oil & Gas Pipelines
+6565,NSH,NavSight Holdings Inc - Ordinary Shares - Class A,Basic Materials,Oil & Gas Pipelines
 6566,NSL,Nuveen Senior Income Fund,Financial,Closed-End Fund - Debt
 6567,NSM,Nationstar Mortgage Holdings Inc,Financial,Mortgage Investment
 6568,NSR,"NeuStar, Inc.",Technology,Diversified Communication Services
@@ -5472,7 +5472,7 @@
 6625,OEF,iShares S&P 100 Index,Financial,Exchange Traded Fund
 6626,BEL,"Belmond USA, Inc.",Services,Lodging
 6627,OFC,Corporate Office Properties Trust,Financial,REIT - Office
-6628,OFG,Oriental Financial Group Inc.,Financial,Money Center Banks
+6628,OFG,OFG Bancorp,Financial,Money Center Banks
 6629,OGE,OGE Energy Corp.,Utilities,Electric Utilities
 6630,OHI,Omega Healthcare Investors Inc.,Financial,REIT - Healthcare Facilities
 6631,OI,"Owens-Illinois, Inc.",Consumer Goods,Packaging & Containers
@@ -5599,7 +5599,7 @@
 6766,PHT,Pioneer High Income Trust,Financial,Closed-End Fund - Debt
 6768,PHX,Panhandle Oil and Gas Inc.,Basic Materials,Independent Oil & Gas
 6769,PIA,Invesco Municipal Premium Income Trust,Financial,Closed-End Fund - Debt
-6770,PIC,Pivotal Investment Corporation II,Financial,Exchange Traded Fund
+6770,PIC.OLD,Pivotal Investment Corporation II,Financial,Exchange Traded Fund
 6771,PID,PowerShares Intl Dividend Achievers,Financial,Exchange Traded Fund
 6772,PIE,PowerShares DWA Em Mkts Technical Ldrs,Financial,Exchange Traded Fund
 6774,PII,"Polaris Industries, Inc.",Consumer Goods,Recreational Vehicles
@@ -5709,7 +5709,7 @@
 6896,PTD,UBS E-TRACS Short Platinum ER ETN,Financial,Exchange Traded Fund
 6898,PTF,PowerShares Dynamic Technology,Financial,Exchange Traded Fund
 6899,PTH,PowerShares Dynamic Healthcare,Financial,Exchange Traded Fund
-6900,PTI,Proteostasis Therapeutics,Technology,Business Software & Services
+6900,YMTX,Yumanity Therapeutics Inc,Technology,Business Software & Services
 6902,PTM,UBS E-TRACS Long Platinum TR ETN,Financial,Exchange Traded Fund
 6903,PTO,PowerShares Ibbotson Alternative Compltn,Financial,Exchange Traded Fund
 6904,PTP,Platinum Underwriters Holdings Ltd.,Financial,Property & Casualty Insurance
@@ -5726,7 +5726,7 @@
 6921,PVX,Provident Energy Ltd.,Basic Materials,Independent Oil & Gas
 6922,PWB,PowerShares Dynamic Large Cap Growth,Financial,Exchange Traded Fund
 6923,PWC,PowerShares Dynamic Market,Financial,Exchange Traded Fund
-6925,OBE,Obsidian Energy LTD,Basic Materials,Oil & Gas Drilling & Exploration
+6925,OBELF,Obsidian Energy LTD,Basic Materials,Oil & Gas Drilling & Exploration
 6927,PWO,PowerShares Dynamic OTC,Financial,Exchange Traded Fund
 6929,PWR,"Quanta Services, Inc.",Industrial Goods,General Contractors
 6931,PWV,PowerShares Dynamic Large Cap Value,Financial,Exchange Traded Fund
@@ -5774,11 +5774,11 @@
 6979,RAH,Ralcorp Holdings Inc.,Consumer Goods,Processed & Packaged Goods
 6980,RAI,Reynolds American Inc.,Consumer Goods,Cigarettes
 6981,RAS,RAIT Financial Trust,Financial,REIT - Diversified
-6982,RAX,"Rackspace Hosting, Inc",Technology,Information Technology Services
+6982,RXT,"Rackspace Hosting, Inc",Technology,Information Technology Services
 6983,RBA,Ritchie Bros. Auctioneers Incorporated,Services,Business Services
 6984,RBC,Regal Beloit Corporation,Industrial Goods,Industrial Electrical Equipment
 6985,RBN,Robbins & Myers Inc.,Industrial Goods,Diversified Machinery
-6986,RBS,Royal Bank of Scotland Group plc,Financial,Foreign Money Center Banks
+6986,NWG,Natwest Group,Financial,Foreign Money Center Banks
 6988,RC,Ready Capital Corp,Services,Broadcasting - Radio
 6990,RCD,Rydex S&P Equal Weight Consumer Disc,Financial,Exchange Traded Fund
 6991,RCI,Rogers Communications Inc.,Technology,Wireless Communications
@@ -5818,7 +5818,7 @@
 7035,RJI,ELEMENTS Rogers Intl Commodity ETN,Financial,Exchange Traded Fund
 7036,RJN,ELEMENTS Rogers Intl Commodity Engy ETN,Financial,Exchange Traded Fund
 7037,RJZ,ELEMENTS Rogers Intl Commodity Metal ETN,Financial,Exchange Traded Fund
-7038,RKT,Rock-Tenn Co.,Consumer Goods,Packaging & Containers
+7038,RKT,Rocket Companies Inc.,Consumer Goods,Packaging & Containers
 7039,RL,Polo Ralph Lauren Corp.,Consumer Goods,Textile - Apparel Clothing
 7041,RLH,Red Lion Hotels Corporation,Services,Lodging
 7042,RLI,RLI Corp.,Financial,Property & Casualty Insurance
@@ -5908,7 +5908,7 @@
 7150,SCL,Stepan Company,Consumer Goods,Cleaning Products
 7151,SCLPR,Stepan Co,,
 7152,SCO,ProShares UltraShort Bloomberg Crude Oil,Financial,Exchange Traded Fund
-7153,SCR,Simcere Pharmaceutical Group.,Healthcare,Drug Manufacturers - Other
+7153,SCR,Score Media & Gaming inc.,Healthcare,Drug Manufacturers - Other
 7154,SCS,Steelcase Inc.,Consumer Goods,Business Equipment
 7155,SCX,LS Starrett Co.,Industrial Goods,Small Tools & Accessories
 7156,SCZ,iShares MSCI EAFE Small Cap Index,Financial,Exchange Traded Fund
@@ -6467,7 +6467,7 @@
 7772,WST,"West Pharmaceutical Services, Inc.",Healthcare,Medical Instruments & Supplies
 7773,WTI,W&T Offshore Inc.,Basic Materials,Oil & Gas Drilling & Exploration
 7774,WTM,"White Mountains Insurance Group, Ltd.",Financial,Property & Casualty Insurance
-7775,WTR,Aqua America Inc.,Utilities,Water Utilities
+7775,WTRG,Essential Utilities,Utilities,Water Utilities
 7776,WTS,"Watts Water Technologies, Inc.",Industrial Goods,Industrial Equipment & Components
 7778,WW,"Weight Watchers International, Inc.",Services,Personal Services
 7779,WU,Western Union Co.,Financial,Credit Services
@@ -6496,7 +6496,7 @@
 7810,XKK,Lehman Corporate Backed Trust Certificates,,
 7811,XKN,Lehman Corporate Backed Trust Certificates,,
 7812,XKO,Lehman ABS Corporation,,
-7813,XL,XL Group plc,Financial,Property & Casualty Insurance
+7813,XL,XL Fleet Corp,Financial,Property & Casualty Insurance
 7814,XLB,Materials Select Sector SPDR,Financial,Exchange Traded Fund
 7815,XLE,Energy Select Sector SPDR,Financial,Exchange Traded Fund
 7816,XLF,Financial Select Sector SPDR,Financial,Exchange Traded Fund
@@ -6573,7 +6573,7 @@
 7896,UWC,ProShares Ultra Russell3000,Financial,Exchange Traded Fund
 7897,VNM,Market Vectors Vietnam ETF,Financial,Exchange Traded Fund
 7898,YONG,"Yongye International, Inc.",Basic Materials,Agricultural Chemicals
-7899,AONE,"A123 Systems, Inc.",Technology,Diversified Electronics
+7899,AONE,One,Technology,Diversified Electronics
 7900,USDNOK,US Dollar / Norweigen Krona,,
 7901,AVGO,Broadcom,Technology,Semiconductor - Broad Line
 7902,BIOC,Biocept,Healthcare,Medical Laboratories & Research
@@ -6583,7 +6583,7 @@
 7906,GSM,"Globe Specialty Metals, Inc.",Basic Materials,Industrial Metals & Minerals
 7907,LIWA,"Lihua International, Inc.",Basic Materials,Copper
 7908,SEM,Select Medical Holdings Corporation,Healthcare,Hospitals
-7909,TRIT,"Tri-Tech Holding, Inc.",Industrial Goods,Waste Management
+7909,TRIT,"Triterras, Inc.",Industrial Goods,Waste Management
 7910,VRSK,"Verisk Analytics, Inc.",Services,Business Services
 7911,NZDJPY,New Zealand Dollar/Yen,,
 7912,EURAUD,EURO / AUSSIE DOLLAR,,
@@ -6601,7 +6601,7 @@
 7927,ADGE,"American DG Energy, Inc.",Utilities,Electric Utilities
 7928,CPHI,"China Pharma Holdings, Inc.",Healthcare,Drug Manufacturers - Major
 7929,PUDA,Puda Coal Inc.,Basic Materials,Industrial Metals & Minerals
-7933,AI,Arlington Asset Investment Corp.,Financial,Mortgage Investment
+7933,AI,"C3.ai, Inc.",Financial,Mortgage Investment
 7934,AUTC,AutoChina International Ltd.,Financial,Diversified Investments
 7935,CATO,Cato Corp.,Services,Apparel Stores
 7936,CRIC,China Real Estate Information Corporation,Financial,Property Management
@@ -6625,7 +6625,7 @@
 7958,FTNT,Fortinet Inc.,Technology,Application Software
 7959,UNL,United States 12 Month Natural Gas,Financial,Exchange Traded Fund
 7960,ACOM,Ancestry.com Inc.,Technology,Internet Information Providers
-7961,HHT,Color Star Technology Co Ltd,Industrial Goods,General Contractors
+7961,CSCW,Color Star Technology Co Ltd,Industrial Goods,General Contractors
 7962,DG,Dollar General Corporation,Services,"Discount, Variety Stores"
 7964,H,Hyatt Hotels Corporation,Services,Lodging
 7966,RUE,"rue21, Inc.",Services,Apparel Stores
@@ -7351,7 +7351,7 @@
 8776,ARCN,Arcadian Networks,,
 8777,ATNT,Arista Networks,,
 8778,ARTPC,Art.Com,,
-8779,ASANA,Asana,,
+8779,ASAN,Asana,,
 8780,ASSCT,Associated Content,,
 8781,AUDIN,Audience,,
 8782,AUBF,Aurora Biofuels,,
@@ -7373,7 +7373,7 @@
 8799,BSENY,Bright Source Energy,,
 8800,BRCV,Brightcove,,
 8801,BROAD,BroadSoft,,
-8802,BUZZ,Buzzfeed,,
+8802,BUZZ,BUZZ US Sentiment Leaders ETF,,
 8803,CFMM,CafeMom,,
 8804,CALYP,Calypso Medical Technologies,,
 8805,CARBN,Carbonetworks,,
@@ -7562,7 +7562,7 @@
 8990,ORTNE,Overture Networks,,
 8991,OXAGN,Oxagen Limited,,
 8992,PFBCS,Pacific Biosciences,,
-8993,PALAN,Palantir,,
+8993,PLTR,Palantir,,
 8994,PALNT,Palo Alto Networks,,
 8995,PANDO,Pando Networks,,
 8996,PRACL,ParAccel,,
@@ -7738,7 +7738,7 @@
 9170,MILO,Milo.com,,
 9171,KISS,KISSmetrics,,
 9172,INVENT,Inventables,,
-9173,FUSE,"LoopFuse, Inc.",,
+9173,FUSE,Fusion Acquisition Corp,,
 9174,EDGEX,EdgeConneX,,
 9175,FOUND,Foundry Group,,
 9176,MBTS,MindBites,,
@@ -7775,7 +7775,7 @@
 9207,MCP,"Molycorp, Inc.",Basic Materials,Industrial Metals & Minerals
 9209,NEWN,New Energy Systems Group,Technology,Diversified Electronics
 9210,NXPI,NXP Semiconductors NV,Technology,Semiconductor - Broad Line
-9211,REE,Rare Element Resources Ltd.,Basic Materials,Industrial Metals & Minerals
+9211,REEMF,Rare Element Resources,Basic Materials,Industrial Metals & Minerals
 9212,RP,"RealPage, Inc.",Technology,Application Software
 9213,SCIF,Market Vectors India Small-Cap ETF,Financial,Exchange Traded Fund
 9214,XSPA,XpresSpa GroupStock,Technology,Application Software
@@ -7794,7 +7794,7 @@
 9227,OYLA,Ooyala,,
 9228,CLEAR,"ClearPath, Inc.",,
 9229,ECON,EGShares Emerging Markets Consumer,Financial,Exchange Traded Fund
-9230,TAOP,CHINA INFO TECY/SH NEW,Technology,Application Software
+9230,TAOP,Taoping Inc,Technology,Application Software
 9231,ECT,Eca Marcellus Trust I,Basic Materials,Oil & Gas Drilling & Exploration
 9232,GORO,Gold Resource Corp,Basic Materials,Gold
 9233,IVOO,Vanguard S&P Mid-Cap 400 Index ETF,Financial,Exchange Traded Fund
@@ -7839,7 +7839,7 @@
 9272,VTWO,Vanguard Russell 2000 Index ETF,Financial,Exchange Traded Fund
 9273,VTWV,Vanguard Russell 2000 Value Index ETF,Financial,Exchange Traded Fund
 9274,XFEET,Extrafeet,,
-9275,CCX,WisdomTree Dreyfus Commodity Currency,Financial,Exchange Traded Fund
+9275,CCX,Churchill Capital Corp II,Financial,Exchange Traded Fund
 9276,ECNS,iShares MSCI China Small Cap Index,Financial,Exchange Traded Fund
 9277,EPHE,iShares MSCI Philippines Invstb Mkt Idx,Financial,Exchange Traded Fund
 9278,EWZS,iShares MSCI Brazil Small Cap Index,Financial,Exchange Traded Fund
@@ -8056,7 +8056,7 @@
 9493,MSI,"Motorola Solutions, Inc.",Technology,Communication Equipment
 9494,ACW,Accuride Corp.,Consumer Goods,Trucks & Other Vehicles
 9495,ASNA,Ascena Retail Group inc.,Services,Apparel Stores
-9496,INTL,INTL FCStone Inc.,Financial,Diversified Investments
+9496,SNEX,Stonex Group Inc,Financial,Diversified Investments
 9497,OSN,"Ossen Innovation Co., Ltd.",Basic Materials,Steel & Iron
 9498,ISS,Isoftstone Holdings Limited,Technology,Information Technology Services
 9499,DMD,"Demand Media, Inc.",Technology,Internet Software & Services
@@ -8110,15 +8110,15 @@
 9550,RALS,ProShares RAFI Long/Short,Financial,Exchange Traded Fund
 9551,PSTB,Park Sterling Bank Inc.,Financial,Regional - Mid-Atlantic Banks
 9552,PRIS,Grupo Prisa SA,Services,Entertainment - Diversified
-9553,NUGT,Direxion Daily Gold Miners Bull 3X Shrs,Financial,Exchange Traded Fund
+9553,NUGT,Direxion Daily Gold Miners Bull 2X Shrs,Financial,Exchange Traded Fund
 9554,NAVB,Navidea Biopharmaceuticals Inc.,Healthcare,Medical Appliances & Equipment
-9555,MEDH,MedQuist Holdings Inc.,Technology,Healthcare Information Services
+9555,MEDH,MedX Holdings Inc,Technology,Healthcare Information Services
 9556,MDYV,SPDR S&P 400 Mid Cap Value ETF,Financial,Exchange Traded Fund
 9557,MDYG,SPDR S&P 400 Mid Cap Growth ETF,Financial,Exchange Traded Fund
 9558,ALUM,Global X Aluminum ETF,Financial,Exchange Traded Fund
 9559,ANCB,Anchor Bancorp,Financial,Savings & Loans
 9560,ASEA,Global X FTSE ASEAN 40 ETF,Financial,Exchange Traded Fund
-9561,CCCL,"China Ceramics Co., Ltd.",Financial,Diversified Investments
+9561,AEHL,Antelope Enterprise Holdings Ltd,Financial,Diversified Investments
 9563,CPGI,China  Shengda Packaging  Group Inc.,Consumer Goods,Packaging & Containers
 9564,EAPS,Pax MSCI EAFE ESG Index ETF,Financial,Exchange Traded Fund
 9565,EBND,SPDR Barclays Capital EM Local Bond ETF,Financial,Exchange Traded Fund
@@ -8212,7 +8212,7 @@
 9675,MPC,Marathon Petroleum Corporation,Basic Materials,Oil & Gas Refining & Marketing
 9676,AMCX,AMC Networks Inc,Services,CATV Systems
 9677,SKYY,First Trust ISE Cloud Computing Index Fund,Financial,Exchange Traded Fund
-9678,SSSS,Sutter Rock Capital,Financial,Closed-End Fund - Equity
+9678,SSSS,SuRo Capital Corp.,Financial,Closed-End Fund - Equity
 9679,AUQ,AuRico Gold Inc. Ordinary Share,Basic Materials,Gold
 9680,AMTG,Apollo Residential Mortgage,Financial,REIT - Residential
 9681,FRAN,Francesca's Holdings,Services,"Specialty Retail, Other"
@@ -8250,7 +8250,7 @@
 9714,HII,Huntington Ingalls Industries,Industrial Goods,Aerospace/Defense Products & Services
 9715,AUNZ,WisdomTree Australia & New Zealand Debt Fund,Financial,Exchange Traded Fund
 9716,OCPNY,OLYMPUS CORP SP ADR,,
-9717,DUST,Direxion Daily Gold Miners Bear 3X Shrs,,
+9717,DUST,Direxion Daily Gold Miners Bear 2X Shrs,,
 9718,IMPV,"IMPERVA, INC.",Technology,Application Software
 9719,LRE," LRR Energy, L.P.",Basic Materials,Independent Oil & Gas
 9720,MFRM,Mattress Firm Holding Corp.,Consumer Goods,Home Furnishings & Fixtures
@@ -8276,13 +8276,13 @@
 9741,ACO.X.CA,Atco Ltd. Cl I Nv,,
 9742,ACO.Y.CA,Atco Ltd Cl 2,,
 9743,ACQ.CA,Autocanada Inc,,
-9744,AD.CA,Alaris Royalty Corp,,
+9744,AD.UN.CA,Alaris Equity Partners Income Trust,,
 9745,ADA.CA,Acadian Mng Corp. J,,
 9746,ADN.CA,Acadian Timber Corp,,
 9747,ADV.CA,Alderon Iron Ore Corp J,,
 9748,ADW.A.CA,Andrew Peller A Nv,,
 9749,ADW.B.CA,Andrew Peller Ltd. B,,
-9750,AEF.CA,Acasta Enterprises Inc,,
+9750,AHC.CA,Apollo Healthcare Corp,,
 9751,AEI.CA,Arsenal Energy Inc J,,
 9752,AEM.CA,Agnico-Eagle Mines Ltd.,,
 9753,AEN.CA,Antrim Energy Inc,,
@@ -8562,7 +8562,7 @@
 10027,DGC.CA,Detour Gold Corp,,
 10028,DGS.CA,Div Growth Splt Cl A,,
 10029,DH.CA,Davis + Henderson,,
-10030,DHX.CA,Dhx Media Ltd,,
+10030,WILD.CA,Dhx Media Ltd,,
 10031,DII.A.CA,Dorel Ind Inc A Mv,,
 10032,DII.B.CA,Dorel Ind Inc B Sv,,
 10033,DL.CA,Danier Leather Sv,,
@@ -9042,7 +9042,7 @@
 10507,PN.CA,Pni Digital Media Inc,,
 10508,PNC.A.CA,Postmedia Ntwrk C J,,
 10509,PNC.B.CA,Postmedia Ntwrk Vv J,,
-10510,PNG.CA,Pacific Northern Gas Ltd,,
+10510,PNG.CA,Kraken Robotics Inc,,
 10511,PNP.CA,Pinetree Capital Ltd,,
 10512,POL.CA,Polo Resources Ord J,,
 10513,POM.CA,Polymet Mining J,,
@@ -9625,7 +9625,7 @@
 11090,PSF,Cohen & Steers Select Preferred,,
 11091,PSF.UN.CA,Preferred Share Investment Trust,,
 11092,PZA.CA,Pizza Pizza Royalty Income Fund,,
-11093,QQQM,Global X NASDAQ 400 Mid Cap ETF,Financial,Exchange Traded Fund
+11093,QQQM,Invesco NASDAQ 100 ETF,Financial,Exchange Traded Fund
 11094,QQQV,Global X NASDAQ 500 ETF,Financial,Exchange Traded Fund
 11095,QRM,Quest Rare Minerals Ltd,Basic Materials,Industrial Metals & Minerals
 11096,RDIB,Reading International Inc Cl B,,
@@ -9754,7 +9754,7 @@
 11220,RM,Regional Management,Financial,Credit Services
 11221,MM,"Millennial Media, Inc.",Services,Marketing Services
 11222,PRSS,CafePress Inc.,Technology,Internet Information Providers
-11223,OSH,Orchard Supply Hardware Stores Corporation,Services,Home Improvement Stores
+11223,OSH,"Oak Street Health, Inc.",Services,Home Improvement Stores
 11224,USDTRY,US Dollar / Turkish Lira,,
 11225,EURTRY,Euro / Turkish Lira,,
 11226,EURZAR,Euro / South African Rand,,
@@ -9883,7 +9883,7 @@
 11349,ARCT,Arcturus Therapeutics Ltd,Financial,REIT - Office
 11350,ALDW,Alon USA Partners,Basic Materials,Oil & Gas Refining & Marketing
 11351,VIPS,Vipshop Holdings Limited,Technology,Internet Service Providers
-11352,TTS,"Tile Shop Holdings, Inc.",Industrial Goods,Manufactured Housing
+11352,TTSH,"Tile Shop Holdings, Inc.",Industrial Goods,Manufactured Housing
 11353,ICPT,"Intercept Pharmaceuticals, Inc.",Healthcare,Drug Manufacturers - Major
 11354,RYCE,Amira Nature Foods Ltd.,Consumer Goods,Food - Major Diversified
 11355,IPIX,Innovation Pharmaceuticals Inc,,
@@ -9944,7 +9944,7 @@
 11411,APAM,Artisan Partners Asset Mgmt,,
 11412,MPLX,MPLX LP,Basic Materials,Oil & Gas Pipelines
 11413,CCXI,"ChemoCentryx, Inc.",Healthcare,Biotechnology
-11414,ATOS,"Atossa Genetics, Inc.",Healthcare,Diagnostic Substances
+11414,ATOS,Atossa Therapeutics Inc.,Healthcare,Diagnostic Substances
 11415,SPLV,PowerShares Exchange-Traded Fund Trust II,Financial,Exchange Traded Fund
 11416,USMV,iShares MSCI USA Min Volatility,,
 11417,VER,VEREIT,Financial,Real Estate Development
@@ -9990,7 +9990,7 @@
 11457,EQM,EQT Midstream Partners ,,
 11458,PFSI,PennyMac Financial Services Inc.,,
 11459,LVNTA,Liberty Ventures,,
-11460,I,Intelsat,,
+11460,INTEQ,Intelsat,,
 11461,RHP,Ryman Hospitality Properties Inc.,,
 11462,NRZ,New Residential Investment Corp,,
 11463,WLH,Lyon William Homes ,,
@@ -10127,7 +10127,7 @@
 11595,AR,Antero Resources,,
 11596,TXMD,TherapeuticsMD Inc.,,
 11597,VEEV,Veeva Systems,,
-11598,LEAF,Springleaf Holdings,,
+11598,LEAF,Leaf Group Ltd,,
 11599,CLDN,Celladon,,
 11600,XNCR,Xencor,,
 11601,GWPH,GW Pharmaceuticals plc,,
@@ -10160,8 +10160,8 @@
 11628,EGLT,Egalet,,
 11629,RLYP,Relypsa,,
 11630,NVGS,Navigator Holdings,,
-11631,JNUG,Direxion Daily Jr Gld Mnrs Bull 3X Shrs,,
-11632,JDST,Direxion Daily Jr Gld Mnrs Bear 3X Shrs,,
+11631,JNUG,Direxion Daily Jr Gld Mnrs Bull 2X Shrs,,
+11632,JDST,Direxion Daily Jr Gld Mnrs Bear 2X Shrs,,
 11633,GSE,GSE Holding Inc,,
 11634,INUV,Inuvo Inc.,,
 11635,BNFT,"Benefitfocus, Inc.",,
@@ -10179,7 +10179,7 @@
 11647,ATHM,Autohome,,
 11648,ARCX,Arc Logistics Partners LP,,
 11649,BCRH,Blue Capital Reinsurance Holdings,,
-11650,EROS,Eros International,,
+11650,ESGC,EROS STX GLOBAL CORPORATION,,
 11651,GLYC,GlycoMimetics,,
 11652,JGW,JGWPT Holdings,,
 11653,KPTI,Karyopharm Therapeutics,,
@@ -10200,7 +10200,7 @@
 11668,LEVYU,Levy Acquisition,,
 11669,IDEX,"Ideanomics, Inc.",,
 11670,VNCE,Vince,,
-11671,CELP,Cypress Energy Partners LP,,
+11671,CELP,Cypress Environmental Partners,,
 11672,RSPP,RSP Permian,,
 11673,SDR,Sandridge Mississippian Trust II ,,
 11674,GOMO,Sungy Mobile,,
@@ -10210,7 +10210,7 @@
 11678,RARE,Ultragenyx Pharmaceutical,,
 11679,CARA,Cara Therapeutics,,
 11680,KIN,Kindred Biosciences,,
-11681,SALT,Scorpio Bulkers,,
+11681,NETI,Eneti Inc,,
 11682,SINT,SINTX Technologies Inc,,
 11683,GFIS,GFI Software,,
 11684,OXFD,Oxford Immunotec,,
@@ -10257,7 +10257,7 @@
 11725,RAKUTEN,Rakuten Inc.,,
 11726,FLIPKART,Flipkart,,
 11727,TENCENT,Tencent Holdings Limited,,
-11728,RICE,Rice Energy,,
+11728,RICE,Rice Acquisition Corp.,,
 11729,TRAM,Transport America,,
 11730,RTRX,Biotech Retrophin,,
 11731,DOGE,DogeCoin,,
@@ -10300,7 +10300,7 @@
 11768,LADR,Ladder Capital,,
 11769,GNCA,Genocea Biosciences,,
 11770,SNDE,Sundance Energy Australia,,
-11771,HCAC,Hennessy Capital Acquisition,,
+11771,GOEV,Canoo Inc,,
 11772,AMH,American Homes 4 Rent,,
 11773,PCMI,"PCM, Inc.",,
 11774,ACST,Acasti Pharma Inc.,,
@@ -10311,10 +10311,10 @@
 11779,MBLTY,Mesoblast Limited,,
 11780,ROBO,Robo-Stox Glbl Robotics&Automation ETF,,
 11781,RCPT,"Receptos, Inc.",,
-11782,HSTO,Conatus Pharmaceuticals Inc. ,,
+11782,HSTO,Histogen Inc,,
 11783,MNGA,Magnegas Corporation,,
 11784,PICK,iShares MSCI Glbl Metals & Mining Prdcrs,,
-11785,SNOW,Intrawest Resort Holdings,,
+11785,SNOW,Snowflake Inc.,,
 11786,GPRK,GeoPark,,
 11787,NWHM,The New Home Company,,
 11788,MBUU,Malibu Boats,,
@@ -10404,7 +10404,7 @@
 11873,QTWO,Q2 Holdings,,
 11874,TEDU,Tarena International,,
 11875,CPLG,Corepoint Lodging Inc,,
-11876,MNK,Mallinckrodt plc,,
+11876,MNKKQ,Mallinckrodt PLC,,
 11877,FRSH,Papa Murphy's,,
 11878,VIRT,Virtu Financial,,
 11879,NORD,Nord Anglia Education,,
@@ -10513,7 +10513,7 @@
 11982,TGEN,Tecogen,,
 11983,TAG,Taggares Agriculture,,
 11984,OVAS,Millendo Therapeutics Inc.,,
-11985,TRXC,TransEnterix Inc. ,,
+11985,ASXC,Asensus Surgical Inc.,,
 11986,DRII,Diamond Resorts International Inc,,
 11987,GLOP,GASLOG PARTNERS LP ,,
 11988,LPCN,Lipocine Inc.,,
@@ -10614,7 +10614,7 @@
 12083,NGHC,National General Holdings,,
 12084,ARDM,Aradigm Corporation,,
 12085,SHLX,Shell Midstream Partners,,
-12086,MGEN,"Miragen Therapeutics, Inc",,
+12086,VRDN,Miragen Therapeutics Inc,,
 12087,SAGE,Sage Therapeutics,,
 12088,IRSH,Ironshore,,
 12089,TRUP,Trupanion,,
@@ -10794,7 +10794,7 @@
 12263,SYNH,"Syneos Health, Inc",,
 12264,ENFC,Entegra Financial Corp.,,
 12265,DOC,Physicians Realty Trust,,
-12266,FCAU,FIAT CHRYSLER AUTOMOBILES N.V.,,
+12266,STLA,Stellantis,,
 12267,AAOI,Applied Optoelectronics,,
 12268,SANUL,Fantex Mohamed Sanu,,
 12269,IFSP,Intercorp Financial Services,,
@@ -10883,8 +10883,8 @@
 12352,TWENTY15,Tag Your 2015 Predictions,,
 12353,BLCM,Bellicum Pharmaceuticals,,
 12354,ONDK,On Deck Capital,,
-12355,FTAC,FinTech Acquisition,,
-12356,SEER,Seer Mortgage Capital,,
+12355,PAYA,"Paya, Inc.",,
+12356,SEER,"SEER, inc",,
 12357,USDSEK,U.S. Dollar/Swedish Krona,,
 12358,EURRUB,Euro/Russian Ruble,,
 12359,ASHR,China A-Shares ETF,,
@@ -11075,7 +11075,7 @@
 12545,FCNTX,Fidelity Contrafund,,
 12546,OA,Orbital ATK,,
 12547,KE,Kimball Electronics,,
-12548,CNXC,CNX Coal Resources LP,,
+12548,CNXC,Concentrix Corp,,
 12549,DIV,Global X SuperDividend US ETF,,
 12550,ECC,Eagle Point Credit Company Inc.,,
 12551,CBMG,Cellular Biomedicine Group,,
@@ -11102,7 +11102,7 @@
 12572,COLL,Collegium Pharmaceutical,,
 12573,DTEA,DAVIDsTEA,,
 12574,GLSS,Gelesis,,
-12575,ANTE,Anterios,,
+12575,ANTE,Airnet Technology Inc,,
 12576,CLCD,CoLucid Pharmaceuticals,,
 12577,MVIR,MultiVir,,
 12578,LEC,LightBeam Electric Company,,
@@ -11206,7 +11206,7 @@
 12676,SOLE,Sole Elite Group,,
 12677,TMBR,Timber Pharmaceuticals,,
 12678,NTRA,Natera,,
-12679,IMNP,Immune Pharmaceuticals,,
+12679,IMNPQ,Immune Pharmaceuticals,,
 12680,LABD,Direxion Daily S&P Biotech Bear 3X Shares,,
 12681,GUSH,Direxion Daily S&P Oil & Gas Bull 3X Shares,,
 12682,DRIP,Direxion Daily S&P Oil & Gas Exploration & Production Bear 3X Shares,,
@@ -11304,7 +11304,7 @@
 12775,XELB,Xcel Brands,,
 12776,NTEC,Intec Pharma,,
 12777,EYEG,EyeGate Pharmaceuticals,,
-12778,NK,NantKwest,,
+12778,IBRX,ImmunityBio Inc,,
 12779,UTAC,UTAC Holdings,,
 12780,HLI,Houlihan Lokey,,
 12781,GNST,GenSight Biologics,,
@@ -11490,7 +11490,7 @@
 12962,EIGR,Eiger Biopharmaceutical,,
 12963,HCAP,Harvest Capital Credit Corp,,
 12964,OFS,OFS Cap Corp,,
-12965,CXRX,Concordia Healthcare,,
+12965,CXRXF,Concordia Healthcare,,
 12966,IDXG,Interpace Diagnostics Group Inc,,
 12967,KTOV,Kitov Pharmaceuticals,,
 12968,ARLZ,Aralez Pharmaceuticals Inc.,,
@@ -11505,7 +11505,7 @@
 12977,FNCX,FunctionX Inc,,
 12978,SSRG,Symmetry Surgical,,
 12979,NXRT,"NexPoint Residential Trust, Inc.",,
-12980,BUZ,BUZZ US Sentiment Leaders ETF,,
+12980,BUZZ,BUZZ US Sentiment Leaders ETF,,
 12981,OMF,OneMain Holdings Inc,,
 12982,CAPR,Capricor Therapeutics Inc,,
 12983,NTIP,Network-1 Technologies,,
@@ -11532,10 +11532,10 @@
 13004,SGDM,Sprott Gold Miners ETF,,
 13005,GVZ,CBOE Gold Volatitity Index,,
 13006,CROC,ProShares UltraShort Australian Dollar,,
-13007,DRIO,LabStyle Innovations Corp,,
+13007,DRIO,DarioHealth Corp.,,
 13008,CBIO,Catalyst Biosciences,,
 13009,INDA,iShares MSCI India ETF,,
-13010,YUMA,Yuma Energy,,
+13010,YUMAQ,Yuma Energy,,
 13011,ADVM,"Adverum Biotechnologies, Inc",,
 13012,RNVA,Rennova Health Inc,,
 13013,MGP,MGM Growth Properties LLC,,
@@ -11704,7 +11704,7 @@
 13177,BLBD,Blue Bird,,
 13178,ERS,Empire Resources Inc,,
 13179,MSGN,MSG Networks,,
-13180,CGNT,Cogentix Medical,,
+13180,CGNT,Cognyte Software Ltd,,
 13181,MGCD,MGC Diagnostics Corp,,
 13182,CSBR,Champions Oncology,,
 13183,APTO,Aptose Biosciences Inc,,
@@ -11719,7 +11719,7 @@
 13192,OCX,OncoCyte,,
 13193,NTNX,Nutanix,,
 13194,PLYA,Playa Hotels & Resorts,,
-13195,GTYHU,GTY Technology Holdings,,
+13195,GTYH,GTY Technology Holdings,,
 13196,ATZ.CN,Aritzia,,
 13197,OBLN,Obalon Therapeutics,,
 13198,MRAM,Everspin Technologies,,
@@ -11753,7 +11753,7 @@
 13226,ZTO,ZTO Express,,
 13227,CETC,Hongli Clean Energy Technologies Corp,,
 13228,TRNC,Tronc Inc,,
-13229,DMPI,Delmar Pharmaceuticals,,
+13229,KTRA,Kintara Therapeutics,,
 13230,BL,"BlackLine, Inc.",,
 13231,ENVA,Enova International Inc,,
 13232,PRHR,PetroShare,,
@@ -11766,7 +11766,6 @@
 13239,FRTA,Forterra,,
 13240,MOTA,Mota Group,,
 13241,CLPR,Clipper Realty,,
-13242,HUNTU,Hunter Maritime Acquisition,,
 13243,AZRE,Azure Power Global,,
 13244,ACCP,Accelerated Pharma,,
 13245,MYOV,Myovant Sciences,,
@@ -11808,7 +11807,6 @@
 13281,REI,Ring Energy,,
 13282,APRN,Blue Apron,,
 13283,ZUORA,ZUORA,,
-13284,QUALTRICS,QUALTRICS,,
 13285,PLURAL,Pluralsight,,
 13286,VICE,VICE,,
 13287,KARMA,Credit Karma,,
@@ -11848,7 +11846,7 @@
 13321,BBRX,Braeburn Pharmaceuticals,,
 13322,METC,Ramaco Resources,,
 13323,WRD,Wildhorse Resource Development,,
-13324,TIG,TiGenix,,
+13324,TIG,Trean Insurance Group,,
 13325,LFGR,Leaf Group LTD,,
 13326,DS,Drive Shack Inc,,
 13327,AVHI,AV Homes Inc,,
@@ -12038,7 +12036,7 @@
 13511,FDIS,Fid MSCI CnsDscrIdx,,
 13512,GHS,Rex Gold Hedged S&P 500 ETF,,
 13513,SRUNU,Silver Run Acquisition Corporation II,,
-13514,HEBT,Hebron Technology Co Ltd,,
+13514,NISN,Nisun Internatnal Entpre Dev Grp Co Ltd,,
 13515,SGDJ,ALPS Sprott Jr Gold,,
 13516,MMAC,MMA Capital Management LLC,,
 13517,CNYA,iShares MSCI China A ETF,,
@@ -12049,7 +12047,7 @@
 13522,FIDU,Fdi MSCI Indl Idx,,
 13523,FMAT,Fid MSCI Mat Indx,,
 13524,NYRT,New York REIT Inc,,
-13525,OTRK,"Catasys, Inc.",,
+13525,OTRK,Ontrak Inc,,
 13526,GNUS,Genius Brands International Inc,,
 13527,XRPBTC,Ripple / Bitcoin,,
 13528,XRP.X,Ripple,,
@@ -12266,7 +12264,7 @@
 13743,VIA.X,Viacoin,,
 13744,BLK.X,BlackCoin,,
 13745,MOON.X,Mooncoin,,
-13746,AMP.X,Synereo,,
+13746,AMP.X,AMP Token,,
 13747,SWT.X,Swarm City,,
 13748,SIB.X,SIBCoin,,
 13749,TKN.X,TokenCard,,
@@ -12505,7 +12503,7 @@
 13983,BFIT,Health & Wellness Thematic ETF,,
 13984,FWONK,Liberty Media Formula One Series C,,
 13985,DYLS,WisdomTree L/Sh US Eq ETF,,
-13986,LEAF.CA,MedReleaf,,
+13986,LEAF.CA,Leaf Mobile Inc.,,
 13987,OXBR,Oxbridge Re Holdings Ltd,,
 13988,SWCH,Switch,,
 13989,XPM.X,PrimeCoin,,
@@ -12533,7 +12531,7 @@
 14011,GADS,"Gadsden Growth Properties, Inc.",,
 14012,RMIT,Reverse Mortgage Investment Trust,,
 14013,MDB,MongoDB,,
-14014,SQFT,"NetREIT, Inc.",,
+14014,SQFT,Presidio Property Trust,,
 14015,NEXA,Nexa Resources,,
 14016,QD,Qudian Inc.,,
 14017,HX,"Hexindai, Inc.",,
@@ -12630,7 +12628,7 @@
 14109,ZWB.CA,BMO Covered Call TU,,
 14110,SCHH,Schwab US REIT,,
 14111,STORJ.X,Storj,,
-14112,MDNA.CA,Medicenna Therapeutics Corp,,
+14112,MDNA,Medicenna Therapeutics Corp,,
 14113,STNLU,Sentinel Energy Services,,
 14114,FTXG,FT VI Nasdaq F&B,,
 14115,FNFV,Fidelity National Financial Inc,,
@@ -12675,13 +12673,13 @@
 14154,AY,Atlantica Yield PLC,,
 14155,TAXR,U.S. Tax Reform Fund,,
 14156,POGO,PogoTec,,
-14157,BRPAU,Big Rock Partners Acquisition,,
+14157,BRPA,Big Rock Partners Acquisition,,
 14158,YCBD,cbdMD Inc.,,
 14159,SBT,Sterling Bancorp,,
 14160,GIG.U,GigCapital,,
 14161,FAMI,Farmmi,,
 14162,ODT,Odonate Therapeutics,,
-14163,AJAX,Aspen REIT,,
+14163,AJAX,Ajax I,,
 14164,ENTX,Entera Bio,,
 14165,QTRX,Quanterix,,
 14166,LBC,Luther Burbank,,
@@ -12775,7 +12773,7 @@
 14254,PAC.X,PacCoin,,
 14255,NGC.X,NagaCoin,,
 14256,HMQ.X,Humaniq,,
-14257,STORM.X,STORM,,
+14257,STRM.X,STORM,,
 14258,OST.X,Simple Token,,
 14259,EVX.X,Everex,,
 14260,HMP.X,HempCoin,,
@@ -12847,10 +12845,10 @@
 14327,XEL.X,Elastic,,
 14328,PAGS,PagSeguro,,
 14329,EYEN,Eyenovia,,
-14330,DIVX.X,Divi,,
+14330,DIVI.X,Divi,,
 14331,DLT.X,Agrello,,
 14332,XLC.X,LeviarCoin,,
-14333,DOT.X,Dotcoin,,
+14333,DOT.X,Polkadot,,
 14334,SRN.X,SIRIN LABS Token,,
 14335,GTO.X,Gifto,,
 14336,APPC.X,AppCoins,,
@@ -12871,7 +12869,7 @@
 14351,FUTY,Fid COVINGTON T/MSCI UTILS Ix ETF,,
 14352,FTNW,FTE Networks Inc,,
 14353,MDA.X,Moeda Loyalty Points,,
-14354,BLCN,Reality Shares Nasdaq NexGen Economy ETF,,
+14354,BLCN,Siren Nex Gen Nasdaq fund,,
 14355,AVYA,Avaya Holdings Corp.,,
 14356,XNTK,SPDR Morgan Stanley Technology (ETF),,
 14357,CEN,Center Coast MLP & Infrastructure Fund,,
@@ -12887,7 +12885,7 @@
 14367,CEPU,Central Puerto,,
 14368,OSS,One Stop Systems,,
 14369,TORC,resTORbio,,
-14370,MNLO,Menlo Therapeutics,,
+14370,VYNE,VYNE Therapeutics Inc.,,
 14371,ARMO,ARMO Biosciences,,
 14372,SLDB,Solid Biosciences,,
 14373,AGS,PlayAGS,,
@@ -12964,7 +12962,7 @@
 14444,DFBHU,DFB Healthcare Acq.,,
 14445,MOTS,Motus GI,,
 14446,BFRA,Biofrontera,,
-14447,AMR,Alta Mesa Resources Inc,,
+14447,AMR,Alpha Metallurgical Resources Inc ,,
 14448,PDC.X,Project Decorum,,
 14449,SNMP,Sanchez Production Partners LP,,
 14450,EOLS,Evolus Inc,,
@@ -13224,7 +13222,7 @@
 14708,VRCA,Verrica Pharmaceuticals Inc.,,
 14709,APR.UN.CA,Automotive Properties Real Est Invt TR,,
 14710,USX,US XPRESS ENTERPRISES INC.,,
-14711,U,GS Acquisition Holdings Corp,,
+14711,U,Unity Software,,
 14712,FOCS,Focus Financial Partners Inc.,,
 14713,CRBO,Carbon Natural Gas Co,,
 14714,TBIO,"Translate Bio, Inc.",,
@@ -13238,7 +13236,7 @@
 14722,BE,Bloom Energy Corp,,
 14723,WISA,Summit Semiconductor Inc.,,
 14724,RPAY,REPAY,,
-14725,FPACU,Far Point Acquisition Corp.,,
+14725,FPAC,Far Peak Acquisition Corp,,
 14726,LFACU,LF Capital Acquisition Corp.,,
 14727,ALGRU,Allegro Merger Corp.,,
 14728,TWLVU,Twelve Seas Investment Co,,
@@ -13282,7 +13280,7 @@
 14766,QUAL,ISHARES Tr/EDGE MSCI USA Qlty,,
 14767,VLUE,ISHARES Tr/EDGE MSCI USA VALUE,,
 14768,SIZE,ISHARES USA SIZE FACTOR ETF,,
-14769,TOTAU,Tottenham Acquisition I Ltd,,
+14769,CLNN,CLENE NANOMEDICINE,,
 14770,ARLO,"Arlo Technologies, Inc.",,
 14771,TBLT,"Toughbuilt Industries, Inc",,
 14772,VCNX,"Vaccinex, Inc.",,
@@ -13334,7 +13332,7 @@
 14818,ELAN,Elanco Animal Health Inc,,
 14819,EVRG,Evergy Inc,,
 14820,LOUP,INNOVATOR LOUP FRONTIER ETF,,
-14821,TMSR,TMSR Holding Company Ltd,,
+14821,CCNC,Code Chain New Continent Ltd,,
 14822,AMAL,AMALGAMATED BK NEW YORK COM,,
 14823,FNTC.X,Fantasy Sports Coin,,
 14824,ZARJPY,South African Rand/Yen,,
@@ -13570,7 +13568,7 @@
 15055,VBAL.CA,Vanguard Balanced ETF Portfolio ,,
 15056,VGRO.CA,Vanguard Growth ETF Portfolio,,
 15057,PVL,Permianville Royalty Trust,,
-15058,RBZ,Reebonz Holding Limited Ordinary ,,
+15058,RBZHF,Reebonz Holding Limited Ordinary ,,
 15059,OPI,Office Properties Income Trust,,
 15060,DXF,Dunxin Financial Holdings Limited American Depositary Shares ,,
 15061,PHUN,Phunware Inc,,
@@ -13586,12 +13584,12 @@
 15071,SLGG,"Super League Gaming, Inc.",,
 15072,ALEC,"Alector, Inc.",,
 15073,AMAR,Amarillo Biosciences,,
-15074,HUNT,Hunter Maritime Acquisition Corp.,,
+15074,HNTWF,Hunter Maritime,,
 15075,WINR,Simplicity Esports & Gaming Co.,,
 15076,PIF.CA,Polaris Infrastructure Inc.,,
 15077,AVCO,Avalon Globocare Corp,,
 15078,HZU.CA,BetaPro Silver 2x Daily Bull ETF,,
-15079,WRTC,Wrap Technologies Inc,,
+15079,WRAP,Wrap Technologies Inc,,
 15080,NRCG,NRC Group Holdings Corp,,
 15081,CPRI,Capri Holdings Ltd,,
 15082,ANCN,Anchiano Therapeutics Ltd.,,
@@ -13636,7 +13634,7 @@
 15121,SWAV,"ShockWave Medical, Inc.",,
 15122,POSTMATES,Postmates Inc.,,
 15123,REDDIT,Reddit,,
-15124,CVET,HS SPINCO INC/SH,,
+15124,CVET,Covetrus Inc,,
 15125,LEVI,Levi Strauss & Co.,,
 15126,HOTH,Hoth Therapeutics Inc,,
 15127,VTHO.X,VeThor Token,,
@@ -13645,7 +13643,7 @@
 15130,PCHF,Puhui Wealth Investment Managemnt Co Ltd,,
 15131,ZYXI,Zynex Inc.,,
 15132,LTN,UN ACQUISITION/SH SH,,
-15133,CTST,CannTrust,,
+15133,CNTTQ,CannTrust,,
 15134,ESPO,VanEck Vectors Video Gaming and eSports ETF,,
 15135,ALIT,Alight Inc.,,
 15136,PRIFC,"Priority Income Fund, Inc.",,
@@ -13663,7 +13661,7 @@
 15148,TUFN,Tufin Software Technologies,,
 15149,FPE,First Trust Preferred Securities and Income ETF,,
 15150,HMTV,Hemisphere Media Group Inc,,
-15151,ALEF.CA,Aleafia Health,,
+15151,AH.CA,Aleafia Health,,
 15152,JMIA,Jumia Technologies AG,,
 15153,BRPMU,B. Riley Principal Merger Corp,,
 15154,PD,"PagerDuty, Inc.",,
@@ -13751,12 +13749,12 @@
 15236,BLT.X,Bloom,,
 15237,KREF,KKR Real Estate Finance Trust Inc,,
 15238,XAAS,Delete,,
-15239,LK,Luckin Coffee,,
+15239,LKNCY,Luckin Coffee,,
 15240,PLTX,Peloton Therapeutics,,
 15241,BCYC,BICYCLE THERAPEUTICS,,
 15242,SFX.X,Safex Cash,,
 15243,SFT.X,SFT ,,
-15244,EVSI,"Envision Solar International, Inc.",,
+15244,BEEM,Beam Global,,
 15245,NDX,Nasdaq-100 Index,,
 15246,HEMP,Hemp Inc. ,,
 15247,KXIN,Kaixin Auto Holdings,,
@@ -13824,7 +13822,7 @@
 15309,KERN,Akerna Corp.,,
 15310,OPRX,OptimizeRx Corporation,,
 15311,BMLP,Dorsey Wright MLP Index ETNs,,
-15312,PECK,The Peck Company,,
+15312,ISUN,The Peck Company,,
 15313,PSLN,Personalis,,
 15314,KTB,Kontoor Brands Inc,,
 15315,CABO,Cable One Inc,,
@@ -13858,7 +13856,7 @@
 15343,GGM,Guggenheim Credit Allocation Fund,,
 15344,EDI,Stone Harbor Emerging Mkt Total Incom FD,,
 15345,TCAP.X,CRYPTEX TOTAL MARKET CAPITALIZATION,,
-15346,ANVS,Annovis Bio,,
+15346,ANVS,Annovis Bio Inc,,
 15347,KRUS,KURA SUSHI USA,,
 15348,DT,Dynatrace Inc,,
 15349,IFS,Intercorp Financial Services,,
@@ -13995,7 +13993,7 @@
 15481,PTMN,Kohlberg Capital Corporation,,
 15482,MJO,MicroSectors Cannabis 2x Leveraged ETN,,
 15483,MJJ,MicroSectors Cannabis ETN,,
-15484,XP,"EXCO GP Partners, LP",,
+15484,XP,XP Inc,,
 15485,COHN,Cohen & Company Inc,,
 15486,GRWG,GrowGeneration,,
 15487,CABA,Cabaletta Bio Inc,,
@@ -14068,7 +14066,7 @@
 15555,GLDM,World Gold Trust - SPDR Gold MiniShares Trust,,
 15556,VRT,Vertiv Holdings,,
 15557,DEEP,Roundhill Deep Value ETF,,
-15559,GTEC.CA,GTEC Holdings ,,
+15559,GGTTF,GTEC Holdings ,,
 15560,DMB,BNY Mellon Municipal Bond Infrastructure Fund Inc,,
 15561,CEFZ,UBS AG London Branch,,
 15562,PRDO,Perdoceo Education Corporation,,
@@ -14109,23 +14107,23 @@
 15597,HIBL,Direxion Shares ETF Trust - Direxion Daily S&P 500 High Beta Bull 3X Shares,,
 15598,ZNTL,Zentalis Pharmaceuticals LLC,,
 15599,AVCT,American Virtual Cloud Technologies Inc,,
-15600,FEAC,Flying Eagle Acquisition Corp - Ordinary Shares - Class A,,
+15600,SKLZ,Skillz,,
 15601,ATCO,Atlas Corp.,,
-15602,IPOB,Social Capital Hedosophia Holdings II,,
-15603,IPOC,Social Capital Hedosophia Holdings Corp III,,
+15602,OPEN,Opendoor Technologies Inc,,
+15603,CLOV,Clover Health,,
 15604,HEX.X,HEX ,,
 15605,HIVE.X,HIVE,,
 15606,GAN,GAN Limited,,
 15607,AYLA,Ayala Pharmaceuticals Inc,,
 15608,KC,Kingsoft Cloud Holdings Ltd - ADR,,
 15609,ACTT,Act II Global Acquisition Corp - Ordinary Shares - Class A,,
-15610,FMCI,Forum Merger II Corp - Ordinary Shares - Class A,,
+15610,TTCF,Tattooed Chef,,
 15611,XPT.X,Cryptobuyer Token,,
 15612,ATEX,Anterix Inc,,
 15613,SLQT,SelectQuote,,
 15614,WKEY,WISeKey International Holding Ltd - ADR,,
 15615,NARI,"Inari Medical, Inc.",,
-15616,CCXX,Churchill Capital III Corp,,
+15616,MPLN,MultiPlan Corporation,,
 15617,HWM,Howmet Aerospace Inc,,
 15618,PAE,PAE Incorporated - Ordinary Shares - Class A,,
 15619,MFAC,Megalith Financial Acquisition Corp - Ordinary Shares - Class A,,
@@ -14141,7 +14139,7 @@
 15629,EWT.X,Energy Web Token,,
 15630,SSPK,Silver Spike Acquisition Corp - Ordinary Shares - Class A,,
 15631,SWBI,Smith & Wesson Brands Inc,,
-15632,SAMA,Schultze Special Purpose Acquisition Corp,,
+15632,CLVR,Clever Leaves Holdings Inc,,
 15633,WMG,Warner Music Group,,
 15634,ZI,ZoomInfo Technologies,,
 15635,FOUR,Shift 4 Payments,,
@@ -14151,14 +14149,14 @@
 15639,FUTU,Futu Holdings,,
 15640,PASG,Passage Bio Inc,,
 15641,BETZ,Roundhill Sports Betting & iGaming ETF,,
-15642,TRNE,Trine Acquisition Corp - Ordinary Shares - Class A,,
+15642,DM,Desktop Metal Inc,,
 15643,NEX,NexTier Oilfield Solutions Inc,,
 15644,LYRA,Lyra Therapeutics,,
-15645,OPES,Opes Acquisition Corp,,
-15646,HCCH,HL Acquisitions Corp,,
+15645,BFI,BurgerFi International,,
+15646,HTOO,Fusion Fuel Green Ltd,,
 15647,LMND,Lemonade,,
 15648,BNR,Burning Rock Biotech Ltd,,
-15649,GBIO,Generation Bio,,
+15649,GBIO,Generation Bio Co,,
 15650,LTRN,Lantern Pharma Inc. ,,
 15651,AZEK,The Azek Co.,,
 15652,UCL,uCloudlink Group Inc.,,
@@ -14170,20 +14168,20 @@
 15658,SCIU,Global X Funds - Global X Scientific Beta US ETF,,
 15659,KRMA,Global X Funds - Global X Conscious Companies ETF,,
 15660,AUSF,Global X Funds - Global X Adaptive U.S. Factor ETF,,
-15661,HSPX,Global X Funds - Global X S&P 500 Covered Call ETF,,
+15661,XYLD,Global X S&P 500 Covered Call ETF,,
 15662,YLCO,Global X Funds - Global X YieldCo & Renewable Energy Income ETF,,
 15663,LNGR,Global X Funds - Global X Longevity Thematic ETF,,
 15664,CHIC,Global X Funds - Global X Funds Global X MSCI China Communication Services ETF,,
 15665,EBIZ,Global X Funds - Global X E-commerce ETF,,
 15666,SDEM,Global X Funds - Global X MSCI SuperDividend Emerging Markets ETF,,
-15667,GRAF,Graf Industrial Corp,,
+15667,VLDR,Velodyne Lidar,,
 15668,NIFE,Direxion Funds - Direxion Fallen Knives ETF,,
 15669,EMTY,ProShares Trust - ProShares Decline of the Retail Store ETF,,
 15670,SLBG,Slinger Bag,,
 15671,LACQ,Leisure Acquisition Corp,,
 15672,JWS,Jaws Acquisition Corp,,
 15673,PLAT,WisdomTree Trust - WisdomTree Modern Tech Platforms Fund,,
-15674,CFFA,CF Finance Acquisition Corp - Ordinary Shares - Class A,,
+15674,GCMG,GCM Grosvenor Inc,,
 15675,CRO.X,Crypto.com Coin,,
 15676,CHSB.X,SwissBorg ,,
 15677,MDIA,MediaCo Holding Inc - Ordinary Shares - Class A,,
@@ -14191,9 +14189,9 @@
 15679,DADA,Dada Nexus Ltd - ADR,,
 15680,VLNS.CA,Valens Groworks Corp.,,
 15681,KBLM,KBL Merger Corp. IV,,
-15682,AMCI,Amci Acquisition Corp - Ordinary Shares - Class A,,
-15683,MNCL,Monocle Acquisition Corp,,
-15684,SPAQ,Spartan Energy Acquisition Corp - Ordinary Shares - Class A,,
+15682,ADN,Advent Technologies,,
+15683,ASLE,Aersale,,
+15684,FSR,Fisker Inc.,,
 15685,ORSN,Orisun Acquisition Corp,,
 15686,APXT,Apex Technology Acquisition Corp - Ordinary Shares - Class A,,
 15687,WPF,Foley Trasimene Acquisition Corp,,
@@ -14220,17 +14218,17 @@
 15708,COMP.X,Compound,,
 15709,USOI,Credit Suisse AG Nassau Branch - VR SP ETN REDEEM 24/04/2037 USD 25,,
 15710,MKR.X,Maker,,
-15711,SHLL,Tortoise Acquisition Corp - Ordinary Shares - Class A,,
+15711,HYLN,Hyliion Holdings,,
 15712,PRTH,Priority Technology Holdings Inc,,
 15713,FINV,FinVolution Group - ADR,,
 15714,ANDA,Andina Acquisition Corp III,,
 15715,CRSA,Crescent Acquisition Corp - Ordinary Shares - Class A,,
-15716,BMRG,B. Riley Principal Merger Corp. II - Ordinary Shares - Class A,,
+15716,EOSE,"Eos Energy Enterprises, Inc.",,
 15717,GERM,ETF Managers Trust - ETFMG Treatments Testing and Advancements ETF,,
 15718,AKUS,Akouos Inc,,
 15719,AHCO,AdaptHealth Corp - Ordinary Shares - Class A,,
 15720,BLI,Berkeley Lights,,
-15721,LCA,Landcadia Holdings II Inc - Ordinary Shares - Class A,,
+15721,GNOG,"Golden Nugget Online Gaming, Inc.",,
 15722,LPRO,Open Lending Corp - Ordinary Shares - Class A,,
 15723,HOFV,Hall of Fame Resort & Entertainment Company,,
 15724,MGNI,Magnite Inc,,
@@ -14248,22 +14246,22 @@
 15736,CLEU,China Liberal Education Holdings Ltd,,
 15737,SPQQ,Siren ETF Trust - Siren Large Cap Blend Index ETF,,
 15738,QH,Quhuo Ltd - ADR,,
-15739,PSTH.U,"Pershing Square Tontine Holdings, Ltd.",,
+15739,PSTH,"Pershing Square Tontine Holdings, Ltd.",,
 15740,ADTX,Aditx Therapeutics Inc,,
 15741,IVA,Inventiva - ADR,,
 15742,GIX,Gigcapital2 Inc,,
-15743,SBE,Switchback Energy Acquisition Corp - Ordinary Shares - Class A,,
-15744,LGC,Legacy Acquisition Corp - Ordinary Shares - Class A,,
+15743,CHPT,ChargePoint,,
+15744,ID,PARTS ID,,
 15745,LAZY,Lazydays Holdings Inc,,
 15746,ACCD,Accolade Inc,,
 15747,GOCO,GoHealth,,
-15748,HYAC,Haymaker Acquisition Corp II - Ordinary Shares - Class A,,
+15748,ARKO,Arko Corp.,,
 15749,FVAC,Fortress Value Acquisition Corp - Ordinary Shares - Class A,,
 15750,VRME,VerifyMe Inc,,
 15751,RLAY,Relay Therapeutics Inc,,
 15752,AFIB,Acutus Medical,,
 15753,GLEO,Galileo Acquisition Corp,,
-15754,GMHI,Gores Metropoulos Inc - Ordinary Shares - Class A,,
+15754,LAZR,Luminar,,
 15755,WANT,Direxion Shares ETF Trust - Direxion Daily Consumer Discretionary Bull 3X Shares,,
 15756,SIC,Select Interior Concepts Inc - Ordinary Shares - Class A,,
 15757,SCVX,SCVX Corp - Ordinary Shares - Class A,,
@@ -14275,9 +14273,2346 @@
 15763,SXP.X,Swipe,,
 15764,JIH,Juniper Industrial Holdings Inc - Ordinary Shares - Class A,,
 15765,ANNX,Annexon Inc,,
-15766,DMYT,dMY Technology Group Inc - Ordinary Shares - Class A,,
-15767,RMG,RMG Acquisition Corp - Ordinary Shares - Class A,,
+15766,RSI,Rush Street Interactive,,
+15767,RMO,Romeo Power,,
 15768,CHR.X,Chromia,,
 15769,PERL.X,Perlin,,
 15770,SOL.X,Solana,,
 15771,JFK,8i Enterprises Acquisition Corp,,
+15772,NXO.CA,NexOptic Technology Corp.,,
+15773,VERX,Vertex Inc - Ordinary Shares Class A,,
+15774,IDRV,iShares Trust - iShares Self-Driving EV and Tech ETF,,
+15775,LI,Li Auto Inc - ADR,,
+15776,THBR,Thunder Bridge Acquisition II Ltd - Ordinary Shares - Class A,,
+15777,ITOS,ITeos Therapeutics Inc,,
+15778,RIDE,Lordstown Motors Corp.,,
+15779,VITL,Vital Farms Inc,,
+15780,BIGC,BigCommerce,,
+15781,TDAC,Trident Acquisitions Corp,,
+15782,HCCO,Healthcare Merger Corp,,
+15783,DYD,DOW JONES INDL AVER,,
+15784,DPHCU,DiamondPeak Holdings Corp.,,
+15785,ORIC,ORIC Pharmaceuticals Inc,,
+15786,EDTK,Skillful Craftsman Education Tech Ltd,,
+15787,RXT,Rackspace Technology Inc,,
+15788,AACQ,Artius Acquisition Inc,,
+15789,ALMFF,Altium Limited,,
+15790,DRTT,Dirtt Environmental Solutions Ltd,,
+15791,ONTO,Onto Innovation Inc,,
+15792,FTOC,Olympus Acquisition Corp.,,
+15793,QS,QuantumScape Corp - Ordinary Shares - Class A,,
+15794,EDOC,Global X ETF - Telemedicine & Digital Health ETF,,
+15795,ACND,ASCENDANT DIGITAL ACQUISITION CORP,,
+15796,CDEX.X,CDEX Token,,
+15797,IRIS.X,IRISnet,,
+15798,YIFI.X,yearn.finance,,
+15799,YFI,yearn.finance,,
+15800,YFI.X,yearn.finance,,
+15801,HTEC,EXCHANGE TRADED/ROBO GLB HEALTHCARE,,
+15802,OIBR.C,OI S A/S ADR,,
+15803,HIMS,"Hims & Hers Health, Inc",,
+15804,UDOO.X,Howdoo,,
+15805,CHAQ,Chardan Healthcare Acquisition 2 Corp,,
+15806,FD,Facedrive Inc.,,
+15807,ALXO,ALX Oncology Holdings Inc,,
+15808,BWMX,Betterware De Mexico SA de CV,,
+15809,MSGS,Search Results Finance results Madison Square Garden Sports Corp,,
+15810,MSGE,Search Results Finance results Madison Square Garden Entertainment Corp,,
+15811,CURI,Curiositystream Inc,,
+15812,ALTG,Alta Equipment Group Inc - Ordinary Shares - Class A,,
+15813,ADXN,Addex Therapeutics Ltd - ADR,,
+15814,PRPB.U,CC Neuberger Principal Holdings,,
+15815,SNX.X,Synthetix Network ,,
+15816,ATDS,DATA443 RISK MITIGATION,,
+15817,BEKE,KE Holdings Inc - ADR,,
+15818,BITF.CA,Bitfarms,,
+15819,ERD.X,Elrond Network,,
+15820,ALAC,Alberton Acquisition Corp,,
+15821,PRCH,Porch Group Inc,,
+15822,CVAC,CureVac N.V.,,
+15823,DUOT,Duos Technologies Group Inc,,
+15824,SAND.X,The Sandbox,,
+15825,RSSS,Research Solutions Inc,,
+15826,COINZOOM.X.X,COINZOOM,,
+15827,IMTX,Immatics NV,,
+15828,FLUX,Flux Power Holdings Inc,,
+15829,CGBD,TCG BDC Inc,,
+15830,KROS,Keros Therapeutics Inc,,
+15831,CARE,Carter Bank and Trust,,
+15832,CMPI,Checkmate Pharmaceuticals Inc,,
+15833,CHX,ChampionX Corp,,
+15834,ELYS,Elys Game Technology Corp,,
+15835,FRLN,Freeline Therapeutics Holdings plc - ADR,,
+15836,GOED,1847 Goedeker Inc,,
+15837,RBAC,RedBall Acquisition,,
+15838,LMLB,UBS AG LONDON B/ETRACS MONTHLY PAY,,
+15839,NNOX,Nano X Imaging Ltd,,
+15840,SFTW,Osprey Technology Acquisition Corp - Ordinary Shares - Class A,,
+15841,DGNR,Dragoneer Growth Opportunities Corp.,,
+15842,XPEV,XPENG INC.,,
+15843,CRSR,Corsair Gaming,,
+15844,VTOL,Bristow Group Inc,,
+15845,DSE,Duff & Phelps Selct Mlp Mdsm Egy Fd Inc,,
+15846,BBCP,Brundage-Bone Concrete Pmpg Hldg Inc,,
+15847,MDIV,1ST TR EXCHANGE/MULTI-ASSET DIVSFD,,
+15848,GSAH,GS Acquisition Holdings Corp II,,
+15849,AOUT,American Outdoor Brands Inc,,
+15850,PINE,Alpine Income Property Trust Inc,,
+15851,HNT.X,Helium,,
+15852,PAR.X,Parachute,,
+15853,PNT.X, Pnetwork,,
+15854,FMTX,Forma Therapeutics Holdings Inc,,
+15855,MAXN,Maxeon Solar Technologies Ltd,,
+15856,KTON.X,Darwinia Commitment Token,,
+15857,HCDI,"Harbor Custom Development, Inc.",,
+15858,GP,GreenPower Motor ,,
+15859,SPLG,SPDR Portfolio S&P 500 ETF,,
+15860,BDRY,ETF MANAGERS GR/BREAKWAVE DRY BULK,,
+15861,GRNV,GreenVision Acquisition Corp,,
+15862,AUVI,Applied UV Inc,,
+15864,GDRX,"GoodRx Holdings, Inc.",,
+15865,SHR.X,ShareRing,,
+15866,FYII.X,DFI.Money,,
+15867,YFL.X,YF Link,,
+15868,MSOS,Advisorshares Trust - AdvisorShares Pure US Cannabis ETF,,
+15869,BEPC,Brookfield Renewable Partners LP,,
+15870,FTHM,Fathom Holdings Inc,,
+15871,SPHY,SPDR S TR/PORTFOLIO HIGH YIEL,,
+15872,UOS.X,Ultra,,
+15873,LGIQ,Logiq,,
+15874,KNBT,KNBT BANCORP INC.,,
+15875,BBAR,Banco Bbva Argentina SA,,
+15876,MBCN,Middlefield Banc Corp,,
+15877,NTST,Netstreit Corp,,
+15878,NRIX,Nurix Therapeutics Inc,,
+15879,SKE.CA,Skeena Resources Limited,,
+15880,STPK,STAR PEAK ENERGY TRANSITION CORP,,
+15881,HUT.CA,Hut 8 Mining Corp.,,
+15882,CMCT,CIM Commercial Trust Corp,,
+15883,MLAC,Malacca Straits Acquisition Co Ltd,,
+15884,SUMO,Sumo Logic,,
+15885,FROG,JFrog,,
+15886,BIPC,Brookfield Infrastructure Corp - Ordinary Shares - Class A (Subordinate Share),,
+15887,NTUS,Natus Medical Inc,,
+15888,OM,Outset Medical,,
+15889,HRMY,Harmony Biosciences Holdings Inc,,
+15890,BTBT,Bit Digital Inc,,
+15891,PRFX,PainReform Ltd,,
+15892,EBON,Ebang International Holdings Inc - Ordinary Shares - Class A,,
+15893,LSPD,Lightspeed POS,,
+15894,JEPI,J P MORGAN EXCH/EQUITY PREM IN ETF,,
+15895,SNPR,Tortoise Acquisition II Corp,,
+15896,KBNT,Kubient Inc,,
+15897,SVAC,Starboard Value Acquisition Corp,,
+15898,FBRX,Forte Biosciences Inc,,
+15899,KSM.X,Kusama ,,
+15900,XOR.X,Sora,,
+15901,CIH,China Index Holdings Ltd - ADR,,
+15902,AMWL,American Well Corp ,,
+15903,MTCR,Metacrine Inc,,
+15904,GXGX,Gx Acquisition Corp - Ordinary Shares - Class A,,
+15905,TREB,Trebia Acquisition Corp - Ordinary Shares - Class A,,
+15906,UNI.X,UNI,,
+15907,PI.X,Pi Network,,
+15909,HGEN,Humanigen,,
+15910,RTP, Reinvent Technology Partners,,
+15911,ETAC,E.Merge Technology Acquisition Corp - Ordinary Shares - Class A,,
+15912,CCIV,Churchill Capital Ord Shs Class A,,
+15913,ARYB,ARYA Sciences Acquisition,,
+15914,CMPS,COMPASS Pathways,,
+15915,PICKLE.X,PICKLE FINANCE,,
+15916,VEGI,BlackRock Institutional Trust Company N.A. - BTC iShares MSCI Global Agriculture Producers ETF,,
+15917,ADYEY,Adyen,,
+15918,GHIV,Gores Holdings IV Inc - Ordinary Shares - Class A,,
+15919,LSF,Laird Superfood Inc,,
+15920,NEPH,Nephros Inc,,
+15921,KYMR,Kymera Therapeutics Inc,,
+15922,BSY,Bentley Systems Inc - Ordinary Shares - Class B,,
+15923,BCAT,BlackRock Capital Allocation Trust,,
+15924,CPSR,Capstar Special Purpose Acquisition Corp - Ordinary Shares - Class A,,
+15925,LQWC,LifeQuest World Corporation,,
+15926,OEG,Orbital Energy Group Inc,,
+15927,CGLD.X,Core Gold Inc.,,
+15928,CXDO,Crexendo Inc,,
+15929,VACQU,Vector Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+15930,ATHA,Athira Pharma Inc,,
+15931,NMCI,Navios Maritime Containers LP - Unit,,
+15932,PBLA,Panbela Therapeutics Inc,,
+15933,SLN,Silence Therapeutics Plc - ADR,,
+15935,INZY,Inozyme Pharma Inc,,
+15936,GTH,Genetron Holdings Ltd - ADR,,
+15937,BIVI,BioVie Inc,,
+15938,INAQU,INSU Acquisition Corp II - Units (1 Ord Share Class A & 1/3 War),,
+15939,QELL,Qell Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+15940,GOVX,Geovax Labs Inc,,
+15941,PLBY,"PLBY Group, Inc.",,
+15942,SPAK,ETF Series Solutions Trust - Defiance Next Gen SPAC Derived ETF,,
+15943,AGC,Altimeter Growth ,,
+15944,AVO,Mission Produce Inc,,
+15945,TGIF,Tidal ETF Trust - SoFi Weekly Income ETF,,
+15946,FIII,Forum Merger III Corp - Ordinary Shares - Class A,,
+15947,WTRE,Watford Holdings Ltd,,
+15948,PACK,Ranpak Holdings Corp - Ordinary Shares - Class A,,
+15949,VGAC,VG Acquisition Corp.,,
+15950,AMRK,A-Mark Precious Metals Inc,,
+15951,LOAK,Live Oak Acquisition Corp - Ordinary Shares - Class A,,
+15952,BNL,Broadstone Net Lease Inc - Ordinary Shares - Class A,,
+15953,ASO,Academy Sports & Outdoors Inc,,
+15954,MMED,Mind Medicine (MindMed) Inc,,
+15955,IPOD,Social Capital Hedosophia Holdings Corp IV,,
+15956,IPOE,Social Capital Hedosophia Holdings Corp V,,
+15957,IPOF,Social Capital Hedosophia Holdings Corp VI,,
+15958,TOMZ,TOMI Environmental Solutions Inc,,
+15959,XVS.X,Venus,,
+15960,CD,Chindata Group Holdings Ltd - ADR,,
+15961,ENPC,Executive Network Partnering Corp.,,
+15962,HGBL,Heritage Global Inc,,
+15963,MMX,Maverix Metals Inc,,
+15964,GRAY,Graybug Vision Inc,,
+15965,LXEH,Lixiang Education Holding Co Ltd - ADR,,
+15966,PTVE,Pactiv Evergreen Inc,,
+15967,AMST,Amesite Operating Co,,
+15968,SRAC,Stable Road Acquisition Corp - Ordinary Shares - Class A,,
+15969,PRLD,Prelude Therapeutics Inc,,
+15970,PCSA,Processa Pharmaceuticals Inc,,
+15971,GLSI,Greenwich LifeSciences Inc,,
+15972,STEP,StepStone Group Inc - Ordinary Shares - Class A,,
+15973,VTRU,Vitru Ltd,,
+15974,IMNM,Immunome Inc,,
+15975,BQ,Boqii Holding Limited - ADR,,
+15976,ONCR,Oncorus Inc,,
+15977,AZYO,Aziyo Biologics Inc - Ordinary Shares - Class A,,
+15978,YALA,Yalla Group Limited - ADR,,
+15979,SOS,SOS Limited - ADR,,
+15980,ORPH,Orphazyme A/S - ADR,,
+15981,HYMC,Hycroft Mining Holding Corporation - Ordinary Shares - Class A,,
+15982,FUBO,fuboTV Inc,,
+15983,RPTX,Repare Therapeutics Inc,,
+15984,KRON,Kronos Bio Inc,,
+15985,SPRB,Spruce Biosciences Inc,,
+15986,PROG,Progenity Inc,,
+15987,IACA,ION ACQUISITION CORP 1 LTD,,
+15988,PDACU,Peridot Acquisition Corp. Units,,
+15989,AEX.CA,AEX Gold Inc.,,
+15990,ABRA.CA,AbraPlata Resource Corp.,,
+15991,SPA.CA,Spanish Mountain Gold,,
+15992,AGC.CA,Amarillo Gold,,
+15993,DSV.CA,Discovery Metals,,
+15994,DMGI.CA,DMGI Blockchain Solutions ,,
+15995,DV.CA,Dolly Varden,,
+15996,ELY.CA,Ely Gold Royalties,,
+15997,FSX.CA,Fosterville South Exploration,,
+15998,QQQJ,Invesco Exchange-Traded Fund Trust II - Invesco NASDAQ Next Gen 100 ETF,,
+15999,ETWO,CC Neuberger Principal Holdings I,,
+16000,HAIL,SPDR S&P Kensho Smart Mobility ETF,,
+16001,FMAC.U,FirstMark Horizon Acquisition Corp. Units,,
+16002,MNSO,MINISO Group Holding Ltd - ADR,,
+16003,STTK,Shattuck Labs Inc,,
+16004,AIH,Aesthetic Medical International Holdings Group Ltd - ADR,,
+16005,FSDC,FS Development Corp - Ordinary Shares - Class A,,
+16006,VOLQ,NASDAQ-100 Volatility Index,,
+16007,KTN.CA,Kootenay Silver,,
+16008,BRC.CA,Blackrock Gold,,
+16009,SSE.CA,Silver Spruce Resources,,
+16010,CBI.CA,Colibri Resource ,,
+16011,NAM.CA,New Age Metals,,
+16012,GNC.CA,GNC Capital Corp,,
+16013,GER.CA,Glen Eagle Resources,,
+16014,LAT.CA,Latin American Minerals,,
+16015,SRND.CA,Standard Uranium,,
+16016,ROVR.CA,Rover Metals Corp,,
+16017,ABN.CA,Aben Resources,,
+16018,DEC.CA,Decade Resources,,
+16019,GCCH.CA,Golden Cariboo,,
+16020,VSPR,Vesper Healthcare Acquisition Corp,,
+16021,OMQS,Omniq Corp,,
+16022,INTZ,Intrusion Inc.,,
+16023,TSHA,Taysha Gene Therapies Inc,,
+16024,CCCC,C4 Therapeutics Inc,,
+16025,TARS,Tarsus Pharmaceuticals Inc,,
+16026,ALGS,Aligos Therapeutics Inc,,
+16027,PRAX,Praxis Precision Medicines Inc,,
+16028,KRBP,Kiromic BioPharma Inc,,
+16029,OPT,Opthea Limited - ADR,,
+16030,IH,iHuman Inc - ADR,,
+16031,SMMC,South Mountain Merger Corp - Ordinary Shares - Class A,,
+16032,BTWNU,Bridgetown Holdings Ltd - Units (1 Ord Class A & 1/3 War),,
+16034,SRVR,Pacer Benchmark Data & Infrastructure RE SCTR,,
+16035,LOTZ,Carlotz Inc.,,
+16036,MCFE,McAfee Corp - Ordinary Shares - Class A,,
+16037,INBK,First Internet Bancorp,,
+16038,RACA,Therapeutics Acquisition Corp,,
+16039,FHTX,Foghorn Therapeutics Inc,,
+16040,EXRO,Exro Technologies Inc,,
+16041,LFMD,LifeMD,,
+16042,BFT,Foley Trasimene Acquisition II,,
+16043,LUXAU,Lux Health Tech Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+16044,MAX,MediaAlpha Inc - Ordinary Shares - Class A,,
+16045,ROOT,Root Inc - Ordinary Shares - Class A,,
+16046,BABYF,Else Nutrition Holdings Inc,,
+16047,IPV,InterPrivate Acquisition Corp.,,
+16048,ALGM,Allegro MicroSystems Inc,,
+16049,GHLD,Guild Holdings Co,,
+16050,BDGY,Bridgeway National Corp.,,
+16051,ATBPF,Antibe Therapeutics Inc,,
+16052,NGA,Northern Genesis Acquisition Corp,,
+16053,NEXCF,NexTech AR Solutions,,
+16054,THCB,Tuscan Holdings Corp,,
+16055,TWCT,TWC Tech Holdings II Corp - Ordinary Shares - Class A,,
+16056,HPK,Highpeak Energy Inc,,
+16057,ROCH,Roth CH Acquisition I Co - Ordinary Shares - Class A,,
+16058,OM.X,MANTRA DAO COIN,,
+16059,VYGVF,Voyager Digital Ltd,,
+16060,LESL,Leslies Inc,,
+16061,NOAC,Natural Order Acquisition Corp.,,
+16062,RZLT,Rezolute Inc,,
+16063,GTBIF,Green Thumb Industries,,
+16064,TCNNF,Trulieve Cannabis,,
+16065,CURLF,Curaleaf Holdings,,
+16066,CCHWF,Columbia Care Inc,,
+16067,AYRWF,AYR Strategies Inc,,
+16068,CRLBF,Cresco Labs Inc,,
+16069,CXXIF,C21 Investments Inc,,
+16070,CWBHF,Charlotte's Web Holdings Inc,,
+16071,FFNTF,4Front Ventures Corp,,
+16072,HRVSF,Harvest Health & Recreation Inc,,
+16073,JUSHF,Jushi Holdings Inc,,
+16074,TRSSF,Terrascend Corp,,
+16075,VREOF,Vireo Health International Inc,,
+16076,THRY,Thryv Holdings Inc,,
+16077,DASH,DoorDash,,
+16078,MOON,Direxion Shares ETF Trust - Direxion Moonshot Innovators ETF,,
+16079,HAAC,Health Assurance Acquisition Corp - Units (1 Ord Class A & 1/4 War),,
+16080,SILEF,Silver Elephant Mining Corp.,,
+16081,GLTO,Galecto Inc,,
+16082,PMVP,PMV Pharmaceuticals Inc,,
+16083,VIAO,VIA optronics AG - ADR,,
+16084,BDSX,Biodesix Inc,,
+16085,LU,Lufax Holding Ltd - ADR,,
+16086,SQZ,SQZ Biotechnologies Co,,
+16087,FUNFF,Fansunite Entertainment Inc,,
+16088,ACAC,Acies Acquisition Corp,,
+16089,AWGI,Ambient Water Corp,,
+16090,NBAC,Newborn Acquisition Corp,,
+16091,OPTI,Optec International Inc,,
+16092,ABNB,Airbnb,,
+16093,ACACU,Acies Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+16094,DSGT,DSG Global Inc,,
+16095,DRGV,Dragon Capital Group Corp.,,
+16096,SING,"SinglePoint, Inc. Common Stock",,
+16097,AGSO,"AgriSolar Solutions, Inc.",,
+16098,PIPP,Pine Island Acquisition Corp.,,
+16099,NPA,New Providence Acquisition Corp Class A,,
+16100,VTRS,Viatris Inc,,
+16101,CYDY,CytoDyn Inc,,
+16102,GSMG,Glory Star New Media Group Holdings Limited,,
+16103,CRHC,Cohn Robbins Holdings Corp - Ordinary Shares - Class A,,
+16104,ACON,ACON S2 Acquisition,,
+16105,CCAC,CITIC Capital Acquisition Corp - Ordinary Shares - Class A,,
+16106,VNT,Vontier Corp,,
+16107,FRDM,Freedom 100 Emerging Markets ETF,,
+16108,HDSLF,Healthspace Data Systems Ltd,,
+16109,JOET,Virtus ETF Trust II - Virtus Terranova U.S. Quality Momentum ETF,,
+16110,ALPP,Alpine 4 Technologies Ltd,,
+16111,MP,MP Materials,,
+16112,CVLG,Covenant Logistics Group Inc - Ordinary Shares - Class A,,
+16113,TLS,Telos Corp,,
+16114,MSNVF,Mission Ready Solutions Inc,,
+16115,SJ,Scienjoy Holding Corp,,
+16116,DGNS,Dragoneer Growth Opportunities Corp II - Ordinary Shares - Class A,,
+16117,RTPZ,Reinvent Technology Partners Z,,
+16118,ATNF,180 Life Sciences Corp,,
+16119,RBLX,Roblox,,
+16120,AFRM,Affirm,,
+16121,YSG,Yatsen Holding Ltd,,
+16122,NGMS,NeoGames SA,,
+16123,LGVW,Longview Acquisition Corp - Ordinary Shares - Class A,,
+16124,TWND,Tailwind Acquisition Corp,,
+16125,BTTR,Better Choice Company Inc,,
+16126,PLNHF,Planet 13 Holdings Inc,,
+16127,SEAH,Sports Entertainment Acquisition Corp,,
+16128,PAND,Pandion Therapeutics Inc,,
+16129,ATVK,Ameritek Ventures,,
+16130,QBTC.U,Bitcoin Fund,,
+16131,FTIV,FinTech Acquisition Corp,,
+16132,BALY,Bally's Corp,,
+16133,MCOA,Marijuana Company Of America Inc,,
+16134,MRVI,Maravai Lifesciences Holdings Inc,,
+16135,SHC,Sotera Health Co,,
+16136,ABML,American Battery Metals Corp,,
+16137,SWRM,AppSwarm Inc,,
+16138,LOWLF,Lowell Farms,,
+16139,ACRHF,Acreage Holdings Inc,,
+16140,TSNPD,"Tesoro Enterprises, Inc. Common Stock",,
+16141,PKTX,"ProtoKinetix, Inc.",,
+16142,CRTD,Creatd Inc,,
+16143,OZON,Ozon Holdings PLC,,
+16144,BBIG,Vinco Ventures Inc,,
+16145,SJNK,SPDR Bbg Barclays Short Term High Yield Bond ETF,,
+16146,VRYYF,Very Good Food Company Inc,,
+16147,LIACF,American Lithium Corp,,
+16148,ALYI,"Alternet Systems, Inc.",,
+16149,AVIR,Atea Pharmaceuticals Inc,,
+16150,VMAR,Vision Marine Technologies Inc.,,
+16151,INAQ,INSU Acquisition Corp II - Ordinary Shares - Class A,,
+16152,SMID,Smith-Midland Corp.,,
+16153,HYSR,SunHydrogen Inc,,
+16154,MMEDF,Mind Medicine (MindMed) Inc,,
+16155,HUTMF,Hut 8 Mining Corp.,,
+16156,LTCN,Grayscale Litecoin TR LTC,,
+16157,BLGO,"BioLargo, Inc.",,
+16158,SPRQ,Spartan Acquisition Corp. II ,,
+16159,WIZ,MerlynAI Bull-Rider Bear-Fighter ETF,,
+16160,SNUG,MerlynAI Tactical Growth and Income ETF,,
+16161,HVBTF,HIVE Blockchain Technologies Ltd,,
+16162,NTGL,NanoTech Gaming Ord Shs,,
+16163,NWAU,NowAuto Ord Shs,,
+16164,CBDD,CBD of Denver Ord Shs,,
+16165,ESPIQ,"ESP Resources, Inc.",,
+16166,IMPX,AEA-Bridges Impact Corp.,,
+16167,VIEW,CF Acquisition Corp,,
+16168,LIXT,"Lixte Biotechnology Holdings, Inc.",,
+16169,HPIL,HPIL Holding Common Stock,,
+16170,ILIM,Il2m International Corp,,
+16171,BYRN,Byrna Technologies Inc,,
+16172,PHAR,Pharming Group,,
+16173,CLII,Climate Change Crisis Real Impact I Acquisition Corp - Ordinary Shares - Class A,,
+16174,ACTC,ArcLight Clean Transition Corp - Ordinary Shares - Class A,,
+16175,STWO,ACON S2 Acquisition Corp - Ordinary Shares - Class A,,
+16176,DCRB,Decarbonization Plus Acquisition Corp,,
+16177,BOAC,Bluescape Opportunities Acquisition Corp.,,
+16178,TPGY,TPG Pace Beneficial Finance Corp - Ordinary Shares - Class A,,
+16179,JUVAF,Juva Life Inc,,
+16180,ENZC,Enzolytics Inc,,
+16181,WKSP,Worksport Ltd,,
+16182,SEGI,Sycamore Entertainment Group Inc,,
+16183,AFOM,All For One Media Corp,,
+16184,PUGE,Puget Technologies Inc,,
+16185,SUTI,SUTIMCo International Inc,,
+16186,RGBP,Regen Biopharma Inc,,
+16187,TGRR,Tiger Reef Inc,,
+16188,CATV,4Cable TV International Inc,,
+16189,COUV,Corporate Universe Inc,,
+16190,PLYZ,Plyzer Technologies Inc,,
+16191,ABQQ,AB International Group Corp,,
+16192,XMETD,Xxstream Entertainment Inc,,
+16193,LNSR,LENSAR Inc,,
+16194,LCY,Landcadia Holdings III Inc - Units (1 Ord Share Class A & 1/3 War),,
+16195,NMGRF,Nouveau Monde Graphite Inc,,
+16196,SIRC,Solar Integrated Roofing Corp,,
+16197,KAVL,Kaival Brands Innovations Group Ord Shs,,
+16198,HWKE,Hawkeye Systems Inc,,
+16199,NUMI,Numinus Wellness Inc,,
+16200,BOWX,Bowx Acquisition Corp,,
+16201,FORW,Forwardly Ord Shs,,
+16202,OZSC,Ozop Energy Solutions,,
+16203,GRAMF,Tpco Holding Corp Com,,
+16204,AGBA,AGBA Acquisition Ltd,,
+16205,PTGEF,Portage Biotech Inc,,
+16206,INQD,Indoor Harvest Corp,,
+16207,GDET,GD Entertainment and Technology Ord Shs,,
+16208,PRPM,ProTek Capital Inc,,
+16209,VYGG,Vy Global Growth - Ordinary Shares - Class A,,
+16210,GAXY,Galaxy Next Generation Inc,,
+16211,FTWS,Flitways Technology Inc,,
+16212,HQGE,HQ Global Education Inc,,
+16213,HFEN,HF Enterprises Inc,,
+16214,QBAN,Telco Cuba Inc,,
+16215,ELCR,Electric Car Co Inc,,
+16216,DGTW,Digitaltown Inc,,
+16217,VIZC,VizConnect Inc,,
+16218,ABCM,Abcam - ADR (Sponsored),,
+16219,KULR,KULR Technology Group Inc,,
+16220,WNDW,Solarwindow Technologies Inc,,
+16221,WNBD,Winning Brands Corporation,,
+16222,GTLL,"Global Technologies, Ltd.",,
+16223,GRLT,Healthy & Tasty Brands Corp,,
+16224,FTXP,Foothills Exploration Inc,,
+16225,XSPT,XSport Global Inc,,
+16226,HHSE,Hannover House Inc,,
+16227,GLXZ,Galaxy Gaming Inc,,
+16228,RETC,12 Retech Corp,,
+16229,BYZN,Byzen Digital Inc,,
+16230,HECC,Hydrocarb Energy Corporation,,
+16231,DFOQD,Dean Foods Co,,
+16232,AFPW,AlumiFuel Power Corp,,
+16233,PPJE,PPJ Healthcare Enterprises Inc,,
+16234,CMLF,CM Life Sciences Inc - Ordinary Shares - Class A,,
+16235,MWWC,Marketing Worldwide Corporation,,
+16236,IGEX,Indo Global Exchange(s) Pte Limited,,
+16237,BAL.X,Balancer,,
+16238,SPNVU,Supernova Partners Acquisition Co,,
+16239,GINN,Goldman Sachs Innovate Equity ETF,,
+16240,GLCO,Global Links Corporation,,
+16241,APYP,AppYea Inc,,
+16242,HEOFF,H2O Innovation Inc,,
+16243,HEC,Hudson Executive Investment Ord Shs Class A,,
+16244,RVVTF,Revive Therapeutics Ltd,,
+16245,DMYD,"DMY Technology Group, Inc. II",,
+16246,BSRC,BioSolar Inc,,
+16247,RDGL,Vivos Inc,,
+16248,SNWR,Sanwire Corp,,
+16249,IJJP,IJJ Ord Shs,,
+16250,GWSO,Global Warming Solutions Ord Shs,,
+16251,THCA,Tuscan Holdings Corp II,,
+16252,POWW,AMMO Inc,,
+16253,RSSV,Resort Savers Inc,,
+16254,CZNI,Cruzani Inc,,
+16255,ETEK,Eco-Tek Group Inc,,
+16256,ETFM,2050 Motors Inc,,
+16257,CAVR,CAVU Resources Inc.,,
+16258,PRTC,Puretech Health,,
+16259,ACCA,Acacia Diversified Holdings Inc,,
+16260,LXRP,Lexaria Bioscience Corp,,
+16261,ECEZ,Ecosciences Inc,,
+16262,UAOC,United American Petroleum Corp,,
+16263,RXMD,Progressive Care Inc,,
+16264,GFTX,Global Fiber Technologies Inc,,
+16265,GURU.TO,Guru Organic Energy Corp,,
+16266,GMGI,Golden Matrix Group Inc,,
+16267,JGLD,Amplify ETF Trust - Amplify Pure Junior Gold Miners ETF,,
+16268,SILO,Silo Pharma Inc,,
+16269,NECA,New America Energy Corp,,
+16270,UAPC,United American Petroleum Corp,,
+16271,OLMA,Olema Pharmaceuticals Inc,,
+16272,PSYC,Global Trac Solutions Inc,,
+16273,MINE,Minerco Inc,,
+16274,FSXLF,Fosterville South Exploration Ltd,,
+16275,ROMJ.CA,Rubicon Organics Inc,,
+16276,QK,Q&K International Group Ltd - ADR,,
+16277,GDXU,MicroSectors Gold Miners 3X Leveraged ETN,,
+16278,GDXD,MicroSectors Gold Miners -3X Inverse Leveraged ETNs,,
+16279,CBDS,Cannabis Sativa Inc,,
+16280,IGAC,IG Acquisition Corp,,
+16281,TSCRD,Score Media and Gaming Inc,,
+16282,WNGRF,George Weston Limited,,
+16283,OTGLY,CD Projekt 4 ADR Representing Ord Shs,,
+16284,ATC,Atotech Limited,,
+16285,DKSC,Dakshidin Corporation,,
+16286,QNTA,Quanta Inc,,
+16287,BTAQ,Burgundy Technology Acquisition Corp - Ordinary Shares - Class A,,
+16288,BSN,Broadstone Acquisition Corp - Ordinary Shares - Class A,,
+16289,KNTE,Kinnate Biopharma Inc,,
+16290,CLA,Colonnade Acquisition Corp - Ordinary Shares - Class A,,
+16291,APTY,APT Systems Inc,,
+16292,ATAC,Altimar Acquisition Corp,,
+16293,BNGI,BANGI Inc,,
+16294,BLSP,Blue Sphere Corporation common stock,,
+16295,IALS,InterActive Leisure Systems Inc,,
+16296,NSH.U, NavSight Holdings Inc.,,
+16297,TSF.XCNQ,TraceSafe Inc.,,
+16298,PBHG,PBS Holding Ord Shs,,
+16299,CYDVF,Cypress Development Corp,,
+16300,TRNF,Taronis Fuels Inc,,
+16301,RLFTF,Relief Therapeutics Holding AG,,
+16302,CGRO,Collective Growth Corporation - Ordinary Shares - Class A,,
+16303,PERT,Permanent Technologies Inc,,
+16304,WDLF,Social Life Network Inc,,
+16305,EVIO,EVIO Inc,,
+16306,SCIE,SpectraScience Inc,,
+16307,NBA,New Beginnings Acquisition Corp,,
+16308,GLDFF,Golden Leaf Holdings Ltd,,
+16309,SGMD,Sugarmade Inc,,
+16310,VYST,Vystar Corp. Common Stock,,
+16311,ICNAF,Icanic Brands Company Inc,,
+16312,IGPK,Integrated Cannabis Solutions Ord Shs,,
+16313,NSCO,Nesco Holdings Inc,,
+16314,FRX.UN,Forest Road Acquisition Corporation.,,
+16315,ADHC,American Diversified Holdings Corp,,
+16316,GSCCF,Ioneer Ltd,,
+16317,VCVC,10X Capital Venture Acquisition Corp,,
+16318,ONDS,Ondas Holdings Inc,,
+16319,CBDX,Curative Biosciences Inc,,
+16320,PYPD,Polypid Ltd,,
+16321,MKGP,Maverick Energy Group LTD,,
+16322,INCC,International Consolidated Companies Inc,,
+16323,RECAF,Reconnaissance Energy (Africa) Ltd,,
+16324,LWLG,"Lightwave Logic, Inc.",,
+16325,CDOR,Condor Hospitality Trust Inc,,
+16326,CBDL,CBD Life Sciences Ord Shs,,
+16327,CSLI,Critical Solutions Ord Shs,,
+16328,RTON,Right On Brands Inc,,
+16329,TPTW,TPT Global Tech Inc,,
+16330,USMJ,North American Cannabis Holdings Inc,,
+16331,PURA,Puration Inc,,
+16332,CBGL,Cannabis Global Inc,,
+16333,CMCL,Caledonia Mining Corporation Plc,,
+16334,PAWZ,ProShares Pet Care ETF,,
+16335,SUVRF,Modern Meat Inc,,
+16336,FSTX,F-star Therapeutics Inc,,
+16337,LOAC,Longevity Acquisition Corp,,
+16338,STHC,"Southcorp Capital, Inc.",,
+16339,SVTE,Service Team Inc.,,
+16340,EWLL,eWellness Healthcare Corporation,,
+16341,LVVV,Livewire Ergogenics Inc,,
+16342,AJAX.U,Ajax I Units,,
+16343,SKDI,Sun Kissed Industries Ord Shs,,
+16344,KYNC,KYN Capital Group Inc,,
+16345,APRU,Apple Rush Ord Shs,,
+16346,OWCP,OWC Pharmaceutical Research Corp,,
+16347,GRSO,Grow Solutions Holdings Inc,,
+16348,GNENF,Ganfeng Lithium Co Ltd - Ordinary Shares - Class H,,
+16349,WOZX.X,Efforce,,
+16350,BBKCF,BIGG Digital Assets Inc,,
+16351,CWRK,Currencyworks Inc,,
+16352,JNSH,JNS Holdings Ord Shs,,
+16353,ERBB,American Green Inc,,
+16354,ADMQ,Adm Endeavors Inc,,
+16355,EHOS,Ehouse Global Ord Shs,,
+16356,ACEV,ACE Convergence Acquisition Corp,,
+16357,BRGGF,Bragg Gaming Group Inc,,
+16358,LFAC,LF Capital Acquisition Corp,,
+16359,BLDV,Blue Diamond Ventures Ord Shs,,
+16360,WISE.X,Wise Token,,
+16361,VNUE,VNUE Inc,,
+16362,TOBAF,Taat Lifestyle & Wellness Ltd,,
+16363,TLSS,Transportation and Logistics Systems Inc,,
+16364,AHIX,ALUF Holdings Inc,,
+16365,DSVMF,Discovery Metals Corp,,
+16366,VMNT,Vemanti Group Ord Shs,,
+16367,HCMC,Healthier Choices Management Corp,,
+16368,CLXPF,Cybin Inc,,
+16369,AFTPF,Afterpay Limited,,
+16370,AVAN,Avanti Acquisition Corp - Ordinary Shares - Class A,,
+16371,VSQTF,Victory Square Technologies Inc,,
+16372,GOFF,Goff Corp,,
+16373,GPLS,Geopulse Exploration Inc,,
+16374,GTEH,GenTech Holdings Inc,,
+16375,NUUU,Rejuvel Bio-Sciences Inc,,
+16376,UBQU,Ubiquitech Software Corp,,
+16377,SLGBF,good natured Products Inc,,
+16378,RSCF,Reflect Scientific Inc,,
+16379,FGNA,FG New America Acquisition Corp,,
+16380,FCAC,Falcon Capital Acquisition Corp,,
+16381,RCHG,Recharge Acquisition Corp,,
+16382,DBDR,Roman Dbdr Tech Acquisition Corp,,
+16383,EMPW,Empower Ltd,,
+16384,MACU,Mallard Acquisition Corp.,,
+16385,DSAC,Duddell Street Acquisition Corp.,,
+16386,MAAC,Montes Archimedes Acquisition Corp,,
+16387,GWAC,Good Works Acquisition Corp.,,
+16388,NGAC,NextGen Acquisition,,
+16389,YSAC,Yellowstone Acquisition,,
+16390,ATYG,Atlas Technology Group Inc,,
+16391,ACUIF,AcuityAds Holdings Inc,,
+16392,BMIX,Brazil Minerals Inc,,
+16393,HBRM,Herborium Group Inc,,
+16394,PVDG,Poverty Dignified Inc,,
+16395,FIRE,Supreme Cannabis Company Inc,,
+16396,FIRE.CA,Supreme Cannabis Company Inc,,
+16397,CYIO,CYIOS Corp,,
+16398,PLTXF,Plantx Life Inc,,
+16399,EQNR,Equinor ASA,,
+16400,LCAP,Lionheart Acquisition Corp II - Ordinary Shares - Class A,,
+16401,ABCL,AbCellera,,
+16402,AABB,Asia Broadband Inc,,
+16403,SV,Spring Valley Acquisition Corp,,
+16404,AAIC,Arlington Asset Investment Corp,,
+16405,SDRC,Sidney Resources Ord Shs,,
+16406,RNWF,Renewal Fuels Inc,,
+16407,SPRV,Supurva Healthcare Group Ord Shs,,
+16408,DECN,Decision Diagnostics Corp,,
+16409,PGVI,Promithian Global Ventures Inc,,
+16410,SKYE,SKYE BIOSCIENCE,,
+16411,ACGX,"Alliance Creative Group, Inc Common Stock",,
+16412,PVSP,Pervasip Corp,,
+16413,VIBI,Vilacto Bio Inc,,
+16414,BTWN,Bridgetown Holdings Limited ,,
+16415,IRNC,Ironclad Encryption Corp,,
+16416,SFOR,Strikeforce Technologies Inc,,
+16417,XPOA,DPCM Capital Inc.,,
+16418,BTZI,Bots Inc,,
+16419,BAYP,Bayport International Holdings Inc,,
+16420,ATIXF,AnalytixInsight Inc,,
+16421,FLES,4 Less Group Inc,,
+16422,SBTX,Skinbiotherapeutics PLC,,
+16423,PUBM,PubMatic Inc,,
+16424,HYFM,"Hydrofarm Holdings Group, Inc.",,
+16425,RVPH,Reviva Pharmaceuticals,,
+16426,SNRY,Solar Energy Initiatives Inc,,
+16427,VASO,Vaso Corp,,
+16428,HALB,Halberd Corp,,
+16429,TONR,Tonner-One World Holdings Inc,,
+16430,BLUU,Blue Water Global Group Inc,,
+16431,DTMXF,DataMetrex AI Ltd,,
+16432,VVOS,Vivos Therapeutics Inc,,
+16433,LATN,Union Acquisition Corp II,,
+16434,SGAM,Seaport Global Acquisition Corp - Ordinary Shares - Class A,,
+16435,HZON,Horizon Acquisition Corp II - Ordinary Shares - Class A,,
+16436,MOTN,Motion Acquisition Corp - Ordinary Shares - Class A,,
+16437,TMPM,Turmeric Acquisition Corp.,,
+16438,OTRA,OTR Acquisition Corp.,,
+16439,HIGA,H.I.G. Acquisition Corp - Ordinary Shares - Class A,,
+16440,LFTR,Lefteris Acquisition Corp.,,
+16441,SPNV,Supernova Partners Acquisition Company Inc - Ordinary Shares - Class A,,
+16442,SRSA,Sarissa Capital Acquisition Corp - Ordinary Shares - Class A,,
+16443,CTAC,Cerberus Telecom Acquisition Corp - Ordinary Shares - Class A,,
+16444,TEKK,Tekkorp Digital Acquisition Corp.,,
+16445,ALUS,Alussa Energy Acquisition Corp - Ordinary Shares - Class A,,
+16446,RSVA,Rodgers Silicon Valley Acquisition Corp,,
+16447,KGKG,Kona Gold Solutions Inc,,
+16448,TRMND,New Wave Holdings Corp,,
+16449,ASAQ,Atlantic Avenue Acquisition Corp - Ordinary Shares - Class A,,
+16450,CERT,Certara Inc,,
+16451,ARCS,Arcis Resources Corp,,
+16452,NSPT,Newron Sport,,
+16453,TMRC,Texas Mineral Resources Corp,,
+16454,RPLA,Replay Acquisition Corp,,
+16455,TRMNF,New Wave Holdings Corp,,
+16456,CTLE,Nano Labs Corp,,
+16457,PLPL,Plandai Biotechnology Inc,,
+16458,FCGD,First Colombia Gold Corp,,
+16459,MI.UN.TO,Minto Apartment Real Estate Invt Trust,,
+16460,NWARF,Norwegian Air Shuttle ASA,,
+16461,PAOG,PAO Group Ord Shs,,
+16462,AZFL,Amazonas Florestal Ord Shs,,
+16463,TBEV,High Performance Beverages Ord Shs,,
+16464,MSPC,Metrospaces Inc,,
+16465,JYAC,Jiya Acquisition Corp,,
+16466,CETY,Clean Energy Technologies Inc,,
+16467,DLOC,Digital Locations Inc,,
+16468,BBRRF,Blueberries Medical Corp,,
+16469,MLFB,Major League Football Inc,,
+16470,PCMC,Public Company Management Corp,,
+16471,SBES,South Beach Spirits Inc,,
+16472,FDBL,Friendable Inc,,
+16473,BLLB,Bell Buckle Holdings Ord Shs,,
+16474,JSTC,Adasina Social Justice All Cap Global ETF,,
+16475,SHMP,NaturalShrimp Inc,,
+16476,IHSI,Intelligent Highway Solutions Inc,,
+16477,GTCH,GBT Technologies Inc,,
+16478,HAVLF,HAVN Life Sciences Inc,,
+16479,SYTA,Siyata Mobile Ord Shs,,
+16480,ENTEF,ESE Entertainment Inc,,
+16481,LLLI,Lamperd Less Lethal Inc,,
+16482,AEPT,American Energy Partners Inc,,
+16483,IWSY,"ImageWare Systems, Inc. common stock",,
+16484,WSGF,"World Series of Golf, Inc.",,
+16485,IQST,Iqstel Inc,,
+16486,OPCH,Option Care Health Inc,,
+16487,NESR,National Energy Services Reunited Corp,,
+16488,GRST,Ethema Health Corp,,
+16489,BRLL,Barrel Energy Inc,,
+16490,SCPS,Scopus Biopharma,,
+16491,PONGF,Atari SA,,
+16492,CLIS,Clickstream Corp,,
+16494,SHA.X,Safehaven,,
+16495,SUSH.X,Sushi,,
+16496,BITW,Bitwise 10 Crypto Index Fund,,
+16497,AITX,ARTIFICIAL INTELLIGENCE TECHNOLOGY SOLUTIONS ,,
+16498,VMAC,Vistas Media Acquisition Company Inc,,
+16499,PCPC,Periphas Capital Partnering Corp,,
+16500,VSYM,"View Systems, Inc. common stock",,
+16501,UPST,Upstart,,
+16502,VLO.X,Velotoken,,
+16503,SGTX,Sigilon Therapeutics Inc,,
+16504,TRUFF,Red Light Holland Corp,,
+16505,LOKB,Live Oak Acquisition Corp II,,
+16506,ZNTE,Zanite Acquisition Corp.,,
+16507,LEGO, Legato Merger Corp,,
+16508,SKYF,SKY440 Inc,,
+16509,BPSR,Organicell Regenerative Medicine Inc,,
+16510,DCBO,Docebo Inc,,
+16511,EXPC,Experience Investment Corp.,,
+16512,KWBT,Kiwa Bio-Tech Products Group Corporation,,
+16513,BCCI,Baristas Coffee Ord Shs,,
+16514,SIOX,Sio Gene Therapies Inc,,
+16515,DRNK,NoHo Inc,,
+16516,MJLB,Ultrack Systems Inc,,
+16517,LKYSF,Numinus Wellness Inc.,,
+16518,MYCOF,Mydecine Innovations Group Inc,,
+16519,TMXN,Trimax Corp.,,
+16520,SIML,Simlatus Corp,,
+16521,WELL.CA,WELL Health Technologies Corp,,
+16522,VSBGF,VSBLTY Groupe Technologies Corp,,
+16523,NTTHF,Neo Lithium Corp,,
+16524,WFTLF,Weatherford International plc,,
+16525,WFLTF,Weatherford International plc,,
+16526,MSMY,MC Endeavors Ord Shs,,
+16527,CBBT,Cerebain Biotech Corp,,
+16528,BUROF,Burcon NutraScience Corp,,
+16529,ACRDF,Acreage Holdings Floating Subordinate Voting Class D Ord Shs,,
+16530,CURR,Cure Pharmaceutical Holding Corp,,
+16531,GCLT,GainClients Ord Shs,,
+16532,BSSP,Cantech Holding Inc,,
+16533,EQOS,Diginex Limited,,
+16534,SBOX,Superbox Ord Shs,,
+16535,AMAZ,Amazing Energy Oil and Gas Co,,
+16536,WISH,ContextLogic Inc,,
+16537,PEMTF,Thoughtful Brands Inc,,
+16538,JUPW,Jupiter Wellness Inc,,
+16539,AXXA,Exxe Group Inc,,
+16540,QUBT,Quantum Computing Inc,,
+16541,FUAPF,Global Cannabis,,
+16542,IGEN,IGEN Networks Corp,,
+16543,WNW,Wunong Net Technology Co Ltd,,
+16544,PILBF,Pilbara Minerals Ltd,,
+16545,YGMZ,MingZhu Logistics Holdings Ltd,,
+16546,ABCE,"ABCO Energy, Inc",,
+16547,DSNY,Destiny Media Technologies Inc,,
+16548,ISWH,ISW Holdings,,
+16549,XALL,Xalles Holdings Inc,,
+16550,VIRI,Virios Therapeutics LLC,,
+16551,STIC,NORTHERN STAR ACQ CORP,,
+16552,INM,InMed Pharmaceuticals Inc,,
+16553,CYTH,Cyclo Therapeutics Inc.,,
+16554,ADOC,Edoc Acquisition Corp - Ordinary Shares - Class A,,
+16555,TMTS,Spartacus Acquisition Corp - Ordinary Shares - Class A,,
+16556,TWOH,Two Hands Corp,,
+16557,CYBL,Cyberlux Corp.,,
+16558,KATX,Kat Exploration Inc,,
+16559,ONCI,On4 Communications Inc.,,
+16560,SANP,Santo Mining Corp,,
+16561,KAKZF,Kaspi.kz JSC - GDR - Reg S,,
+16562,MVPT,MVP Holdings Inc,,
+16563,RELI,Reliance Global Group Inc,,
+16564,SBFM,"Sunshine Biopharma, Inc.",,
+16565,PBYA,Probility Media Corp,,
+16566,YRLLF,Global UAV Technologies Ltd,,
+16567,UK,Ucommune International Ltd.,,
+16568,INTV,Integrated Ventures Inc,,
+16569,BCAB,Bioatla Inc,,
+16570,BBRW,Brewbilt Manufacturing Inc,,
+16571,MLHC,M Line Holdings Inc,,
+16572,AT.CA,AcuityAds Holdings Inc,,
+16573,MRACU,Marquee Raine Acquisition Corp - Units (1 Ord Share Class A & 1/4 War),,
+16574,FDMT,4D Molecular Therapeutics Inc,,
+16575,RSHN,RushNet Inc,,
+16576,KINZU,KINS Technology Group Inc - Units (1 Ord Class A & 1/2 War),,
+16577,MUDSU,Mudrick Capital Acquisition Corp II - Units (1 Ord Share Class A & 1/2 War),,
+16578,CNDU,Concord Acquisition Corp. Units,,
+16579,CCV.U,Churchill Capital Corp V,,
+16580,USEI,US Energy Initiatives Corporation Inc,,
+16581,DUNEU,Dune Acquisition Corporation - Units (1 Ord Class A & 1/2 War),,
+16582,ENGMF,Enthusiast Gaming Holdings Inc.,,
+16583,NVEI.CA,Nuvei Corporation,,
+16584,GRT.X,The Graph,,
+16585,ACIC,Atlas Crest Investment Corp - Ordinary Shares - Class A,,
+16586,DFHT,Deerfield Healthcare Technology Acquisitions Corp - Ordinary Shares - Class A,,
+16587,PTPI,Petros Pharmaceuticals Inc,,
+16588,CRGE,Charge Enterprise,,
+16589,BHSE,Bull Horn Holdings,,
+16590,BRTX,BioRestorative Therapies,,
+16591,MAXD,Max Sound Corp,,
+16592,PASO,"Patient Access Solutions, Inc.",,
+16593,STLHF,Standard Lithium Ltd,,
+16594,OCG,Oriental Culture Holding Ltd,,
+16595,KPAY,Kinerjapay Corp,,
+16596,EPWCF,Empower Clinics Inc,,
+16597,PLYN,Palayan Resources Inc,,
+16598,AFFU,Affluence Ord Shs,,
+16599,ICTY,EyeCity.com Ord Shs,,
+16600,SSOK,Sunstock Inc,,
+16601,GRCU,Green Cures & Botanical Distribution Inc,,
+16602,TKSI,Turnkey Solutions Inc,,
+16603,FDVRF,Facedrive Inc,,
+16604,FTRPF,Field Trip Health Ltd,,
+16605,MASS,908 Devices Inc,,
+16606,TLMD,SOC Telemed Inc - Ordinary Shares - Class A,,
+16607,CEL.X,Celsius Network,,
+16608,NU.X,NuCypher,,
+16609,GTSIF,Lobe Sciences Ltd,,
+16610,WE.CA,WeCommerce Holdings Inc,,
+16611,LIBFF,Nova Mentis Life Science Corp,,
+16612,PGM.CA,Pure Gold Mining Inc.,,
+16613,VERY.CN,The Very Good Food Company Inc.,,
+16614,HOM.U.CA,BSR Real Estate Investment Trust ,,
+16615,ETHI,BetaShares Global Sustainability Leaders ETF,,
+16616,IOZ,Ishares Core ,,
+16617,SYI,SPDR MSCI Australia Select High Dividend Yield,,
+16618,MSRT,"MassRoots, Inc.",,
+16619,BREZ,Breeze Holdings Acquisition Corp. ,,
+16620,BWAC,Better World Acquisition Corp.,,
+16621,CBAH,"CBRE Acquisition Holdings, Inc. ",,
+16622,CFAC,CF Finance Acquisition Corp.,,
+16623,TPII,Triad Pro Innovators Inc,,
+16624,GOAC,Go Acquisition Corp,,
+16625,HYHDF,Hydro66 Holdings Corp,,
+16626,LXXGF,Lexagene Holdings Inc,,
+16627,SVOK,Seven Oaks Acquisition Corp.,,
+16628,MRNJ,Metatron Inc,,
+16629,HLLPF,Hello Pal International Inc,,
+16630,FDMSF,Fandom Sports Media Corp,,
+16631,NPPTF,Neptune Dash Technologies,,
+16632,ARAFF,Arafura Resources Limited,,
+16633,GATO,Gatos Silver Inc,,
+16634,GMER,Good Gaming Inc,,
+16635,PIAI,Prime Impact Acquisition I,,
+16636,ITAC,Industrial Tech Acquisitions Inc,,
+16637,MVMDF,Mountain Valley MD Holdings Inc,,
+16638,SPCX,SPAC and New Issue ETF,,
+16639,UMA.X,UMA,,
+16640,PAIC,Petra Acquisition Inc,,
+16641,LUXA,Lux Health Tech Acquisition Corp - Ordinary Shares - Class A,,
+16642,NTTCF,Netcents Technology Inc,,
+16643,SPFR,Jaws Spitfire Acquisition Corp.,,
+16644,DFLYF,Draganfly Inc,,
+16645,RCAT,Red Cat Holdings Inc,,
+16646,QLI,Qilian International Holding Group Limited ,,
+16647,BWMG,Brownie's Marine Group Inc.,,
+16648,ASDN,Astro Aerospace Ltd,,
+16649,GTBP,GT Biopharma Inc,,
+16650,GLUC,Glucose Health Inc,,
+16651,AMYZF,American Manganese Inc.,,
+16652,ENRT,Enertopia Corp,,
+16653,PSYCF,Psyched Wellness Ltd,,
+16654,DRVD,Driven Deliveries Inc.,,
+16655,IKT,Inhibikase Therapeutics Inc,,
+16656,KSHB,KushCo Holdings Inc,,
+16657,SWBK,Switchback II Corporation ,,
+16658,NHIC,NewHold Investment Corp,,
+16659,CONX,CONX Corp.,,
+16660,BTRYF,Battery Minerals Ltd,,
+16661,FAII,Fortress Value Acquisition Corp II,,
+16662,GBS,Gbs Inc,,
+16663,TTCM,Tautachrome Inc,,
+16664,IPA,Immunoprecise Antibodies Ltd,,
+16665,PPBT,Purple Biotech ADR,,
+16666,PCTL,PCT Ltd,,
+16667,INVU,Investview Inc. Common Stock,,
+16668,ARBKF,Argo Blockchain PLC,,
+16669,NXGWF,Next Green Wave Holdings Inc,,
+16670,EEMMF,E3 Metals Corp,,
+16671,RMSL,"REMSleep Holdings, Inc",,
+16672,ENKS,Enerkon Solar International Inc,,
+16673,AFGYF,AFC Energy plc,,
+16674,MTVX,APT Moto Vox Group Inc,,
+16675,BUDZ,Weed Inc,,
+16676,AZKLF,Brainchip Holdings Ltd,,
+16677,BFCH,BitFrontier Capital Holdings Inc,,
+16678,TOMDF,Todos Medical Ltd,,
+16679,LLKKF,Lake Resources N.L.,,
+16680,AACTF,Aurora Solar Technologies Inc,,
+16681,SENR,Strategic Environmental & Energy Res Inc,,
+16682,MMNFF,Medmen Enterprises Inc,,
+16683,MRMD,Marimed Inc,,
+16684,NGTF,NightFood Holdings Inc,,
+16685,FUSN,Fusion Pharmaceuticals Inc,,
+16686,FTSSF,First Cobalt Corp,,
+16687,VISM,Visium Technologies Inc,,
+16688,AIO,Allianzgi Artificial Intllgnc&TechOppFnd,,
+16689,ICVT,iShares Convertible Bond ETF,,
+16690,AMNL,Applied Minerals Inc,,
+16691,GRSV,Gores Holdings V Inc,,
+16692,LHGI,Lighthouse Global Holdings Inc,,
+16693,HYMTF,Hyundai Motor Company GDR,,
+16694,JADA,Jadeart Group Inc,,
+16695,GRNWF,Greenlane Renewables Inc,,
+16696,HSAQ,Health Sciences AcquisitionsCorporation2,,
+16697,EDXC,Endexx,,
+16698,PTTN,Patten Energy Solutions Group Inc,,
+16699,TSIA,TS Innovation Acquisitions Corp.,,
+16700,DOCRF,CloudMD Software & Services Inc,,
+16701,ZGYH,Yunhong International - Ordinary Shares - Class A,,
+16702,BFARF,Bitfarms Ltd.,,
+16703,WPUR,WaterPure International Inc,,
+16704,GOMRF,Geomega Resources Inc,,
+16705,MNGG,Mining Global Inc,,
+16706,VITX,Vitana-X,,
+16707,DPLS,Darkpulse Inc,,
+16708,TSOI,Therapeutic Solutions International Inc,,
+16709,THCT,Thc Therapeutics Inc,,
+16710,NSAV,Nsav Holding Inc,,
+16711,XTRM,Extreme Biodiesel Inc,,
+16712,AGNPF,Algernon Pharmaceuticals Inc,,
+16713,DNNGY,Orsted A S,,
+16714,SHWZ,Medicine Man Technologies Inc,,
+16715,SBUM,Silver Buckle Mines,,
+16716,LVRLF,CordovaCann Corp,,
+16717,BVNNF,Bevcanna Enterprises Inc,,
+16718,EVUS,EV Charging USA Inc,,
+16719,VIH,VPC Impact Acquisition Holdings - Ordinary Shares - Class A,,
+16720,VPC,ETFis Series Trust I - Virtus Private Credit Strategy ETF,,
+16721,TLTFF,Theralase Technologies Inc.,,
+16722,MDVL,MedAvail Holdings Inc,,
+16723,TGHI,Touchpoint Group Holdings Inc,,
+16724,API3.X,API3 ,,
+16725,MOTNF,Clean Power Capital Corp.,,
+16726,DLCA,Deep Lake Capital Acquisition,,
+16727,TPHS,Trinity Place Holdings Inc,,
+16728,TLOFF,Talon Metals Corp,,
+16729,GIGE,SoFi Gig Economy ETF,,
+16730,MMMW,Mass Megawatts Windpower Inc,,
+16731,RGSEQ,"Real Goods Solar, Inc.",,
+16732,MRM,MEDIROM Healthcare Technologies Inc - ADR,,
+16733,CBNT,C-Bond Systems Inc,,
+16734,PSAC,Property Solutions Acquisition Corp,,
+16735,MJNA,Medical Marijuana Inc,,
+16736,PDAC,Peridot Acquisition Corp,,
+16737,LTUM,Lithium Corporation.,,
+16738,HINKF,Heineken N.V,,
+16739,BCAP,Baron Capital Enterprise Inc,,
+16740,POETF,POET Technologies Inc,,
+16741,PMVC,PMV Consumer Acquisition Corp - Ordinary Shares - Class A,,
+16742,SAII,Software Acquisition Group Inc II - Ordinary Shares - Class A,,
+16743,NUVB,Nuvation Bio Inc,,
+16744,SYAAF,Syrah Resources Limited,,
+16745,NRTH.CA,48North Cannabis Corp. ,,
+16746,SHRMF,Champignon Brands Inc,,
+16747,KEMQ,KraneShares Emerging Markets Consumer Tech Idx ETF,,
+16748,BANT,Bantec Inc,,
+16749,SFIO,Smokefree Innotec Inc,,
+16750,DNMR,Danimer Scientific Inc,,
+16751,PMPG,Premier Products Group Inc,,
+16752,HZAC,Horizon Acquisition Corp,,
+16753,WCVC,West Coast Ventures Group Corp,,
+16754,TPCS,TechPrecision Corp,,
+16755,ZENYF,ZEN Graphene Solutions Ltd,,
+16756,EQD,Equity Distribution Acquisition Corp - Ordinary Shares - Class A,,
+16757,NEXNF,NEXE Innovations Inc - Ordinary Shares - Class A,,
+16758,PKKFF,Peak Fintech Group Inc,,
+16759,ARAT,Arax Holdings Corp,,
+16760,RDAR,Raadr Inc,,
+16761,DIVO,Amplify ETF Trust - Amplify CPW Enhanced Dividend Income ETF,,
+16762,CELZ,Creative Medical Technology Holdings Inc,,
+16763,STMH,Stem Holdings Inc,,
+16764,PLRTF,Plymouth Rock Technologies Inc,,
+16765,DMYIU,"dMY Technology Group, Inc.",,
+16766,LIVK,LIV Capital Acquisition Corp - Ordinary Shares - Class A,,
+16767,RNLX,Renalytix AI Plc - ADR,,
+16768,ACKIU,Ackrell SPAC Partners I Co - Units (1 Ord & 1/2 War),,
+16769,ARBG,Aequi Acquisition Corp.,,
+16770,ATA.U,Americas Technology Acquisition,,
+16771,BLUW,Blue Water Acquisition,,
+16772,CAP,CAI International Inc,,
+16773,CFIVU,CF Acquisition Corp. IV - Units (1 Ord Class A & 1/3 War),,
+16774,CHFW.U,Consonance-HFW Acquisition Corp.,,
+16775,CND.U,Concord Acquisition Corp. Units,,
+16776,CTAQU,Carney Technology Acquisition Corp II - Units (1 Ord Share Class A & 1/3 War),,
+16777,DWIN.U,Delwinds Insurance Acquisition Corporation,,
+16778,FLACU,Frazier Lifesciences Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+16779,GFXU,Delwinds Insurance Acquisition Corporation,,
+16780,GHVIU,Gores Holdings VI Inc - Units (1 Ord Share Class A & 1/5 War),,
+16781,GLAQU,Globis Acquisition Corp - Unit (1 Ordinary share & 1 Wrt),,
+16782,GNPK.U,Genesis Park Acquisition,,
+16783,HCAR,Healthcare Services Acquisition Corp,,
+16784,HMCOU,HumanCo Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+16785,HTPAU,Highland Transcend Partners I Corp - Units (1 Ord Share Class A & 1/3 War),,
+16786,IIAC.U,Investindustrial Acquisition,,
+16787,IIIIU,INSU Acquisition Corp III - Units (1 Ord Share Class A & 1/3 War),,
+16788,KWAC.U,Kingswood Acquisition Corp.,,
+16789,LNFA.U,L&F Acquisition Corp.,,
+16790,LSAQ,LifeSci Acquisition II Corp,,
+16791,MOTV,Motive Capital Corp,,
+16792,MTACU,MedTech Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+16793,NEBCU,Nebula Caravel Acquisition Corp - Units (1 Ord Share Class A & 1/5 War),,
+16794,OCA,Omnichannel Acquisition Corp.,,
+16795,PHICU,Population Health Investment Co Inc - Units (1 Ord Share Class A & 1/3 War),,
+16796,PTICU,PropTech Investment Corp II - Units (1 Ord Class A & 1/3 War),,
+16797,RAACU,Revolution Acceleration Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+16798,RMBGU,RMG Acquisition Corp. II,,
+16799,ROCCU,Roth CH Acquisition II Co - Units (1 Ord Share & 1/2 War),,
+16800,SNRHU,Senior Connect Acquisition Corp I - Units (1 Ord Class A & 1/2 War),,
+16801,SPFR.U,Jaws Spitfire Acquisition Corporation,,
+16802,TACA,Trepont Acquisition Corp,,
+16803,TINV.U,Tiga Acquisition Corp.,,
+16804,TVAC,Thayer Ventures Acquisition Corp,,
+16805,VHAQU,"Viveon Health Acquisition Corp - Units (1 Ord ,1 War & 1 Right )",,
+16806,VII,"AFH Acquisition VII, Inc",,
+16807,VTAQU,"Ventoux CCM Acquisition Corp - Units (1 Ord, 1Right & 1 War)",,
+16808,EHVVF,ehave Inc,,
+16809,KNOS,Kronos Advanced Technologies Inc.,,
+16810,DKMR,Xtreme Fighting Championships Inc,,
+16811,TSPG,TGI Solar Power Group Inc,,
+16812,TBA,Thoma Bravo Advantage,,
+16813,ENVB,Enveric Biosciences Inc,,
+16814,LUVU,Luvu Brands Inc,,
+16815,COWI,CoroWare Inc,,
+16816,SVLT,Sunvault Energy Inc,,
+16817,CECBF,CellCube Energy Storage Systems Inc,,
+16818,PWRMF,Power Metals Corp,,
+16819,WHEN,"World Health Energy Holdings, Inc.",,
+16820,MYMX,Mymetics Corp,,
+16821,PMEDF,Predictmedix Inc,,
+16822,IHAK,iShares Cybersecurity and Tech,,
+16823,RHHNF,International Battery Metals Ltd,,
+16824,SPSO,Spectacular Solar,,
+16825,DRNG,Drone Guarder Inc,,
+16826,NNOMF,Nano One Materials Corp,,
+16827,NUSI,Nationwide Risk-Managed Income ETF,,
+16828,EGTYF,Eguana Technologies Inc,,
+16829,FOCPX,Fidelity OTC Portfolio,,
+16830,GPFT,Grapefruit USA Inc,,
+16831,PMCB,Pharmacyte Biotech Inc,,
+16832,KWEMF,Kwesst Micro Systems Inc,,
+16833,NWTT,"NW Tech Capital, Inc.",,
+16834,GMEV,GME Innotainment Inc,,
+16835,CRU.U,Crucible Acquisition Corporation,,
+16836,CGN.CA,Cognetivity Neurosciences Ltd,,
+16837,OWUV,One World Universe ,,
+16838,DFMTF,Defense Metals Corp,,
+16839,GNCP,GNCC Capital Inc,,
+16840,EGOC,Energy 1 Corp,,
+16841,UNVC,Univec Conglomerate Inc,,
+16842,XFLS,Hydrogen Systems Inc,,
+16843,TRAC.X,OriginTrail ,,
+16844,NDVAF,Indiva Ltd,,
+16845,VGID,V Group,,
+16846,GARB,Garb Oil & Power Corp,,
+16847,HSSHF,Digihost Technology Inc,,
+16848,VIVO.CA,VIVO Cannabis Inc,,
+16849,RCPIQ,Rock Creek Pharmaceuticals Inc,,
+16850,VMSI,Vita Mobile Systems Inc,,
+16851,NEXE.CA,NEXE Innovations Inc,,
+16852,USDR,UAS Drone Corp,,
+16853,PAID.CA,XTM Inc,,
+16854,DEWM,Dewmar International,,
+16855,PZOO,Pazoo Inc,,
+16856,TAUG,Tauriga Sciences Inc,,
+16857,FRG,Franchise Group Inc,,
+16858,CLABF,Core One Labs Inc,,
+16859,MYDX,MyDx Inc,,
+16860,HLYK,Healthlynked Corp,,
+16861,DGHI.CA,Digihost Technology Inc,,
+16862,BLPG,Blue Line Protection Group Inc,,
+16863,AHFD,Active Health Foods Inc,,
+16864,AMBS,Amarantus Bioscience Holdings Inc,,
+16865,BEGI,Blackstar Enterprise Group Inc,,
+16866,GFTRF,Goldn Futures Mineral Corp,,
+16867,GRCY,Greencity Acquisition Corp,,
+16868,VDPH,Vdo-Ph International,,
+16869,DMGGF,Dmg Blockchain Solutions Inc,,
+16870,PFWIQ,Petrone Worldwide Inc,,
+16871,BZIC,Beamz Interactive Inc,,
+16872,MMMM,Quad M Solutions Inc,,
+16873,KNWN,Know Labs Inc,,
+16874,WRFX,Worldflix,,
+16875,IBDRY,Iberdrola,,
+16876,TGGI,Trans Global Group Inc,,
+16877,CCTL,Coin Citadel,,
+16878,DIGAF,Digatrade Financial Corp,,
+16879,FLR.X,Spark Token,,
+16880,WARM,Cool Technologies Inc,,
+16881,EPAZ,EPAZZ Inc,,
+16882,EFLVF,Electrovaya Inc.,,
+16883,FPVD,Force Protection Video Equipment Corp,,
+16884,CLWD,Cloud Commerce Inc,,
+16885,FMHS,Farmhouse Inc,,
+16886,FUTL,FutureLand Corp,,
+16887,VGLS,VG Life Sciences Inc ,,
+16888,IVAN.U,Ivanhoe Capital Acquisition Corp.,,
+16889,CTYX,Connectyx Techlgs Hldgs Grp Inc,,
+16890,EGLX.CA,Enthusiast Gaming Holdings Inc,,
+16891,CBDHF,Hempfusion Wellness Inc,,
+16892,BTSC,Bitcoin Services,,
+16893,RWBYF,Red White & Bloom Brands Inc,,
+16894,LEAS,Strategic Asset Leasing,,
+16895,HITIF,High Tide Inc,,
+16896,SPLIF,Nutritional High International Inc,,
+16897,XDSL,"mPhase Technologies, Inc.",,
+16898,MNXXF,Manganese X Energy Corp,,
+16899,PRSRU,Prospector Capital Corp,,
+16900,DLRWF,Delta Drone SA,,
+16901,IVFH,Innovative Food Holdings Inc,,
+16902,SVFAU,SVF Investment Corp.,,
+16903,PATI,Patriot Transportation Holding Inc,,
+16904,BMTX,BM Technologies,,
+16905,CHUC,Charlie's Holdings Inc,,
+16906,RAMP.X,RAMP DEFI,,
+16907,PHIL,"PHI Group, Inc.",,
+16908,STWC,STWC Holdings Inc,,
+16909,GAHC,Global Arena Holding Inc,,
+16910,WNRS,Winners Inc,,
+16911,AGCB,Altimeter Growth Corp 2 - Ordinary Shares - Class A,,
+16912,MCMJ,Merida Merger Corp I,,
+16913,CNBX,Cannabics Pharmaceuticals Inc,,
+16914,CCEP,Coca-Cola European Partners,,
+16915,EXBX,Exobox Technologies Corp,,
+16916,KLV.X,Klever,,
+16917,OBMP,OncBioMune Pharmaceuticals Inc,,
+16918,BUSXF,Grande West Transportation Group Inc,,
+16919,NXTTF,Namaste Technologies Inc,,
+16920,DSCR,Discovery Minerals Ltd,,
+16921,CFGX,Capital Financial Global Inc,,
+16922,IPSI,Innovative Payment Solutions Inc,,
+16923,HPST,Hempstract Inc,,
+16924,ALTD,Altitude International ,,
+16925,KNRLF,Kontrol Energy Corp,,
+16926,HYEG,"Hydrogen Engine Center, Inc.",,
+16927,AKICU,Sports Ventures Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+16928,BENEU,"Benessere Capital Acquisition Corp - Units (1 Ord Class A , 1 Rts & 3/4 War)",,
+16929,KAIRU,Kairos Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+16930,PPGHU,Poema Global Holdings Corp - Units (1 Ord Class A & 1/2 War),,
+16931,IMTL,Image Protect Inc,,
+16932,SIGL,Signal Advance Inc,,
+16933,CLHI,"CLST Holdings, Inc.",,
+16934,UPIN,Universal Power Industry Corp,,
+16935,ACRL,Atacama Resources International Inc,,
+16936,MEDIF,Medipharm Labs Corp,,
+16937,NEBLQ,Noble Holding Corporation PLC,,
+16938,DUDE,MerlynAI SectorSurfer Momentum ETF,,
+16939,BTDG,"B2Digital, Inc",,
+16940,NDYN,Vinings Holdings Inc,,
+16941,RCIT,Reelcause Inc,,
+16942,WGMCF,Winston Gold Corp,,
+16943,ALLM,Alliance Bioenergy Plus Inc,,
+16944,CIVX,CTR Investments & Consulting Inc,,
+16945,LTNC,Labor Smart Inc,,
+16946,HVCW,Harrison Vickers & Waterman Inc,,
+16947,MEDT,Mediatechnics Corp,,
+16948,CEOS,CeCors Inc,,
+16949,HPNN,Hop-ON Inc,,
+16950,SMTS,Sierra Metals Inc,,
+16951,BKLLF,Codebase Ventures Inc,,
+16952,FLMN,Falcon Minerals Corp - Ordinary Shares - Class A,,
+16953,XAUMF,GoldMoney Inc,,
+16954,YAC,Yucaipa Acquisition Corporation - Ordinary Shares - Class A,,
+16955,POTRF,SOPerior Fertilizer Corp,,
+16956,PGTK,Pacific Green Technologies Inc,,
+16957,BLOZF,Cannabix Technologies Inc,,
+16958,EXMT,Anything Technologies Media Ord Shs,,
+16959,LEXX,Lexaria Bioscience,,
+16960,ENFAU,"890 5th Avenue Partners, Inc.",,
+16961,SRNA,Surna Inc,,
+16962,TINO,Tamino Minerals Inc. Common Stock,,
+16963,SSET,Starstream Entertainment Inc,,
+16964,IDGC,IDGlobal Corp,,
+16965,SLSDF,Select Sands Corp,,
+16966,CBWTF,Auxly Cannabis Group Inc,,
+16967,NIKLF,Nickel Rock Resources Inc,,
+16968,FBSGF,Fabled Silver Gold Corp,,
+16969,ITMPF,ITM Power plc,,
+16970,VDRM,Viaderma Inc,,
+16971,GLTC,"GelTech Solutions, Inc.",,
+16972,SNWV,"SANUWAVE Health, Inc.",,
+16973,EXPFF,Experion Holdings Ltd,,
+16974,TNY,Tinley Beverage Company Inc,,
+16975,RBI,RBI Vntures,,
+16976,XBC,Xebec Adsorption Inc.,,
+16977,FDCT,FDC Tech Inc,,
+16978,OBTX,Obitx Inc,,
+16979,ARKX,ARK Space Exploration ETF,,
+16980,POSH,Poshmark,,
+16981,PLTK,Playtika,,
+16982,NGABU,Northern Genesis Acquisition Corp. II,,
+16983,PNTMU,Pontem Corp.,,
+16984,RCKTF,Rock Tech Lithium Inc,,
+16985,EFIR,EGPI Firecreek Inc.,,
+16986,SENY,Sauer Energy Inc,,
+16987,DTST,Data Storage Corp,,
+16988,MJARF,MJardin Group Inc,,
+16989,PNTM,Pontem Corp.,,
+16990,PNXPF,Planet Ventures Inc,,
+16991,TRTC,Terra Tech Corp,,
+16992,FVT,Fortress Value Acquisition Corp.,,
+16993,IONI,I-On Digital Corp,,
+16994,BRSF,Brain Scientific Inc,,
+16995,BLGI,BLGI Inc,,
+16996,INNO,Innocap Inc,,
+16997,ASP.CA,Acerus Pharmaceuticals Corporation,,
+16998,AMIH,American International Holdings Corp,,
+16999,KHRNF,Khiron Life Sciences Corp,,
+17000,LSEA,Landsea Homes Corp,,
+17001,USRM,US Stem Cell Inc,,
+17002,CRVW,CareView Communications Inc,,
+17003,INIS,International Isotopes Inc.,,
+17004,LQMT,Liquidmetal Technologies Inc,,
+17005,GRMM,Grom Social Enterprises Inc,,
+17006,GZIC,GZ6G Technologies Corp,,
+17007,XERI,Xeriant Inc,,
+17008,CSTR.CA,CryptoStar Corp,,
+17009,HLIX,Capital Franchising Inc,,
+17010,GOSY,GeckoSystems International ,,
+17011,MRPI,Mera Pharmaceuticals Inc.,,
+17012,DEH,D8 Holdings Corp,,
+17013,KNEOF,Kneomedia Ltd,,
+17014,PENMF,Peninsula Energy Ltd,,
+17015,BTCS,BTCS Inc,,
+17016,TLLTF,TILT Holdings Inc,,
+17017,CRYBF,Extreme Vehicle Battery TechnologiesCorp,,
+17018,HAI,Haivision Systems Inc,,
+17019,APPZ,Monster Arts Inc,,
+17020,GRPS,Gold River Productions Inc.,,
+17021,GBHPF,Global Hemp Group Inc,,
+17022,CTEC,Global X CleanTech ETF,,
+17023,EMHLF,European Metals Holdings Ltd,,
+17024,NRVTF,Noram Ventures Inc,,
+17025,ENVIU,Environmental Impact Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17026,NUZE,Nuzee Inc,,
+17027,CGEM,Cullinan Management Inc,,
+17028,URNM,Exchange Traded Concepts Trust - North Shore Global Uranium Mining ETF,,
+17029,GLATF,Global Atomic Corp,,
+17030,FCUUF,Fission Uranium Corp,,
+17031,GVXXF,GoviEx Uranium Inc - Ordinary Shares - Class A,,
+17032,LBRMF,Labrador Iron Mines Holdings Ltd,,
+17033,EPHY,Epiphany Technology Acquisition Corp,,
+17034,ABVG,Affinity Beverage Group Inc,,
+17035,DVFI,Diversified Oil and Gas Holdings,,
+17036,HLXW,Helix Wind Corp,,
+17037,DDDX,3DX Industries Inc,,
+17038,DMYI,dMY Technology Group III Inc,,
+17039,CHNC,China Infrastructure Construction Corp,,
+17040,AMLM,American Lithium Minerals Inc,,
+17041,DMNXF,Sayona Mining Ltd,,
+17042,BEVFF,Diversified Royalty Corp,,
+17043,BMBL,Bumble,,
+17044,ALST,Allstar Health Brands Inc,,
+17045,OMID,OMID HLDGS INC,,
+17046,YNVYF,Ynvisible Interactive Inc - Ordinary Shares - Class A,,
+17047,GMPW,GiveMePower Corp.,,
+17048,SNPW,Sun Pacific Holding Corp,,
+17049,LXENF,Lithium Energi Exploration Inc,,
+17050,CNRG,SPDR Series Trust - SPDR S&P Kensho Clean Power ETF,,
+17051,MDCN,Medican Enterprises Inc,,
+17052,LHSIF,Liberty Health Sciences Inc,,
+17053,AGFAF,Agraflora Organics International Inc,,
+17054,GMBTU,Queen's Gambit Growth Capital,,
+17055,SMME,"SmartMetric, Inc.",,
+17056,EGMCF,Emgold Mining Corporation,,
+17057,XOGAQ,Brewbilt Manufacturing Inc,,
+17058,FONE.CA,Flower One Holdings Inc,,
+17059,PRG,PROG Holdings Inc,,
+17060,WWPW,Wind Works Power Corp,,
+17061,INLB,Item 9 Labs Corp,,
+17062,OPMZ,1PM Industries Inc,,
+17063,SRUS,Stratus Capital,,
+17064,SSFT,Sonasoft Corp,,
+17065,CBBHF,Cobalt Blue Holdings Ltd,,
+17066,DRVN,Driven Brands Holdings Inc,,
+17067,PDOS,Platinum Studios Inc,,
+17068,AURI,Auri Inc,,
+17069,PHBI,Pharmagreen Biotech Inc,,
+17070,OLT.X,OneLedger,,
+17071,DIRV,Directview Holdings Inc,,
+17072,RACMF,Loop Insights Inc,,
+17073,SAENF,Solar Alliance Energy Inc,,
+17074,GNACU,Group Nine Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+17075,ENTBF,Entheon Biomedical Corp,,
+17076,BYRG,Buyer Group International,,
+17077,BORK,Bourque Industries,,
+17078,CHAG,Chancellor Group Inc,,
+17079,PNNX,Pennex Foods,,
+17080,MBCN.CA,MindBeacon Holdings Inc,,
+17081,ETST,Earth Science Tech Inc,,
+17082,INND,Innerscope Hearing Technologies Inc,,
+17083,EXDI,Exactus Inc,,
+17084,GDVM,Global Developments,,
+17085,ROCC,Roth Ch Acquisition II Co,,
+17086,ADERU,26 Capital Acquisition Corp.,,
+17087,OMTK,OmniTek Engineering Corp,,
+17088,AGOL,Andina Gold Corp,,
+17089,CNIKF,Canada Nickel Company Inc,,
+17090,VYON,"Viyya Technologies, Inc.",,
+17091,ADSV,Allied Security Innovations Inc,,
+17092,JMOM,J.P. Morgan Exchange-Traded Fund Trust - JPMorgan U.S. Momentum Factor ETF,,
+17093,BAL,Barclays Bank PLC - ZC SP ETN REDEEM 23/01/2048 USD 50 - Ser B_BALB,,
+17094,SOAN,AngioSoma Inc,,
+17095,LONCF,Loncor Resources Inc,,
+17096,UWMC,UWM Holdings Corporation - Ordinary Shares - Class A,,
+17097,GCAN,Greater Cannabis Company Inc,,
+17098,BTRS,BTRS Holdings Inc - Ordinary Shares - Class 1,,
+17099,CLKA,Clikia Corp,,
+17100,IIAC,Investindustrial Acquisition Corp - Ordinary Shares - Class A,,
+17101,INKW,Greene Concepts Inc,,
+17102,NIHK,Video River Networks Inc,,
+17103,OPVS,NanoFlex Power Corp,,
+17104,FATBP,FAT Brands Inc,,
+17105,GNPK,Genesis Park Acquisition Corp,,
+17106,SAML,Samsara Luggage Inc,,
+17107,GRCL,Gracell Biotechnologies Inc,,
+17108,HUDI,Huadi International Group Co,,
+17109,MNTK,Montauk Renewables Inc,,
+17110,ALLIF,Alpha Lithium Corp,,
+17111,SPRWF,Supreme Cannabis Company Inc,,
+17112,LUCK,Real Luck Group Ltd,,
+17113,DYLLF,Deep Yellow Limited,,
+17114,BTCWF,Bluesky Digital Assets Corp,,
+17115,PACXU,Pioneer Merger Corp - Units (1 Ord Share Class A & 1/3 War),,
+17116,STPC,Star Peak Corp II Units,,
+17117,CNGT,Cannagistics Inc,,
+17118,RMTD,Remote Dynamics Inc.,,
+17119,ADTM,Adaptive Medias Inc,,
+17120,ALKM,Alkame Holdings Inc,,
+17121,RBNW,Leaf of Life Holdings Limited,,
+17122,ONLN,ProShares Online Retail ETF,,
+17123,NUKK,Nukkleus Inc,,
+17124,TDSGF,Telo Genomics Corp,,
+17125,TAKOF,Drone Delivery Canada Corp,,
+17126,WPMLF,Western Pacific Minerals,,
+17127,AMMJ,American Cannabis Company Inc,,
+17128,CAPC,"Capstone Companies, Inc.",,
+17129,WDHR,WeedHire International Inc,,
+17130,MINM,Zoom Telephonics Inc,,
+17131,NBIO,Nascent Biotech Inc,,
+17132,SPNGU,Spinning Eagle Acquisition,,
+17133,GGII,Green Globe International Inc,,
+17134,ACAN,Americann Inc,,
+17135,CANN,General Cannabis Corp,,
+17136,PRMO,Prom Resources,,
+17137,DRSHF,DroneShield Ltd,,
+17138,SUNC,Suncast Solar Energy Inc,,
+17139,BTNB,Bridgetown 2 Holdings Limited,,
+17140,HRAA,Health Revenue Assurance Holdings Inc,,
+17141,SCPE,SC Health Corp ,,
+17142,MGXRF,Zinc8 Energy Solutions Inc,,
+17143,AAVE.X,AAVE,,
+17144,ADFS,American Defense Systems Inc,,
+17145,RNSFF,Renaissance Oil Corp,,
+17146,NLLSF,Nel ASA,,
+17147,LMACU,Liberty Media Acquisition Corp.,,
+17148,KDNY,Chinook Therapeutics Inc,,
+17149,ASRN,Aureus Inc. ,,
+17150,ITOX,Iiot-Oxys Inc,,
+17151,LGCY.X,Legacy Network,,
+17152,CGNH,CardioGenics Holdings Inc,,
+17153,FRHV,Fresh Harvest Products Inc,,
+17154,UGE.CA,UGE International Ltd,,
+17155,COSLF,CO2 Solutions Inc.,,
+17156,BRGO,"Bergio International, Inc.",,
+17157,TMGI,Marquie Group Inc,,
+17158,QYOUF,QYOU Media Inc,,
+17159,ASHTF,Ashtead Group plc,,
+17160,CBMJ,CONSERVATIVE BROADCAST MEDIA JOURNALISM ,,
+17161,SLTZ,Solar Thin Films Inc,,
+17162,COPRF,Medivolve Inc,,
+17163,GPHOF,Graphite One Inc,,
+17164,GTXO,GTX Corp,,
+17165,HIHI,Holiday Island Holdings Inc,,
+17166,VINS,Vindicator Silver Lead Mining,,
+17167,ACNE,Alice Cons Mines,,
+17168,STLM,St Elmo Silver Mines ,,
+17169,HSCM,Highland Surprise Consolidated Mining ,,
+17170,CCMN,Callahan Cons ,,
+17171,PEMIF,Pure Energy Minerals Ltd,,
+17172,HCANF,Halo Collective Inc,,
+17173,AGTK,Argitek Holdings Inc,,
+17174,DJIFF,Dajin Resources Corp,,
+17175,SHMN,SOHM Inc,,
+17176,BOXS,Boxscore Brands Inc,,
+17177,NSPX,Inspyr Therapeutics Inc,,
+17178,BIEI,Premier Biomedical Inc,,
+17179,FONU,FONU2 Inc.,,
+17180,QMCI,"QuoteMedia, Inc.",,
+17181,SHRG,Sharing Services Global Corp,,
+17182,INOQ,InnovaQor ,,
+17183,NEOV,NeoVolta Inc,,
+17184,VAPR,Vaporbrands International Inc,,
+17185,NVNXF,Novonix Ltd,,
+17186,KOD.L,Kodal Minerals PLC,,
+17187,HCIC,Hennessy Capital Investment Corp,,
+17188,SCNA,Smart Cannabis,,
+17189,DFH,Dream Finders Homes Inc,,
+17190,ASPL,Aspirational Consumer Lifestyle Corp - Ordinary Shares - Class A,,
+17191,EZGO,EZGO Technologies Ltd,,
+17192,VPER,"Viper Networks, Inc.",,
+17193,SPXZ,Listed Funds Trust - Morgan Creek - Exos SPAC Originated ETF,,
+17194,WLMTF,Wuling Motors Holdings Ltd,,
+17195,FETG,Fortune Entertainment Corporation ,,
+17196,FTEG,For The Earth Corp,,
+17197,NXGB,NxGen Brands ,,
+17198,LTMCF,Lithium Chile Inc,,
+17199,MMEX,MMEX Resources Corp,,
+17200,DCLT,"Data Call Technologies, Inc.",,
+17201,INCT,InCapta Inc,,
+17202,GSPE,GulfSlope Energy Inc,,
+17203,ECDP,Eco Depot Inc,,
+17204,SDVI,Signature Devices Inc.,,
+17205,FNGR,FingerMotion Inc,,
+17206,RCRT,Recruiter.Com Group Inc,,
+17207,EGRNF,China Evergrande Group,,
+17208,DOC.CA,CloudMD Software & Services Inc,,
+17209,VLDI,Validian Corp,,
+17210,FLOOF,Flower One Holdings Inc,,
+17211,BABL,Buildablock Corp,,
+17212,GBHL,"Global Entertainment Holdings, Inc",,
+17213,HAON,Halitron Inc,,
+17214,WMLLF,Wealth Minerals Ltd,,
+17215,SGSI,Spectrum Global Solutions Inc,,
+17216,BIEL,Bioelectronics Corp,,
+17217,VS,Versus Systems Inc,,
+17218,FBEC,FBEC Worldwide Inc,,
+17219,EEGI,"Eline Entertainment Group, Inc.",,
+17220,SEEK,"TheDirectory.com, Inc",,
+17221,RITE,MineralRite Corporation,,
+17222,MHCC,Millennium Healthcare Inc,,
+17223,KBLB,Kraig Biocraft Laboratories Inc,,
+17224,LBTI,Lithium & Boron Technology Inc,,
+17225,HPTY,Hemp Technology Inc,,
+17226,SWETU,Athlon Acquisition Corp.,,
+17227,HPMCF,Africa Energy Corp,,
+17228,ENCUF,enCore Energy Corp,,
+17229,SHOM,Southern Home Medical,,
+17230,UCLE,US Nuclear Corp,,
+17231,SQIDF,SQI Diagnostics Inc.,,
+17232,CRKN,Crown Electrokinetics Corp.,,
+17233,PALAF,Paladin Energy Ltd,,
+17234,ICNM,Icon Media Holdings,,
+17235,ATAO,Altair International Corp,,
+17236,NOHO,Dragon Life Science Holdings Group Inc,,
+17237,MFST,Medifirst Solutions Inc,,
+17238,ECOS,Ecolocap Solutions Inc.,,
+17239,BMXC,Bemax Inc,,
+17240,SHLS,Shoals Technologies Group Inc - Ordinary Shares - Class A,,
+17241,MYTE,MYT Netherlands Parent BV-ADR,,
+17242,INFL,Horizon Kinetics Inflation Beneficiaries ETF,,
+17243,BLIAQ,BB Liquidating Inc,,
+17244,LEMIF,Leading Edge Materials Corp,,
+17245,LMRMF,Lomiko Metals Inc,,
+17246,XGEN,NexGen Holdings,,
+17247,CPMD,Cannapharmarx Inc,,
+17248,FUNN,Amfil Technologies Inc,,
+17249,LPTV,Loop Media Inc,,
+17250,BDGR,Black Dragon Resource ,,
+17251,DPWW,Diego Pellicer Worldwide Inc,,
+17252,ICBU,IMD Companies Inc,,
+17253,GBLC.CA,Graph Blockchain Inc,,
+17254,REGRF,Graph Blockchain Inc,,
+17255,PGAS,Petrogress Inc,,
+17256,RGGI,Resgreen Group International Inc,,
+17257,PSI.X,PSIcoin,,
+17258,ILUS,Cache Elite Inc,,
+17259,PHE,Powerhouse Energy Group PLC,,
+17260,BYOC,"Beyond Commerce, Inc.",,
+17261,VSPC,Viaspace Inc.,,
+17262,QUAN,Quantum International,,
+17263,GWHP,Global Wholehealth Partners Corp,,
+17264,PKLBF,Perk Labs Inc,,
+17265,FSSIU,Fortistar Sustainable Solutions Corp.,,
+17266,TXHE,Texhoma Energy Inc,,
+17267,SHL,Sonic Healthcare Limited,,
+17268,NPEZF,Bam Bam Resources Corp,,
+17269,GACR,Green Automotive Co,,
+17270,BCCLF,Becle SAB de CV,,
+17271,KSPN,Kaspien Holdings Inc,,
+17272,BIOIF,Biome Grow Inc,,
+17273,WWIO,Wowio Inc,,
+17274,ATWT,ATWEC Technologies,,
+17275,XCLL,XcelMobility Inc,,
+17276,VRX.X,Verox,,
+17277,VWAGY,Volkswagen AG - ADR,,
+17278,AGFY,Agrify Corp,,
+17279,JCICU,Jack Creek Investment Corp - Units (1 Ord Share Class A & 1/2 War),,
+17280,ILIKF,Ilika plc,,
+17281,PACE,TPG Pace Tech Opportunities Corp - Ordinary Shares - Class A,,
+17282,ENTI,Encounter Technologies Inc,,
+17283,BLUA,BlueRiver Acquisition Corp.,,
+17284,VPRB,VPR Brands LP,,
+17285,PRPB,CC Neuberger Principal Holdings II - Ordinary Shares - Class A,,
+17286,LMAOU,LMF Acquisition Opportunities Inc - Units (1 Ord Class A & 1 War),,
+17287,HMPT,Home Point Capital Inc,,
+17288,LCLP,Life Clips Inc,,
+17289,OTTV,Viva Entertainment Group Inc,,
+17290,DTH.X,Dether ,,
+17291,PFMSD,PaperFree Medical Solutions Inc,,
+17292,ARSN,Aureus Inc. ,,
+17293,GCGX,Global Consortium,,
+17294,TIRX,Tian Ruixiang Holdings Ltd,,
+17295,SXOOF,St-Georges Eco-Mining Corp,,
+17296,CLOQ,Cyberloq Technologies Inc,,
+17297,TVIXF,VelocityShares Daily,,
+17298,SPONF,SponsorsOne Inc,,
+17299,EMLL,El Maniel International Inc,,
+17300,RSTN,RDE Inc,,
+17301,SRMX,Saddle Ranch Media Inc,,
+17302,PYCT,Paychest,,
+17303,FFLWF,Fire & Flower Holdings Corp,,
+17304,MDMP,Mdm Permian Inc,,
+17305,NMTLF,New Age Metals Inc,,
+17306,MJWL,Majic Wheels Corp.,,
+17307,NXMH,Next Meats Holdings Inc,,
+17308,WDRP,Wanderport Corp.,,
+17309,HOLUU,Holicity Inc - Units (1 Ord Share Class A & 1/3 War),,
+17310,APL.X,Apollo Currency,,
+17311,FHBC,Fernhill Beverage,,
+17312,CORG,Cordia Corp,,
+17313,ARGQ,Argentum 47 Inc,,
+17314,DNAX,"DNA Brands, Inc.",,
+17315,PINK,Perimeter Medical Imaging,,
+17316,COMPX,CompX International Inc.,,
+17317,VNTH,Nano Mobile Healthcare Inc,,
+17318,ALIF,"Artificial Life, Inc.",,
+17319,EVLLF,Enviroleach Technologies Inc,,
+17320,ACCR,Access-Power & Co Inc,,
+17321,GBAR.CA,Monarch Mining Ord,,
+17322,REZZF,Global Battery Metals Ltd,,
+17323,RAZFF,Razer Inc,,
+17324,MVVYF,Moovly Media Inc,,
+17325,XHS,SPDR S&P Health Care Services ETF,,
+17326,OILFF,Nextleaf Solutions Ltd,,
+17327,LTHHF,Lithium Power International Ltd,,
+17328,APPH,"AppHarvest, Inc.",,
+17329,RNWR,808 Renewable Energy,,
+17330,MSTO,Masterbeat Corp,,
+17331,ONTF,ON24 Inc,,
+17332,CND,Concord Acquisition Corp - Ordinary Shares - Class A,,
+17333,RMGB,RMG Acquisition Corp II,,
+17334,ZIM,ZIM Integrated Shipping Services Ltd,,
+17335,MEEC,Midwest Energy Emissions Corp,,
+17336,SMBZF,Simba Essel Energy Inc,,
+17337,GBML,Global Battery Metals Ltd,,
+17338,HDII,"Hypertension Diagnostics, Inc.",,
+17339,BOTY,Lingerie Fighting Championships Inc,,
+17340,AATGF,ATI Airtest Technologies Inc.,,
+17341,CCWOF,Canada Silver Cobalt Works Inc,,
+17342,KOSK,One Step Vending Corp,,
+17343,JETR,Star Jets International Inc,,
+17344,ELTZ,Elite Group Inc,,
+17345,GTVH,Golden Triangle Ventures Inc,,
+17346,MKRO,Monkey Rock Group Inc,,
+17347,CLRMU,Clarim Acquisition Corp,,
+17348,DGTHF,DGTL Holdings Inc.,,
+17349,REAXF,Real Brokerage Inc,,
+17350,UNGS,Sylios Corp,,
+17351,UATG,Umbra Applied Technologies Group Inc,,
+17352,LRDR,Laredo Resources Corp,,
+17353,TPAC,Trans-Pacific Aerospace Company Inc,,
+17354,NTRR,Neutra Corp,,
+17355,FCSMF,Focus Graphite Inc,,
+17356,TRWRF,KABN Systems NA Holdings Corp,,
+17357,AVMR,AVRA Medical Robotics Inc,,
+17358,FDFT,Foodfest International,,
+17359,HIPH,American Premium Water Corp,,
+17360,RQHTF,Reliq Health Technologies Inc,,
+17361,RADI,Radius Global Infrastructure Inc,,
+17362,INKAU,KludeIn I Acquisition Corp. ,,
+17363,NCEN,Nacel Energy Corporation,,
+17364,FDIT,Findit Inc,,
+17365,RLTR,Reeltime Rentals Inc.,,
+17366,TGAN,Transphorm Technology Inc,,
+17367,NTAR.CA,Nextech Ar Solutions Corp,,
+17368,ADGO,Advantego Corporation,,
+17369,LCDX,Caliber Imaging & Diagnostics Inc,,
+17370,MLLOF,Medallion Resources Ltd.,,
+17371,GHMP,Good Hemp Inc,,
+17372,DUSK.X,Dusk Network,,
+17373,MDGC,MediaG3 Inc,,
+17374,BEHL,BioCentric Energy Holdings,,
+17375,CSOC,Caduceus Software Systems Corp,,
+17376,TACI,Transatlantic Capital Inc,,
+17377,BATL,Battalion Oil Corp,,
+17378,HULK,Pontus Protein Ltd,,
+17379,FWONA,Liberty Media Formula One Series A,,
+17380,SNVP,Savoy Energy Corp,,
+17381,SNRS,Sunrise Consulting Group Inc,,
+17382,NGCG,New Generation Consumer Group Inc,,
+17383,GENY,Principal Millennials Index ETF,,
+17384,PWWBF,PowerBand Solutions Inc,,
+17385,LATF,Latteno Food Corp,,
+17386,PYR,PyroGenesis Canada Inc,,
+17387,NUGS,Cannabis Strategic Ventures,,
+17388,BONZ,Bonanza Goldfields Corp.,,
+17389,JRSS,JRSIS HEALTH CARE Corp,,
+17390,GBOX,Greenbox Pos,,
+17391,INVO,Invo Bioscience Inc,,
+17392,HIRU,Hiru Corp,,
+17393,GMMVF,G Medical Innovations Holdings Ltd.,,
+17394,ADCO,Adcore Inc,,
+17395,ILAL,International Land Alliance Inc,,
+17396,WCBR,WisdomTree Cybersecurity Fund,,
+17397,GRNH,"GreenGro Technologies, Inc.",,
+17398,SUWN,Sunwin Stevia International Inc,,
+17399,HMPQ,HempAmericana Inc,,
+17400,LITOF,Frontier Lithium Inc,,
+17401,EUSP,EuroSite Power Inc,,
+17402,TXTM,"ProText Mobility, Inc.",,
+17403,EQLB,EQ Labs Ord Shs,,
+17404,PFFOF,Portofino Resources Inc,,
+17405,VENV,Venture Vanadium,,
+17406,AVVH,Avvaa World Health Care Products Inc.,,
+17407,CRGP,Calissio Resources Group Inc,,
+17408,VEXT,Vapen MJ Ventures Corp,,
+17409,LXFR,Luxfer Holdings PLC,,
+17410,TBCPU,Thunder Bridge Capital Partners III Inc. ,,
+17411,JBZY,JB&ZJMY Holding Company Inc,,
+17412,VKIN,Viking Energy Group Inc,,
+17413,UPYY,UPAY Inc.,,
+17414,HYII,All Grade Mining Inc,,
+17415,PHOT,Growlife Inc,,
+17416,SPMTF,Spearmint Resources Inc,,
+17417,GRCV,Grand Capital Ventures,,
+17418,SANA,Sana Biotechnology Inc,,
+17419,DLAD,"DealerAdvance, Inc.",,
+17420,ADMLF,Adriatic Metals PLC,,
+17421,BLONF,CO2 Gro Inc. ,,
+17422,MGCLF,MGC Pharmaceuticals Ltd,,
+17423,UVSE,Universal Energy Corp.,,
+17424,AMHG,Amergent Hospitality Group Inc,,
+17425,CEXPF,Cache Exploration Inc.,,
+17426,VVCIF,VIVO Cannabis Inc. ,,
+17427,CNXS,Connexus Corp,,
+17428,ILHMF,International Lithium Corp,,
+17429,CAS.X,Cashaa,,
+17430,SLAC.U,Social Leverage Acquisition,,
+17431,SUBZ,Roundhill Streaming Services & Technology ETF,,
+17432,LGBS,Legends Business Group Inc,,
+17433,AACU,Ares Acquisition Corp,,
+17434,1INCH.X,1inch,,
+17435,HLRTF,Hillcrest Petroleum Ltd,,
+17436,CPUH.U,Compute Health Acquisition Corp,,
+17437,TFZI,Fight Zone Inc,,
+17438,ABEPF,Vision Lithium Inc.,,
+17439,COOL,Corner Growth Acquisition Corp,,
+17440,CGXEF,CGX Energy Inc,,
+17441,RBW,Rainbow Rare Earths Ltd,,
+17442,RUNE.X,RUNE,,
+17443,AIMH,Aimrite Holdings Ord Shs,,
+17444,WLSI,Wellstar International Inc,,
+17445,HPQFF,HPQ Silicon Resources Inc,,
+17446,CBULF,Gratomic Inc,,
+17447,TREP,"Trucept, Inc.",,
+17448,BRAV,Bravada International Ltd.,,
+17449,JRVMF,Jervois Mining Limited,,
+17450,UNQL,Unique Logistics International Inc,,
+17451,JAMN,Jammin Java Corp,,
+17452,IFX,Infineon Technologies AG,,
+17453,EGLD.X,Elrond Network,,
+17454,PDPR,Marathon Group Corp,,
+17455,IPWG,"International Power Group, Ltd.",,
+17456,AAZZF,A2Z Smart Technologies Corp,,
+17457,GSFI,Green Stream Holdings Inc,,
+17458,SKGO,SkyBridge Technology Group ,,
+17459,UITA,Utilicraft Aerospace Inds Inc,,
+17460,FMAC,FirstMark Horizon Acquisition Corp - Ordinary Shares - Class A,,
+17461,VTLR,VirtualArmour International Inc,,
+17462,RAAS,Cloopen Group Holding Ltd - ADR,,
+17463,CLIMU,Climate Real Impact Solutions II Acquisition Corp,,
+17464,MTAC,MedTech Acquisition Corp - Ordinary Shares - Class A,,
+17465,GBLX,GB Sciences Inc,,
+17466,JWSMU,Jaws Mustang Acquisition Corp,,
+17467,DCRNU,Decarbonization Plus Acquisition Corp II - Units (1 Ord Share Class A & 1/3 War),,
+17468,GIGGU,Gigcapital4 Inc - Units (1 Ord Share & 1/3 War),,
+17469,RKLC,Rockelle Corp,,
+17470,USNZY,Usinas Siderurgicas De Minas Gerais S.A. - ADR (Representing Pref Share Cl A),,
+17471,VIIAU,7GC & Co. Holdings Inc.,,
+17472,CPUH,COMPUTE HEALTH ACQUISITION CORP,,
+17473,BRNW,Brainybrawn Inc,,
+17474,CRV.X,Curve Finance Dao,,
+17475,DAG.X,Constellation,,
+17476,GFX,Golden Falcon Acquisition Corp,,
+17477,OACB,Oaktree Acquisition II Corp,,
+17478,GYOG,Green Energy Enterprises,,
+17479,VMHG,Victory Marine Holdings,,
+17480,CBGH,China Yibai United Guarantee International Holding ,,
+17481,WECMF,WeCommerce Holdings Ltd,,
+17482,HESG,"Health Sciences Group, Inc.",,
+17483,DGWR,Deep Green Waste Recycling,,
+17484,PYNKF,Perimeter Medical Imaging AI Inc,,
+17485,MMATF,Metamaterial Inc,,
+17486,TIXT,TELUS International (CDA) Inc,,
+17487,BFRE,BlueFire Renewables Inc,,
+17488,QBIO,Q BioMed Inc,,
+17489,ECIA,"Encision, Inc.",,
+17490,HPMM,Hemp Naturals Inc,,
+17491,FCRD,First Eagle Alternative Capital BDC Inc,,
+17492,NOVR,Nova Royalty Corp,,
+17493,SNNAF,Sienna Resources Inc,,
+17494,FGPHF,First Graphene Ltd,,
+17495,NJDCY,Nidec Corporation,,
+17496,SGFY,Signify Health Inc - Ordinary Shares - Class A,,
+17497,OBTC,Osprey Bitcoin Trust,,
+17498,GDAR,Golden Age Resource Inc,,
+17499,AEI,Alset EHome International Inc,,
+17500,FWDG,FutureWorld Corp,,
+17501,EXROF,Exro Technologies Inc,,
+17502,ENNVU,ECP Environmental Growth Opportunities Corp - Units (1 Ord Class A & 1/4 War),,
+17503,SCOA,ScION Tech Growth I - Ordinary Shares - Class A,,
+17504,RLLRF,SugarBud Craft Growers Corp,,
+17505,JETMF,Global Crossing Airlines Group Inc,,
+17506,DSP,Viant Technology Inc - Ordinary Shares - Class A,,
+17507,CWGYF,Carnegie Clean Energy Limited,,
+17508,GSAQ,Global Synergy Acquisition Corp.,,
+17509,SCOB,ScION Tech Growth II,,
+17510,XPDIU,Power & Digital Infrastructure Acquisition Corp - Units (1 Ord Class A & 1/4 War),,
+17511,BAOS,Baosheng Media Group Holdings Ltd,,
+17512,GHVI,Gores Holdings VI Inc - Ordinary Shares - Class A,,
+17513,CRTG,Coretec Group Inc,,
+17514,SMAS,Somatic Systems Inc,,
+17515,WXXWY,Wuxi Biologics (Cayman) Inc. - ADR,,
+17516,WXIBF,Wuxi Biologics (Cayman) Inc.,,
+17517,SDACU,Sustainable Development Acquisition I Corp - Units (1 Ord Class A & 1/2 War),,
+17518,SPAQU,Spartan Energy Acquisition Corp - Units (1 Class A & 1/3 War),,
+17519,RIII,Renavotio Inc,,
+17520,TGLDF,Trillium Gold Mines Inc.,,
+17521,NSTB,Northern Star Investment Corp II - Ordinary Shares - Class A,,
+17522,SCLEU,Broadscale Acquisition Corp - Units,,
+17523,EVAX,Evaxion Biotech,,
+17524,GRYN,Green Hygienics Holdings Inc,,
+17525,SNDD,RedHawk Holdings Corp,,
+17526,PTNYF,ParcelPal Technology Inc,,
+17527,TGODF,Green Organic Dutchman Holdings Ltd,,
+17528,SEOVF,Sernova Corp.,,
+17529,CBDY,Target Group Inc,,
+17530,CWSFF,Cielo Waste Solutions Corp,,
+17531,LUNA.X,Terra Price,,
+17532,GRLF,Green Leaf Innovations Inc,,
+17533,SNIPF,Snipp Interactive Inc,,
+17534,BASX,Basic Energy Services Inc,,
+17535,LMNGF,Biovaxys Technology Corp,,
+17536,CRPOF,Ceapro Inc,,
+17537,HSCHF,H-Source Holdings Ltd,,
+17538,PBTHF,Pointsbet Holdings Ltd,,
+17539,FTCVU,FinTech Acquisition Corp V - Units (1 Ord Share Class A & 1/3 War),,
+17540,ZENG,Zenergy Internationa,,
+17541,QTMM,Quantum Materials Corp,,
+17542,PMEA,PM and E ,,
+17543,WDDMF,WeedMD Inc,,
+17544,AMCT,American Education Center Inc,,
+17545,HRVOF,Harvest One Cannabis Inc,,
+17546,MJTV,MJ Biotech,,
+17547,SLGWF,Slang Worldwide Inc,,
+17548,NBRI,North Bay Resources Inc,,
+17549,SNMN,SNM Global Holdings,,
+17550,AXIM,Axim Biotechnologies Inc,,
+17551,DKAM,"Drinks Americas Holdings, Ltd.",,
+17552,ECCI,Ecoloclean Industries,,
+17553,MLWN,Malwin Ventures,,
+17554,PKPH,Peak Pharmaceuticals Inc,,
+17555,DVLP,Golden Developing Solutions,,
+17556,TXSO,Texas South Energy Inc,,
+17557,WTII,Water Technologies International Inc,,
+17558,MILE,Insu Acquisition Corp II,,
+17559,DKTS,Top Shelf Brands Holdings Corp,,
+17560,EKWX,Ekwan X ,,
+17561,IFLM,Independent Film Development Corporation,,
+17562,MDIN,"Northstar Global Business Services, Inc.",,
+17563,QOIL,Quest Oil Corp,,
+17564,TCHH,Trustcash Holdings,,
+17565,BETS,i3 Interactive Inc,,
+17566,CNEY,CN ENERGY GROUP Inc,,
+17567,IRCLF,InterCure Ltd,,
+17568,JUPGF,Jupiter Gold Corp,,
+17569,SNSE,Sensei Biotherapeutics Inc,,
+17570,MRIB,"Marani Brands, Inc.",,
+17571,ANDI,Andiamo Corp,,
+17572,GMZP,GEMZ,,
+17573,BVS,Bioventus Inc - Ordinary Shares - Class A,,
+17574,TLIS,Talis Biomedical Corp,,
+17575,ABWN,Airborne Wireless Network,,
+17576,WSSE,Wallstreet Secs,,
+17577,REEF.X,Reef Finance,,
+17578,CPHU.U,Compute Health Acquisition Corp. Units,,
+17579,NEOM,"Neomedia Technologies, Inc.",,
+17580,CMGR,Clubhouse Media Group Inc,,
+17581,FBCD,FBC Holding Inc,,
+17582,LPSIF,Legend Power Systems Inc,,
+17583,BCYP,Big Cypress Acquisition Corp,,
+17584,FWAV,Fourth Wave Energy Inc,,
+17585,FLWPF,Flowr Corp,,
+17586,BKMP,Blackout Media Corp,,
+17587,CNNA,Cann American Corp,,
+17588,CBTC,XTRA Bitcoin Inc,,
+17589,KROEF,Kryptonite 1 plc,,
+17590,KGET,Calipharms Inc,,
+17591,VXLLF,Vaxil Bio Ltd,,
+17592,APG,APi Group Corp,,
+17593,PUCKU,Goal Acquisitions Corp.,,
+17594,CBDT.CA,Empower Clinics Inc,,
+17595,SPAQ.U,Spartan Acquisition Corp III,,
+17596,BRPHF,Galaxy Digital Holdings Ltd,,
+17597,UGRO,Urban-gro Inc,,
+17598,IINX,Ionix Technology Inc,,
+17599,POSC,Positron Corp,,
+17600,GTII.CA,Green Thumb Industries Inc,,
+17601,XDAI.X,Stake,,
+17602,AEXE,AIM Energy Inc,,
+17603,ICGIW,India Globalization Capital,,
+17604,AXCG,Eyes on The Go Inc,,
+17605,NCPCF,Nickel Creek Platinum Corp,,
+17606,VPLM,Voip-Pal.Com Inc,,
+17607,SKPGF,Spark Power Group Inc,,
+17608,ENCS,"Encore Energy Systems, Inc. ",,
+17609,AGIN,American Graphite Technologies Inc,,
+17610,AFHIF,Atlas Financial Holdings Inc,,
+17611,TLGRF,Talga Group Ltd,,
+17612,ZHUD,Zhuding International,,
+17613,CMC.CA,Cielo Waste Solutions Corp,,
+17614,RRSSF,Neometals Ltd,,
+17615,AVAX.X,Avalanche,,
+17616,BES.CA,Braille Energy Systems Inc,,
+17617,NGBL,Notis Global Inc,,
+17618,IPNFF,ImagineAR Inc,,
+17619,LABP,Landos Biopharma Inc,,
+17620,SLCRU,Silver Crest Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17621,GMIIU,Gores Metropoulos II Inc - Units (1 Ord Share Class A & 1/5 War),,
+17622,CVII.U,Churchill Capital Corp VII,,
+17623,DBKSF,Digicrypts Blockchain Solutions Inc,,
+17624,FPFI,Fresh Promise Foods Inc,,
+17625,RESS,Renewable Energy Solution Systems Inc,,
+17626,CYPW,Cyclone Power Technologies Inc,,
+17627,OWRDF,One World Lithium Inc,,
+17628,PHA.X,Phala Network,,
+17629,BCHG,Grayscale Bitcoin Cash Trust,,
+17630,MSITF,Medical Services International,,
+17631,HDGHF,Haydale Graphene Industries PLC,,
+17632,ZAP.X,ZAP,,
+17633,CWPWF,Concord New Energy Group Ltd,,
+17634,CVSI,CV Sciences Inc,,
+17635,GRNBF,Greenbank Capital Inc,,
+17636,CRDL.CA,Cardiol Therapeutics Inc,,
+17637,GVSI,Long Beard Breweries Inc,,
+17638,NEXT.CA,NextSource Materials Inc,,
+17639,CANSF,Willow Biosciences Inc,,
+17640,CPNG,Coupang,,
+17641,TTMZF,Datable Technology Corp,,
+17642,HVT.V,Harvest One Cannabis Inc,,
+17643,PQEFF,Petroteq Energy Inc,,
+17644,TSTS,That Marketing Solution Inc,,
+17645,CRFTF,Craft Supply Co Ltd,,
+17646,ALTU,Altitude Acquisition Corp - Ordinary Shares - Class A,,
+17647,GTII,Global Tech Industries Group Inc,,
+17648,ABST,Absolute Software Corp,,
+17649,CAPA,HighCape Capital Acquisition Corp - Ordinary Shares - Class A,,
+17650,CHPM,CHP Merger Corp - Ordinary Shares - Class A,,
+17651,NVSAU,New Vista Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+17652,NOUV,Nouveau Life Pharmaceuticals Inc,,
+17653,CBYI,Cal-Bay International ,,
+17654,GCHK,Greenchek Technology Inc,,
+17655,SLJB,Sulja Bros Building Supplies,,
+17656,AAGC,All American Gold Corp,,
+17657,BZWR,Business Warrior,,
+17658,WSCRF,North American Nickel Inc.,,
+17659,LBSR,Liberty Star Uranium & Metals Corp.,,
+17660,CLTS,Earth Life Sciences Inc,,
+17661,VCBD,"Vitalibis, Inc. ",,
+17662,WCEXF,World Class Extractions Inc,,
+17663,FET.X,Artificial Intelligence for Blockchains,,
+17664,ONCP,"141 Capital, Inc. ",,
+17665,NLSP,NLS Pharmaceutics AG,,
+17666,BTCY,Biotricity Inc,,
+17667,LVGI,Limitless Venture Group Inc,,
+17668,AZURF,Azincourt Energy Corp,,
+17669,BLITF,i3 Interactive Inc,,
+17670,ERPNF,European Metals Holdings Ltd ,,
+17671,KRKNF,Kraken Robotics Inc,,
+17672,AHAC,Alpha Healthcare Acquisition Corp - Ordinary Shares - Class A,,
+17673,AVLNF,Avalon Advanced Materials Inc,,
+17674,FORT.CA,Fortress Blockchain Corp,,
+17675,CFIV,CF Acquisition Corp. IV - Ordinary Shares - Class A,,
+17676,TINV,Tiga Acquisition Corp - Ordinary Shares - Class A,,
+17677,SPGS.U,Simon Property Group Acquisition Holdings Inc.,,
+17678,GAYMF,Galway Metals Inc,,
+17679,ZNNMF,FuelPositive Corp,,
+17680,AGYP,Allied Energy ,,
+17681,SPQS,"SportsQuest, Inc.",,
+17682,AGHC,Aeon Global Health Corp,,
+17683,WRCDF,Wirecard AG,,
+17684,WMD.CA,WeedMD Inc,,
+17685,NCPL,Netcapital Inc,,
+17686,SBG,Sandbridge Acquisition Corp,,
+17687,QBR.CA,"Quebecor, Inc.",,
+17688,TVK.CA,TerraVest Industries Inc,,
+17689,VLEEY,Valeo SA - ADR,,
+17690,DRWN,A Clean Slate Inc,,
+17691,ALKN,Alkane Inc.,,
+17692,LMLLF,Pharmadrug Inc,,
+17693,RLBD,Real Brands Inc,,
+17694,TCFF,Trillion Energy International Inc,,
+17695,GSAC,Gelstat Corp,,
+17696,NRRWF,Nuran Wireless Inc,,
+17697,BNOW,Boon Industries,,
+17698,MCET,"MultiCell Technologies, Inc.",,
+17699,PGIE,PGI Energy Inc,,
+17700,HOILF,Hunter Technology Corp,,
+17701,TXMC,Tirex Corp,,
+17702,IMCR,Immunocore Holdings PLC - ADR,,
+17703,OEPWU,One Equity Partners Open Water I Corp.,,
+17704,SZLS,StageZero Life Sciences Ltd,,
+17705,RIGH,RightSmile Inc,,
+17706,SNRH,Senior Connect Acquisition Corp I,,
+17707,VTIQU,VectoIQ Acquisition Corp. II,,
+17708,ALTAF,Altura Mining Ltd,,
+17709,NWGC,New World Gold Corp,,
+17710,PTOP,Mobicard Inc,,
+17711,PKTEF,Parkit Enterprise Inc,,
+17712,URNXF,Magnis Energy Technologies Ltd,,
+17713,NSRCF,NextSource Materials Inc,,
+17714,PUPS,"Pick-Ups Plus, Inc.",,
+17715,CPPKF,Copperbank Resources Corp,,
+17716,LTCMF,Lithium Chile Inc,,
+17717,BRZL,Scepter Holdings Inc,,
+17718,CFVIU,CF Acquisition Corp VI - Units (1 Ord Class A & 1/4 War),,
+17719,GSQD,G Squared,,
+17720,REOS,ReoStar Energy Corporation,,
+17721,NAFS,Voycare Inc,,
+17722,MVNT,MOVEMENT INDS,,
+17723,ARXRF,Infinite Ore Corp,,
+17724,SOLCF,SOL Global Investments Corp,,
+17725,MTRO,Metro One Development Inc,,
+17726,PYRNF,PyroGenesis Canada Inc,,
+17727,PAQCU,Provident Acquisition Corp,,
+17728,GTLA,GT Legend Automotive Holdings Inc.,,
+17729,UURAF,Ucore Rare Metals Inc.,,
+17730,BDIC,Blow & Drive Interlock Corp,,
+17731,KRED,Konared Corp,,
+17732,TIKK,Tel-Instrument Electronics Corp.,,
+17733,NWPIF,ClearStream Energy Services Inc,,
+17734,CUBV,Cuba Beverage Co,,
+17735,GCPEF,GCL-Poly Energy Holdings Limited.,,
+17736,BCII,Blockchain Industries Inc,,
+17737,CMETF,Chilean Metals Inc,,
+17738,POTN,PotNetwork Holdings Inc,,
+17739,RLLCF,Rolls-Royce Holding PLC,,
+17740,CNVCF,Bioharvest Sciences Inc,,
+17741,DGGXF,Digitalx Ltd,,
+17742,IDCN,Indocan Resource,,
+17743,MCARY,Mercari ,,
+17744,GRBX,GreenBox ,,
+17745,TIDE,Tidelands Oil & Gas Corporation,,
+17746,HRTH,Harte Hanks Inc,,
+17747,AUUD,"Auddia, Inc.",,
+17748,ZWRKU,Z-Work Acquisition Corp,,
+17749,PHMB,PharmaCom BioVet Inc.,,
+17750,RGLG,"UHF Logistics Group, Inc. ",,
+17751,BSFC,Blue Star Foods Corp,,
+17752,AMYT,Amryt Pharma Holdings Ltd,,
+17753,HRAL,Hear AtLast Holdings Inc,,
+17754,KHRIF,Cypherpunk Holdings Inc,,
+17755,ADCOF,Adcore Inc,,
+17756,OTCQX,OTC Markets Group Inc,,
+17757,NXUU,Novus Capital Corp I,,
+17758,LGLOF,Link Global Technologies Inc,,
+17759,LVX.CA,Leviathan Gold Ord Shs,,
+17760,PULL.CA,Pure Extracts Technologies Corp,,
+17761,MGON,Megola Inc,,
+17762,ITCC,Inspro Technologies Corp,,
+17763,MBLV,Globex Holdings Corp,,
+17764,CATG,Capstone Technologies Group Inc,,
+17765,RHCO,Readen Holding,,
+17766,LLBO,Lifeline Biotechnologies,,
+17767,HGLC,Hunt Gold ,,
+17768,SRNGU,Soaring Eagle Acquisition Corp. ,,
+17769,SOTK,Sono-Tek Corporation,,
+17770,BSYI,"BioSyntech, Inc.",,
+17771,TNMD,Tianrong Med Group ,,
+17772,BUZZ.CN,Pharmadrug Inc. ,,
+17773,CHSO,China Shouguan Mining O,,
+17774,IMAHF,I Minerals Inc,,
+17775,EUCR,Eucrates Biomedical Acquisition Corp.,,
+17776,GJST,GEO JS Tech Group Corp,,
+17777,BMMJ,Body and Mind Inc,,
+17778,MTL.P,Mechel PAO ,,
+17779,POND.V,Pond Technologies Holdings Inc.,,
+17780,MINE.CA,Inomin Mines Inc,,
+17781,BCFN.CA,Blockchain Foundry Inc,,
+17782,ATNP,Atlantis Technology Group,,
+17783,WOGI,World Oil Group,,
+17784,SSOF,Sixty Six Oilfield Services,,
+17785,REFXF,RedFlow Ltd,,
+17786,WGLD,Western Gold Exploration Ltd,,
+17787,IDKFF,ThreeD Capital Inc,,
+17788,FKWL,Franklin Wireless Corporation,,
+17789,MAGP,Magplane Techn,,
+17790,BLILF,Bearing Lithium Corp,,
+17791,NSP.CA,Naturally Splendid Enterprises Ltd,,
+17792,DBMM,Digital Brand Media & Marketing Grp Inc,,
+17793,MSSTF,Mindset Pharma Inc,,
+17794,PREM,Premier African Minerals Ltd,,
+17795,ELRA,Elray Resources Inc,,
+17796,ITHUF,iAnthus Capital Holdings Inc,,
+17797,GVDI,Golden Valley Development Inc,,
+17798,BITEU,Bite Acquisition Corp,,
+17799,PTALF,Petrotal Corp,,
+17800,SPMI,Speedemissions Inc,,
+17801,KBEVF,Koios Beverage Corp,,
+17802,INAR,InternetArray Inc,,
+17803,AQARF,Aquila Resources Inc,,
+17804,PRDL,Profitable Developments Inc,,
+17805,BNVIF,Binovi Technologies Corp,,
+17806,VINO,Gaucho Group Holdings Inc,,
+17807,TERN,Terns Pharmaceuticals Inc,,
+17808,NEXI,Neximmune Inc,,
+17809,VOR,Vor Biopharma Inc,,
+17810,DBTX,Decibel Therapeutics Inc,,
+17811,GBBLF,Global Energy Ventures Ltd,,
+17812,BTHE,Boston Therapeutics Inc,,
+17813,BMCS,BioTech Medics Inc,,
+17814,RMRK,Rimrock Gold Corp,,
+17815,ALRT,ALR Technologies Inc,,
+17816,STVGF,Stevens Gold Nevada Inc,,
+17817,FIEIF,Otso Gold Corp,,
+17818,MRAAY,Murata Manufacturing ADR,,
+17819,CHIF,China Food and Beverage Company,,
+17820,BOMH,Boomer Holdings Inc,,
+17821,NLBS,Nutralife Biosciences Inc,,
+17822,VRPX,Virpax Pharmaceuticals Inc,,
+17823,CRSM,Carsmartt Inc,,
+17824,TVTX,Travere Therapeutics Inc,,
+17825,VRA.X,Verasity,,
+17826,GPHBF,Graphene 3D Lab Inc(British Columbia),,
+17827,UBMRF,Urbanimmersive Inc,,
+17828,LYSDY,Lynas Rare Earths ADR,,
+17829,WIZP,Wize Pharma Inc,,
+17830,IHL,Incannex Healthcare Ltd,,
+17831,EAWD,Energy & Water Development Corp,,
+17832,BNXAF,Banxa Holdings Inc,,
+17833,IBGR,Nexus Energy Services Inc,,
+17834,DTSL,Delivery Technology Solutions,,
+17835,PMBY,POSTD Merchant Banque,,
+17836,HODL.CA,Cypherpunk Holdings Inc. ,,
+17837,NERD.CA,Nerds On Site Inc,,
+17838,MNO.CA,Meridian Mining,,
+17839,TEKCF,Tekcapital PLC,,
+17840,MJNE,MJ Holdings Inc,,
+17841,PTAH,PTA Holdings,,
+17842,BHNGF,Bhang Inc,,
+17843,PIHN,Polaris International Holdings,,
+17844,ULTHF,United Lithium Corp,,
+17845,MAPT,Maptelligent Inc,,
+17846,GCEH,"Global Clean Energy Holdings, Inc.",,
+17847,UAMM,UA Multimedia Inc,,
+17848,GYST,Graystone Co Inc - Ordinary Shares - Class A,,
+17849,XNNHQ,"Xenonics Holdings, Inc.",,
+17850,LPEN.CA,Loop Energy,,
+17851,GLFH,Galenfeha Inc,,
+17852,COPHF,Creso Pharma Limited,,
+17853,SLAMU,Slam Corp - Units (1 Ord Share Class A & 1/4 War),,
+17854,HFBG,Hall of Fame Beverages Inc,,
+17855,IFXY,Infrax Systems Inc,,
+17856,TTTSF,TruTrace Technologies Inc,,
+17857,VACQ,Vector Acquisition Corp - Ordinary Shares - Class A,,
+17858,BSPE,Bespoke Capital Acquisition Corp,,
+17859,COVAU,COVA Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17860,MSSV,Meso Numismatics ,,
+17861,VPOR,Vapor Group Inc,,
+17862,RAAC,Revolution Acceleration Acquisition Corp,,
+17863,PTOTF,Patriot One Technologies Inc,,
+17864,SNNC,Sibannac Inc,,
+17865,GETH,Green EnviroTech Holdings Corp,,
+17866,CERAF,Ceres Acquisition Corp,,
+17867,QEBR,"Virtual Medical International, Inc",,
+17868,MCIC,Multicorp International,,
+17869,NVOS,"Novo Integrated Sciences, Inc.",,
+17870,TMGEF,Thermal Energy International Inc.,,
+17871,MGLG,Magellan Energy Ltd,,
+17872,FOYJ,Foy Johnston,,
+17873,ACII.U,Atlas Crest Investment Corp I,,
+17874,ADEX.U,Adit EdTech Acquisition Corp. Units,,
+17875,AEACU,Authentic Equity Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17876,KURIU,Alkuri Global Acquisition Corp.,,
+17877,ASAXU,Astrea Acquisition Corp - Units (1 Ord & 1/2 War),,
+17878,ATMR.U,Altimar Acquisition Corp II,,
+17879,BCACU,Brookline Capital Acquisition Corp - Units (1 Ord Share & 1/2 War),,
+17880,BCYPU,Big Cypress Acquisition Corp - Unit (1 Ordinary share & 1/2 Wrt),,
+17881,BIOTU,Biotech Acquisition Co - Units (1 Ord Class A & 1/2 War),,
+17882,BLTSU,Bright Lights Acquisition Corp - Units (1 Ord Share Class A & 1/2 War),,
+17883,CAHCU,CA Healthcare Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17884,CAP.U,Capitol Investment Corp.,,
+17885,CENHU,Centricus Acquisition Corp - Units (1 Ord Class A & 1/4 War),,
+17886,CFFVU,CF Acquisition Corp V - Units (1 Ord Share Class A & 1/3 War),,
+17887,CLAS.U,Colonnade Acquisition Corp,,
+17888,CLIM.U,Climate Real Impact Solutions II Acquisition Corp - Units (1 Ord Share Class A & 1/5 War),,
+17889,CSTA.U,Constellation Acquisition Corp I - Units (1 Ord Share Class A & 1/3 War),,
+17890,DHHCU,DiamondHead Holdings Corp - Units (1 Ord Share Class A & 1/4 War),,
+17891,DNZ/U,D and Z Media Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+17892,EACPU,Edify Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17893,EDTXU,EdtechX Holdings Acquisition Corp II - Units (1 Ord Class A & 1/2 War),,
+17894,EPWR.\U,Empowerment & Inclusion Capital I Corp - Units (1 Ord Class A & 1/2 War),,
+17895,EPWR.U,Empowerment & Inclusion Capital I Corp - Units (1 Ord Class A & 1/2 War),,
+17896,EQHA.U,EQ Health Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17897,EUCRU,Eucrates Biomedical Acquisition Corp - Units (1 Ord & 1/3 War),,
+17898,EUSGU,European Sustainable Growth Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17899,FCAX.U,Fortress Capital Acquisition Corp - Units (1 Ord Class A & 1/5 War),,
+17900,FINMU,Marlin Technology Corp - Units (1 Ord Share Class A & 1/3 War),,
+17901,FOXWU,FoxWayne Enterprises Acquisition Corp - Units (1 Ord Class A & 1 War),,
+17902,FWAA,Fifth Wall Acquisition Corp I - Ordinary Shares - Class A,,
+17903,GCACU,Growth Capital Acquisition Corp - Units (1 Ord Share Class A & 1/2 War),,
+17904,GHACU,Gaming & Hospitality Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+17905,GPACU,"Global Partner Acquisition Corp II - Units (1 Ord Class A, 1/6 War & 1 CVR )",,
+17906,GSAQU,Global Synergy Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17907,GSQD.\U,G Squared Ascend I Inc - Units (1 Ord Share Class A & 1/5 War),,
+17908,GSQD.U,G Squared Ascend I Inc - Units (1 Ord Share Class A & 1/5 War),,
+17909,HCAQ,HealthCor Catalio Acquisition Corp - Ordinary Shares - Class A,,
+17910,HCCCU,Healthcare Capital Corp - Units (1 Ord Class A & 1/2 War),,
+17911,HCIIU,Hudson Executive Investment Corp II - Units (1 Ord Class A & 1/4 War),,
+17912,HHLA.U,HH&L Acquisition Co - Units (1 Ord Class A & 1/2 War),,
+17913,HLAHU,Hamilton Lane Alliance Holdings I Inc - Units (1 Ord Class A & 1/3 War),,
+17914,IGNYU,Ignyte Acquisition Corp - Units (1 Ord & 1/2 War),,
+17915,ITHXU,ITHAX Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17916,ITQRU,Itiquira Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17917,JOFFU,Joff Fintech Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+17918,JWSM.U,Jaws Mustang Acquisition Corporation - Units (1 Ord Share Class A & 1/4 War),,
+17919,KLAQU,KL Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+17920,KRNLU,Kernel Group Holdings Inc - Units (1 Ord Class A & 1/2 War),,
+17921,LHC.U,Leo Holdings Corp II - Units (1 Ord Share Class A & 1/4 War),,
+17922,LJAQU,Lightjump Acquisition Corp - Units (1 Ord & 1/2 War),,
+17923,LWACU,Locust Walk Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+17924,MCADU,Mountain Crest Acquisition Corp II - Units (1 Ord Share & 1 Right ),,
+17925,MDH.U,MDH Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17926,MIT.U,Mason Industrial Technology Inc - Units (1 Ord Share Class A & 1/3 War),,
+17927,MONCU,Monument Circle Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17928,NAACU,North Atlantic Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+17929,NRACU,Noble Rock Acquisition Corp - Units (1 Ord Class A & 1/3 War),,
+17930,NSTB.U,Northern Star Investment Corp II - Units (1 Ord Share Class A & 1/5 War),,
+17931,NXU.U,Novus Capital Corp II - Units (1 Ord Share Class A & 1/3 War),,
+17932,OCAXU,OCA Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17933,OMEG,Omega Alpha SPAC - Ordinary Shares - Class A,,
+17934,OSTRU,Oyster Enterprises Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17935,POWRU,Powered Brands - Units (1 Ord Share Class A & 1/3 War),,
+17936,PRPC.U,CC Neuberger Principal Holdings III - Units (1 Ord Share Class A & 1/5 War),,
+17937,PV.U,Primavera Capital Acquisition Corporation - Units (1 Ord Class A & 1/2 War),,
+17938,QFTA.U,Quantum Fintech Acquisition Corp - Unit (1 Ordinary share & 1 Wrt),,
+17939,RMGCU,RMG Acquisition Corp III - Units (1 Ord Share Class A & 1/5 War),,
+17940,ROT.U,Rotor Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17941,SHACU,SCP & CO Healthcare Acquisition Co - Units (1 Ord Class A & 1/2 War),,
+17942,SSAAU,Science Strategic Acquisition Corp Alpha - Units (1 Ord Share Class A & 1/3 War),,
+17943,THMAU,Thimble Point Acquisition Corp - Units (1 Ord Class A & 1/3 War),,
+17944,TLGA.U,TLG Acquisition One Corp - Units (1 Ord Share Class A & 1/3 War),,
+17945,TMAC.U,Music Acquisition Corporation - Units (1 Ord Class A & 1/2 War),,
+17946,TMKRU,Tastemaker Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17947,TZPSU,TZP Strategies Acquisition Corp - Units (1 Ord Class A & 1/3 War),,
+17948,VCKAU,Vickers Vantage Corp I - Units (1 Ord & 1/2 War),,
+17949,VOSOU,Virtuoso Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17950,CCVI.U,Churchill Capital Corp VI - Units (1 Ord Share Class A & 1/5 War),,
+17951,RCLFU,Rosecliff Acquisition Corp I - Units (1 Ord Share Class A & 1/3 War),,
+17952,TCACU,Tuatara Capital Acquisition Corp - Units (1 Ord Share Class A & 1/2 War),,
+17953,TSIBU,Tishman Speyer Innovation Corp II - Units (1 Ord Share Class A & 1/5 War),,
+17954,BITE.U,Bite Acquisition Corp - Units (1 Ord & 1/2 War),,
+17955,LGACU,Lazard Growth Acquisition Corp I - Units (1 Ord Class A & 1/5 War),,
+17956,APGB.U,Apollo Strategic Growth Capital II - Units (1 Ord Share Class A & 1/5 War),,
+17957,PICC.U,Pivotal Investment Corp III - Units (1 Ord Share Class A & 1/5 War),,
+17958,FOREU,Foresight Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+17959,CPTK.U,Crown PropTech Acquisitions - Units (1 Ord Share Class A & 1/3 War),,
+17960,PMGMU,Priveterra Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+17961,PGRWU,Progress Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17962,EVOJU,Evo Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17963,ADRA.U,Adara Acquisition Corp - Units (1Ord Class A & 0.5 Warr),,
+17964,VENAU,"Venus Acquisition Corp - Units (1 Ord ,1 Right & 1 War)",,
+17965,SCOBU,ScION Tech Growth II - Units (1 Ord Share Class A & 1/3 War),,
+17966,TWNI.U,Tailwind International Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+17967,ASPCU,Alpha Capital Acquisition Co - Units (1 Ord Class A & 1/2 War),,
+17968,FACA.U,Figure Acquisition Corp I - Units (1 Ord Class A & 1/4 War),,
+17969,KAIIU,Kismet Acquisition Two Corp - Units (1 Ord Share Class A & 1/3 War),,
+17970,KIIIU,Kismet Acquisition Three Corp - Units (1 Ord Share Class A & 1/3 War),,
+17971,CHAA.U,Catcha Investment Corp - Units (1 Ord Share Class A & 1/3 War),,
+17972,SPTKU,SportsTek Acquisition Corp - Units (1 Ord Class A & 1/2 War),,
+17973,MACAU,Moringa Acquisition Corp - Units (1 Ord Share Class A & 1/2 War),,
+17974,ABGI,ABG Acquisition Corp I - Ordinary Shares - Class A,,
+17975,PFDRU,Pathfinder Acquisition Corp - Units (1 Ord Share Class A & 1/5 War),,
+17976,MSACU,"Medicus Sciences Acquisition Corp - Units (1 Ord Share Class A, 1/9 War & 1CVR )",,
+17977,AUS.U,Austerlitz Acquisition Corp I - Units (1 Ord Share Class A & 1/4 War),,
+17978,AGAC.U,African Gold Acquisition Corp - Units (1 Ord Class A & 3/4 War),,
+17979,BOAS.U,BOA Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+17980,GLBLU,Cartesian Growth Corp - Units (1 Ord Share Class A & 1/3 War),,
+17981,FLME.U,Flame Acquisition Corp - Units (1 Ord Share Class A & 1/2 War),,
+17982,EJFAU,EJF Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+17983,ANAC.U,Arctos NorthStar Acquisition Corp - Units (1 Ord Share Class A & 1/4 War),,
+17984,ISLEU,Isleworth Healthcare Acquisition Corp - Unit (1 Ordinary share & 1/2 Wrt),,
+17985,WARR.U,Warrior Technologies Acquisition Co - Units (1 Ord Class A & 1/2 War),,
+17986,SBEAU,SilverBox Engaged Merger Corp I - Units (1 Ord Share Class A & 1/3 War),,
+17987,FACT.U,Freedom Acquisition I Corp - Units (1 Ord Share Class A & 1/4 War),,
+17988,IBER.U,Ibere Pharmaceuticals - Units (1 Ord Class A & 1/2 War),,
+17989,VELOU,Velocity Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+17990,HUGS.U,USHG Acquisition Corp - Units (1 Ord Share Class A & 1/3 War),,
+17991,COLIU,Colicity Inc - Units (1 Ord Share Class A & 1/5 War),,
+17992,FSNB.U,Fusion Acquisition Corp II - Units (1 Ord Share Class A & 1/3 War),,
+17993,LIII.U,Leo Holdings III Corp - Units (1 Ord Share Class A & 1/5 War),,
+17994,KCAC.U,Kensington Capital Acquisition Corp II - Units (1 Ord Class A & 1/4 War),,
+17995,ARYD,Arya Sciences Acquisition Corp IV - Ordinary Shares - Class A,,
+17996,HIIIU,Hudson Executive Investment Corp III - Units (1 Ord Share Class A & 1/5 War),,
+17997,IACB.U,ION Acquisition Corp 2 Ltd - Units (1 Ord Share Class A & 1/8 War),,
+17998,CMIIU,CM Life Sciences II Inc - Units (1 Ord Share Class A & 1/5 War),,
+17999,FTAAU,FTAC Athena Acquisition Corp - Units (1 Ord Class A & 1/4 War),,
+18000,GSEVU,Gores Holdings VII Inc - Units (1 Ord Share Class A & 1/8 War),,
+18001,GIIXU,Gores Holdings VIII Inc - Units (1 Ord Share Class A & 1/8 War),,
+18002,FSRXU,FinServ Acquisition Corp II - Units (1 Ord Share Class A & 1/4 War),,
+18003,CGLD,Buscar Co,,
+18004,HAPBF,Hapbee Technologies Inc,,
+18005,DKL,Delek Logistics Partners,,
+18006,NIOBF,NioCorp Developments Ltd,,
+18007,NPHC,Nutra Pharma Corp.,,
+18008,CUEN,Cuentas Inc,,
+18009,HNHPF,"Hon Hai Precision Industry Co., Ltd.-ADR",,
+18010,GALXF,Galaxy Resources Limited,,
+18011,IBRC,iBrands Corp,,
+18012,BRM.V,Biorem Inc,,
+18013,HERTF,Heritage Cannabis Holdings Corp,,
+18014,BTCC.CA,Purpose Bitcoin CAD ETF,,
+18015,QPRC,Quest Patent Research Corp,,
+18016,CKB.X,Nervos Network,,
+18017,AMNE,American Green Group,,
+18018,RSPI,Respirerx Pharmaceuticals Inc,,
+18019,PSRU,Valiant Eagle Inc,,
+18020,IMUN,Immune Therapeutics Inc,,
+18021,MBYMF,Mountain Boy Minerals Ltd,,
+18022,YSSCF,YSS Corp,,
+18023,KALTF,Kalytera Therapeutics Inc,,
+18024,CHNO,Chill N Out Cryotherapy Inc,,
+18025,CVAT,"Cavitation Technologies, Inc.",,
+18026,LBUY,Leafbuyer Technologies Inc,,
+18027,LVCLF,Living Cell Technologies Ltd.,,
+18028,LAAB,Startech Labs Inc,,
+18029,BCTX,Briacell Therapeutics Corp,,
+18030,MLNLF,Millennial Lithium Corp,,
+18031,KKUR,Chromocure,,
+18032,SAY.V,Sparta Capital Ltd,,
+18033,CRS.CA,Crestview Exploration Inc,,
+18034,CBX.L,Cellular Goods PLC,,
+18035,OSCR,Oscar Health Inc - Ordinary Shares - Class A,,
+18036,BKTPF,Cruz Cobalt Corp,,
+18037,FTCV,FinTech Acquisition Corp V - Ordinary Shares - Class A,,
+18038,TOOD,Thermwood Corporation,,
+18039,LPS.V,Legend Power Systems Inc,,
+18040,FRFR,Fritzy Tech Inc,,
+18041,ILST,International Star Inc,,
+18042,SRU.UN,SmartCentres Real Estate Investment Trst,,
+18043,SGMLF,Sigma Lithium Resources Corp,,
+18044,APR,Apria Inc,,
+18045,NMDBF,NeonMind Biosciences Inc,,
+18046,CLSH,CLS Holdings USA Inc,,
+18047,ALDS,APPlife Digital Solutions Inc,,
+18048,VLON,Vallon Pharmaceuticals Inc,,
+18049,RPMT,Rego Payment Architectures Inc,,
+18050,IMMB,"Immunotech Laboratories, Inc.",,
+18051,FSK,FS KKR Capital Corp,,
+18052,EBC,Eastern Bankshares Inc,,
+18053,GHAV,Grand Havana Inc,,
+18054,SMKG,Smart Card Marketing Systems Inc,,
+18055,SPYR,SPYR Inc,,
+18056,EWRC,eWorld Companies,,
+18057,PRKI,Perk International Inc,,
+18058,NTSFF,Nanotech Security Corp,,
+18059,NMHLY,NMC HEALTH ADR,,
+18060,SPDR.CA,Spyder Cannabis Inc,,
+18061,BFC,Bank First Corp,,
+18062,XRTXF,XORTX Therapeutics Inc,,
+18063,LVBX,Levelblox Inc,,
+18064,ECMH,Encompass Holdings Inc.,,
+18065,UVIX,2x Long VIX Futures,,
+18066,SVIX,1x Short VIX Futures ETF,,
+18067,HOGE.X,Hoge Finance,,
+18068,YEWTF,Environmental Waste International Inc.,,
+18069,TRTL.X,TurtleCoin,,
+18070,LHAA,Lerer Hippeau Acquisition Corp - Ordinary Shares - Class A,,
+18071,KVSA,Khosla Ventures Acquisition Co - Ordinary Shares - Class A,,
+18072,KOAN,Resonate Blends Inc,,
+18073,NNUP,"Nocopi Technologies, Inc.",,
+18074,DBRM,"Daybreak Oil & Gas, Inc.",,
+18075,LIGA,LIG Assets,,
+18076,UCPA,United Communications Partners Inc,,
+18077,DCAC,Daniels Corporate Advisory Co Inc,,
+18078,EXMGF,Excelsior Mining Corp.,,
+18079,CXOXF,Core Lithium Ltd,,
+18080,EVARF,Lombard Medical Inc,,
+18081,CINGF,Coinsilium Group Ltd,,
+18082,MNFSF,ManifestSeven Holdings Corp,,
+18083,CYLC,County Line Energy ,,
+18084,VCYE,Velocity Energy Inc,,
+18085,MVES,The Movie Studio Inc,,
+18086,RAFA,Rafarma Pharmaceuticals Inc,,
+18087,FLOW.X,FLOW,,
+18088,GALA.X,Gala Games,,
+18089,NEON.CA,NeonMind Biosciences Inc,,
+18090,CLO.X,Callisto,,
+18091,FORA,Forian Inc,,
+18092,ICOTF,iCo Therapeutics Inc,,
+18093,DELCF,Delic Holdings Inc,,
+18094,IAIC,Information Analysis Incorporated,,
+18095,PUCCF,Pancontinental Resources Corporation,,
+18096,SHG.CA,Skylight Health Group Inc,,
+18097,MDRM,Modern Mobility Aids Inc,,
+18098,AKT.X,Akash Network,,
+18099,PLGNF,Playgon Games Inc,,
+18100,ARSMF,Ares Strategic Mining Inc,,
+18101,IMJX,ImageXpres Corp,,
+18102,LHDX,Lucira Health Inc,,
+18103,SMTI,Sanara MedTech Inc,,
+18104,CCTC,Clean Coal Technologies Inc,,
+18105,PVNNF,PV Nano Cell Ltd,,
+18106,JNHMF,Jack Nathan Medical Corp,,
+18107,MODC,Modern Technology,,
+18108,DNRRW,Denbury Inc.,,
+18109,CRYO,American Cryostem Corp,,
+18110,MTNX,"MeltroniX, Inc.",,
+18111,AVNT,Avient Corp,,
+18112,PDGO,Paradigm Oil and Gas Inc,,
+18113,DMEHF,Desert Mountain Energy Corp,,

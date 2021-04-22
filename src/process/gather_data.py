@@ -1,4 +1,5 @@
-"""Gather features chosen for our model into a final dataset.
+#!/usr/bin/env python3
+"""Gather features chosen for our model into a final dataset
 
 The final dataset is stored at "data/02_processed/final_dataset.csv".
 """

@@ -16,6 +16,9 @@ ENV/
 # PyCharm project settings
 /.idea/
 
+# VSCode project settings
+/.vscode/
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt

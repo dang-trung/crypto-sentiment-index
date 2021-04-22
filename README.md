@@ -77,7 +77,10 @@
 `$ conda env create -f environment.yml`  
 `$ conda activate crypto-sentiment-index`  
 3. In terminal:  
-`$ python -m crypto-sentiment-index`  
+- Get data from StockTwits and Reddit: `$ python -m src.data`  
+- Process data:  `$ python -m src.process`  
+- Visualize: `$ python -m src.visualize`
+- Create models: `$ python -m src.model`
 
 ### Project Structure
 ```

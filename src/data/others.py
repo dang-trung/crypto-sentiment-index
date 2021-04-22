@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Get dataseries of other features.
+"""Getting Dataseries of Other Features
 
 This module defines the functions that download the dataseries of: crypto
 daily (global, market-aggregated) trading volume, Google Trends, Financial

@@ -1,6 +1,7 @@
-"""PCA-VAR Model.
+#!/usr/bin/env python3
+"""PCA-VAR Model
 
-Extract the first principal component of 9 sentiment indicators
+Extract the first principal component of 9 sentiment indicators.
 """
 import pandas as pd
 from sklearn.decomposition import PCA

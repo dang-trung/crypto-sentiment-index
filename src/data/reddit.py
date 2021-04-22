@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Get Reddit Comments & Submissions.
+"""Get Reddit Comments & Submissions
 
 This module defines functions that download Reddit comments and submissions
 using Pushshift.io API.
@@ -68,16 +68,16 @@ def get_submissions(subreddit, start_unix, end_unix, file_name):
     api_calls = 0
     while True:
         try:
-            full_params = (f"{fixed_params}"
-                           f"subreddit={subreddit}&"
-                           f"after={start_unix}"
+            full_params = (f'{fixed_params}'
+                           f'subreddit={subreddit}&'
+                           f'after={start_unix}'
                            )
             response = requests.get(url=base_url + full_params)
         except HTTPError as http_err:
-            print(f"HTTP error occurred: {http_err}")
+            print(f'HTTP error occurred: {http_err}')
             response = None
         except Exception as err:
-            print(f"Other error occurred: {err}")
+            print(f'Other error occurred: {err}')
             response = None
 
         if response is not None:
@@ -136,9 +136,9 @@ def get_comments(subreddit, start_unix, end_unix, file_name):
     fields = ['id', 'created_utc', 'content', 'author']
 
     fixed_params = (
-        f"size=500&"
-        f"before={end_unix}&"
-        f"fields=author,id,created_utc,body,subreddit&"
+        f'size=500&'
+        f'before={end_unix}&'
+        f'fields=author,id,created_utc,body,subreddit&'
     )
 
     file = open(file_name, 'a', newline='', encoding='utf-8')
@@ -164,16 +164,16 @@ def get_comments(subreddit, start_unix, end_unix, file_name):
     api_calls = 0
     while True:
         try:
-            full_params = (f"{fixed_params}"
-                           f"subreddit={subreddit}&"
-                           f"after={start_unix}"
+            full_params = (f'{fixed_params}'
+                           f'subreddit={subreddit}&'
+                           f'after={start_unix}'
                            )
             response = requests.get(url=base_url + full_params)
         except HTTPError as http_err:
-            print(f"HTTP error occurred: {http_err}")
+            print(f'HTTP error occurred: {http_err}')
             response = None
         except Exception as err:
-            print(f"Other error occurred: {err}")
+            print(f'Other error occurred: {err}')
             response = None
 
         if response is not None:

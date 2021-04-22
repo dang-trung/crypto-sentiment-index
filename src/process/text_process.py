@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Clean text messages.
 
 This module defines the function to clean text messages so that only
