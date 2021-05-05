@@ -25,7 +25,7 @@
 * **Status**: Completed
 
 ### Methods Used
-* Sentiment Analysis (Utilizing a crypto-specific lexicon created by [Chen et al, 2019](dx.doi.org/10.2139/ssrn.3398423))
+* Sentiment Analysis (Utilizing a crypto-specific lexicon created by [Chen et al, 2019](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3398423))
 * Principal Component Analysis
 * Vector Autoregression Models
 
