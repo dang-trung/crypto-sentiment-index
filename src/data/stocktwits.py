@@ -109,8 +109,8 @@ def get_tweets(symbol, start, end, file_name):
                 stocktwit_url = (
                     f"{base_url}{symbol}.json?{access_token[token]}max="
                     f"{str(last_message_id)}")
-            token = (token + 1) % (len(access_token))
-            continue
+            	token = (token + 1) % (len(access_token))
+            	continue
 
             reach_start_date = False
             api_hits += 1
